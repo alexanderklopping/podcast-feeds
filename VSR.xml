@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VSR - Podcast Artikelen</title>
+    <link>https://alexanderklopping.github.io/podcast-feeds/VSR.xml</link>
     <description>Artikelen gegenereerd van VSR podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Wed, 14 Jan 2026 13:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:21:00 +0000</lastBuildDate>
+    <atom:link href="https://alexanderklopping.github.io/podcast-feeds/VSR.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>De Kunst van het Gezien Worden</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/VSR.xml#2026-01-13_Waarom is performative reading zo irritant_</link>
       <description>In de koffiebars van Amsterdam speelt zich dagelijks een subtiel theater af. Mannen met dikke boeken, zorgvuldig gepositioneerd op tafeltjes bij het raam. Hun lichaamstaal verraadt een vreemde spanning—te bewust, te actief voor iemand die werkelijk verzonken is in Tolstoj of Camus. Ze lezen niet ...</description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-01-13_Waarom is performative reading zo irritant_</guid>
@@ -50,6 +53,7 @@
     </item>
     <item>
       <title>De Biceptest</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/VSR.xml#2026-01-13_Wat als je partner ineens héél fit wordt_</link>
       <description>Het is eind december, en overal in Nederland bereiden mensen zich voor op het jaarlijkse ritueel van goede voornemens. Sportscholen adverteren met januari-acties, personal trainers posten motiverende quotes op social media, en in huiskamers worden plannen gesmeed om eindelijk die gezonde levensst...</description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-01-13_Wat als je partner ineens héél fit wordt_</guid>
@@ -115,6 +119,7 @@
     </item>
     <item>
       <title>Van vuurwerk-YouTube tot bedrijfspianisten: waarom sociale media ons voor het eerst écht dommer maken</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/VSR.xml#2026-01-12_Kinderfeestje met vuurwerk_ de AFAS-hel en we worden dommer</link>
       <description>Het begon allemaal bij een kinderverjaardagsfeest in een bowlingcentrum. Perre van der Brink ontdekte tot zijn schrik dat de helft van de cadeautjes voor zijn zoontje bestond uit vuurwerk. "Allemaal van die soort pakketten," vertelt hij. "En dit is een ding onder ouders. Wordt dat dan van tevoren...</description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-01-12_Kinderfeestje met vuurwerk_ de AFAS-hel en we worden dommer</guid>
@@ -144,6 +149,7 @@
     </item>
     <item>
       <title>Van Conservatieve Zuilen tot Cash Geld: Hoe Wierd Duk een Nieuwe Beweging Wil Starten</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/VSR.xml#2026-01-12_Het cokegesprek van Wierd Duk en waarom werd Rob Jetten ontvolgd door zijn vriend_</link>
       <description>Wierd Duk, de bekende journalist van De Telegraaf, heeft aangekondigd zijn eigen "conservatieve zuil" te willen oprichten. Voor Doortje voelde dit aan als "een soort landing in een nieuw tijdperk". De timing is niet toevallig - Duk gaat binnenkort met pensioen bij De Telegraaf en lijkt zijn relev...</description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-01-12_Het cokegesprek van Wierd Duk en waarom werd Rob Jetten ontvolgd door zijn vriend_</guid>
@@ -173,6 +179,7 @@
     </item>
     <item>
       <title>"De 2016-trend is de ultieme humblebrag": Wanneer nostalgie vooral ijdelheid is</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/VSR.xml#2026-01-12_De 2016-trend is de ultieme humblebrag</link>
       <description>Het kon je niet ontgaan: afgelopen vrijdag stond Instagram vol met nostalgische terugblikken op 2016. Terwijl iedereen massaal foto's van tien jaar geleden deelde, keken podcastmakers Doortje Smithuizen en Perre van der Brink vanaf de zijlijn toe - en vroegen zich af waarom deze trend zo wijdvers...</description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-01-12_De 2016-trend is de ultieme humblebrag</guid>
@@ -203,6 +210,7 @@
     </item>
     <item>
       <title>De leegheid van luxe: Hoe Hotel Rosewood Amsterdam authentieke cultuur probeert te kapen</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/VSR.xml#2026-01-12_De leegheid van luxe bij hotel Rosewood</link>
       <description>Het stuk dat afgelopen week de meeste stof deed opwaaien in de media, was zonder twijfel Hiske Versprilles verslag van haar verblijf in Hotel Rosewood Amsterdam. De Volkskrant-restaurantrecensent betaalde uit eigen zak 1100 euro voor een kamer om, geïnspireerd door David Foster Wallace, de leegte...</description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-01-12_De leegheid van luxe bij hotel Rosewood</guid>
@@ -237,6 +245,7 @@
     </item>
     <item>
       <title>"Ben je nog veilig in de groepschat?" - Waarom 2025 het jaar van de gelekte appgroepen werd</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/VSR.xml#2026-01-12_2025 was het jaar van de groepschat_ maar ben je er nog veilig_</link>
       <description>2025 was onmiskenbaar het jaar waarin de groepschat niet langer privé bleek te zijn. Van de Atlantic journalist die per ongeluk undercover ging in de Signal-groep van het Witte Huis, tot rellen in Beverwijk die ontstonden door groepsapps, tot Hans Wijers die door gelekte berichten in appgroepen p...</description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-01-12_2025 was het jaar van de groepschat_ maar ben je er nog veilig_</guid>
@@ -272,6 +281,7 @@
     </item>
     <item>
       <title>Als je partner ineens héél fit wordt: "Ik ben nu verantwoordelijk voor die hele fles wijn"</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/VSR.xml#2026-01-12_Wat als je partner ineens héél fit wordt_</link>
       <description>Het nieuwe jaar is begonnen en de sportscholen lopen weer vol met mensen met goede voornemens. Maar wat gebeurt er eigenlijk in een relatie als de ene partner ineens volledig opgaat in een fitnesstraject, terwijl de ander daar helemaal geen behoefte aan heeft? In de podcast Voorheen Schaamteloos ...</description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-01-12_Wat als je partner ineens héél fit wordt_</guid>
@@ -299,6 +309,7 @@
     </item>
     <item>
       <title>"We gingen meters van de grond af, toen trok hij weer op": Doortje's helse vlucht en de opkomst van air rage</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/VSR.xml#2026-01-12_Air rage en Doortjes bijna-doodervaring in het vliegtuig</link>
       <description>Wat begon als een gewone vakantievlucht naar Marokko op 2 januari, werd voor podcastmaker Doortje Smithuizen een ware hel in de lucht. Haar vlucht met een niet nader genoemde prijsvechter liep dramatisch uit de hand.</description>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-01-12_Air rage en Doortjes bijna-doodervaring in het vliegtuig</guid>

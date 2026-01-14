@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dwarkesh - Podcast Artikelen</title>
+    <link>https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml</link>
     <description>Artikelen gegenereerd van Dwarkesh podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Wed, 14 Jan 2026 13:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 14:21:00 +0000</lastBuildDate>
+    <atom:link href="https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>De Illusie van de Intelligentie-explosie</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml#2026-01-13_Dwarkesh_An audio version of my blog post_ Thoughts on AI progress _Dec 2025_</link>
       <description>In de wereld van kunstmatige intelligentie botsen twee wereldbeelden hard op elkaar. Aan de ene kant staan de korte-termijn optimisten die beweren dat we binnen enkele jaren een intelligentie-explosie zullen meemaken. Aan de andere kant bevinden zich de sceptici die wijzen op de hardnekkige kloof...</description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-01-13_Dwarkesh_An audio version of my blog post_ Thoughts on AI progress _Dec 2025_</guid>
@@ -72,6 +75,7 @@
     </item>
     <item>
       <title>Het Verloren Geheim van de Hersenen</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml#2026-01-13_Dwarkesh_Adam Marblestone _ AI is missing something fundamental about the brain</link>
       <description>Adam Marblestone zat in zijn kantoor bij Convergent Research toen het kwartje viel. Na jaren van onderzoek naar hersenwetenschap, van Google DeepMind tot quantum computing, had hij eindelijk een theorie die alles bij elkaar bracht. Het ging niet om de architectuur van de hersenen—dat hadden AI-on...</description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-01-13_Dwarkesh_Adam Marblestone _ AI is missing something fundamental about the brain</guid>
