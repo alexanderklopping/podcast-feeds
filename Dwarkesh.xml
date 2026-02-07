@@ -5,8 +5,48 @@
     <link>https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml</link>
     <description>Artikelen gegenereerd van Dwarkesh podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Fri, 06 Feb 2026 08:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 08:22:29 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml" rel="self" type="application/rss+xml"/>
-
+    <item>
+      <title>De Rekening van de Singulariteit</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml#2026-02-07_Dwarkesh_Elon Musk - _In 36 months_ the cheapest place to put AI will be space_</link>
+      <description>Het begint met een simpele vraag over kosten. Waarom zou je datacenters in de ruimte willen bouwen als de GPU's daar het duurste onderdeel zijn, en niet de energie die je bespaart? Musk leunt achterover en glimlacht. "Waar ga je je elektriciteit vandaan halen?"</description>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-02-07_Dwarkesh_Elon Musk - _In 36 months_ the cheapest place to put AI will be space_</guid>
+      <content:encoded><![CDATA[<h1>De Rekening van de Singulariteit</h1>
+<em>Elon Musk zit in een studio in Austin, Texas, een Guinness in de hand, en voorspelt dat binnen 36 maanden de goedkoopste plek om AI te draaien de ruimte zal zijn. Het klinkt als sciencefiction, maar wie Musk kent, weet dat zijn meest absurde voorspellingen vaak de realiteit blijken te zijn.</em>
+<p>Het begint met een simpele vraag over kosten. Waarom zou je datacenters in de ruimte willen bouwen als de GPU's daar het duurste onderdeel zijn, en niet de energie die je bespaart? Musk leunt achterover en glimlacht. "Waar ga je je elektriciteit vandaan halen?"</p>
+<p>Het is een fundamenteel probleem dat de AI-industrie nog niet doorheeft. Buiten China groeit de elektriciteitsproductie nauwelijks, terwijl de output van chips exponentieel stijgt. "Magische energiebronnen? Elektriciteits­feeën?" vraagt Musk droog. De realiteit is dat je chips niet kunt aanzetten zonder stroom, en daar gaat het dramatisch mis.</p>
+<h2>De Hardware-les</h2>
+<p>"Degenen die in softwareland hebben geleefd, staan op het punt een harde les in hardware te krijgen," zegt Musk. "Het is werkelijk zeer moeilijk om energiecentrales te bouwen." En dan heb je het nog niet eens over alle elektrische apparatuur die nodig is – transformatoren, kabels, schakelstations. De nutsector is een traag beest dat door overheidscommissies wordt gecontroleerd, en een interconnect-overeenkomst duurt een jaar voordat ze überhaupt terugkomen met hun studie.</p>
+<p>Voor Colossus, xAI's supercomputer, moest het team wonderen verrichten om een gigawatt aan stroom online te krijgen. Ze moesten turbines samenbundelen, hadden vergunningsproblemen in Tennessee en moesten over de staatsgrens naar Mississippi om een energiecentrale te bouwen. "Het aantal mirakelen dat het xAI-team moest bewerkstelligen was waanzinnig."</p>
+<p>Maar dat is nog niet alles. Voor elke 100.000 GB300 GPU's inclusief netwerkapparatuur, opslag, koeling en een veiligheidsmarge heb je roughly een gigawatt aan productiecapaciteit nodig. "Mensen kijken naar het stroomverbruik van een GB300 en vermenigvuldigen dat met een getal," zegt Musk. "Dat is echt van iemand die nog nooit hardware heeft gedaan."</p>
+<h2>De Escape naar de Ruimte</h2>
+<p>In de ruimte zijn de regels anders. Zonnepanelen presteren vijf keer beter omdat er geen atmosfeer, wolken, seizoenen of dag-nachtcyclus zijn. "Het is altijd zonnig in de ruimte," zegt Musk, bijna als een reclame­slogan. Geen batterijen nodig, geen weersomstandigheden, en de koeling wordt een stuk makkelijker.</p>
+<p>"Mijn voorspelling is dat het binnen 36 maanden, misschien 30 maanden, verreweg de goedkoopste plek zal zijn om AI te plaatsen." Het klinkt buitenaards, letterlijk, maar Musk rekent voor: "Zodra je begint na te denken over welk percentage van de zonkracht je benut, realiseer je je dat je naar de ruimte moet."</p>
+<p>Over vijf jaar, voorspelt hij, zal SpaceX jaarlijks meer AI in de ruimte lanceren dan de gecombineerde totale hoeveelheid op aarde. We praten over honderden gigawatts per jaar, wat neerkomt op ongeveer 10.000 Starship-lanceringen. "Dat is één Starship-lancering per uur," zegt hij alsof het de gewoonste zaak van de wereld is.</p>
+<h2>De Fysica van Overvloed</h2>
+<p>Als je denkt in termen van de Kardashev-schaal – hoeveel van de zonneenergie een beschaving kan benutten – wordt het perspectief ineens heel anders. De aarde ontvangt ongeveer een half miljardste van de energie van de zon. Als je een miljoenste van de zonneenergie zou willen benutten, gaat het om 100.000 keer meer elektriciteit dan alle beschaving op aarde nu gebruikt.</p>
+<p>"Op aarde kun je tot ongeveer een terawatt per jaar komen. Daarna wil je vanaf de maan lanceren. Je wilt een massa-driver op de maan." Musk kan zijn enthousiasme nauwelijks bedwingen als hij hierover praat. "Die massa-driver op de maan, daar kun je waarschijnlijk een petawatt per jaar mee doen."</p>
+<p>Hij ziet het voor zich: AI-satellieten die met 2,5 kilometer per seconde de ruimte in worden geschoten, een miljard of tien miljard ton per jaar. "Dat zou een spektakel zijn om te zien. Gewoon een livestream van – ja, de een na de ander, gewoon AI-satellieten de diepe ruimte in schieten."</p>
+<h2>De Bottleneck-filosofie</h2>
+<p>Wat opvalt in het gesprek met Musk is zijn obsessie met beperkende factoren. "Ik tackle herhaaldelijk de beperkende factor. Wat de beperkende factor ook is voor snelheid, daar ga ik op af." Als kapitaal de beperkende factor is, dan zoekt hij kapitaal. Als het iets anders is, dan dat.</p>
+<p>Voor de komende vier jaar ziet hij chips als de beperkende factor, mits je de ruimte in kunt. Voor het komende jaar is het elektriciteit. "Tegen het einde van dit jaar denk ik dat mensen het punt bereiken waar ze de chips niet kunnen aanzetten voor grote clusters. De chips gaan zich gewoon opstapelen en kunnen niet worden aangezet."</p>
+<p>Het is een race tegen de klok. De chipproductie overtreft binnenkort het vermogen om ze aan te zetten. Daarom bouwt Tesla en SpaceX naar 100 gigawatt aan zonnecelfabricage per jaar. Daarom overweegt Musk een TeraFab – een chipfabriek op een schaal die de wereld nog niet heeft gezien.</p>
+<h2>De Robotrevolutie</h2>
+<p>Terwijl de datacenterrace naar de ruimte gaat, speelt zich op aarde een andere transformatie af. Optimus, Tesla's humanoid robot, vertegenwoordigt wat Musk "de oneindige geld-glitch" noemt. Als je robots hebt die andere robots kunnen maken, krijg je een recursieve multiplicatieve exponentiaal.</p>
+<p>"Je hebt exponentiële toename van digitale intelligentie, exponentiële toename van chipvermogen, en exponentiële toename van elektromechanische behendigheid. De bruikbaarheid van de robot is ongeveer die drie dingen vermenigvuldigd met elkaar."</p>
+<p>De robots zullen beginnen met eenvoudige taken – klantenservice, administratie, alles wat een mens achter een computer kan doen. "Als je mensen kunt emuleren achter een computer, heb je in principe toegang tot triljoenen dollars aan omzet."</p>
+<h2>De Chinese Uitdaging</h2>
+<p>Maar er hangt een schaduw over deze toekomst. China heeft vier keer zoveel mensen als de VS, en volgens Musk ook een hogere arbeidsethos per persoon. "We kunnen niet winnen op het menselijke front. Maar misschien hebben we een kans op het robotfront."</p>
+<p>China domineert al de productie van grondstoffen – ongeveer twee keer zoveel raffinage als de rest van de wereld gecombineerd. Dit jaar zal China's elektriciteitsproductie driemaal die van de VS overstijgen. "Bij gebrek aan baanbrekende innovaties in de VS zal China volledig domineren."</p>
+<p>De oplossing? "Je hebt eigenlijk de humanoid robots nodig om ertsfabrieken te bouwen." De robots worden niet alleen producten, maar de makers van de infrastructuur die Amerika competitief kan houden.</p>
+<h2>De Rekening</h2>
+<p>Uiteindelijk komt alles neer op een simpele rekening. De AI-revolutie vraagt om meer energie dan ooit tevoren, meer chips dan ooit geproduceerd, en meer productiecapaciteit dan ooit opgebouwd. De landen en bedrijven die deze bottlenecks het snelst kunnen oplossen, zullen de toekomst bepalen.</p>
+<p>Musk, met zijn portfolio van bedrijven die elk een stuk van de puzzel oplossen, positioneert zichzelf in het centrum van deze race. SpaceX voor de ruimte-infrastructuur, Tesla voor de robots en energie-opslag, xAI voor de intelligentie, en misschien binnenkort een TeraFab voor de chips.</p>
+<p>"Het is moeilijk maar niet onmogelijk om naar het volgende level te komen," zegt hij. Het klinkt als een videogame, maar de stakes zijn reëel. De winnaar van deze race bepaalt niet alleen wie de meeste AI heeft, maar wie de beschaving naar de sterren brengt.</p>
+<p>De klok tikt. De chips stapelen zich op. De turbines zijn uitverkocht tot 2030. En ergens in Texas zit een man met een Guinness die denkt dat hij het allemaal kan oplossen door datacenters de ruimte in te schieten.</p>
+<p>Misschien is hij gek. Misschien heeft hij gelijk. Maar zoals hij zelf zegt: "Het is beter om te optimistisch te zijn en er naast te zitten, dan pessimistisch te zijn en gelijk te hebben."</p>]]></content:encoded>
+    </item>
   </channel>
 </rss>
