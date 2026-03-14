@@ -5,8 +5,76 @@
     <link>https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml</link>
     <description>Artikelen gegenereerd van Dwarkesh podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Fri, 13 Mar 2026 08:07:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 08:17:52 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml" rel="self" type="application/rss+xml"/>
-
+    <item>
+      <title>De Halfgeleider-bottleneck: Waarom AGI misschien strandt op chips uit Nederland</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml#2026-03-14_Dwarkesh_Dylan Patel _ Deep dive on the 3 big bottlenecks to scaling AI compute</link>
+      <description>Dylan Patel, oprichter van SemiAnalysis, leunt achterover in zijn stoel terwijl hij de cijfers opsomt die de techwereld zou moeten doen beven. "Als je kijkt naar Amazon, Meta, Google en Microsoft samen," zegt hij, "voorspellen we dat ze dit jaar zeshonderd miljard dollar aan capex gaan uitgeven. ...</description>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-14_Dwarkesh_Dylan Patel _ Deep dive on the 3 big bottlenecks to scaling AI compute</guid>
+      <content:encoded><![CDATA[<h1>De Halfgeleider-bottleneck: Waarom AGI misschien strandt op chips uit Nederland</h1>
+<p>Dylan Patel, oprichter van SemiAnalysis, leunt achterover in zijn stoel terwijl hij de cijfers opsomt die de techwereld zou moeten doen beven. "Als je kijkt naar Amazon, Meta, Google en Microsoft samen," zegt hij, "voorspellen we dat ze dit jaar zeshonderd miljard dollar aan capex gaan uitgeven. Dat is genoeg voor vijftig gigawatt aan compute-capaciteit."</p>
+<p>Het is een duizelingwekkend getal. Maar Patel, wiens analyse van de halfgeleiderketen geldt als de gouden standaard in Silicon Valley, weet dat er een probleem schuilt achter deze titanengetallen. Een probleem dat teruggaat tot een onopvallend bedrijf in het Nederlandse Veldhoven, waar de meest gecompliceerde machines ter wereld worden gebouwd—machines zonder welke de AI-revolutie tot stilstand komt.</p>
+<h2>Het grote spel om compute</h2>
+<p>De cijfers zijn adembenemend. OpenAI kondigde onlangs een kapitaalronde van 110 miljard dollar aan. Anthropic haalde 30 miljard op. Samen hebben ze dit jaar toegang tot ongeveer vier gigawatt aan compute-capaciteit—genoeg om een middelgrote stad van stroom te voorzien. Maar waar gaat al dat geld naartoe?</p>
+<p>"Het grappige is," legt Patel uit, "dat een deel van die capex niet dit jaar wordt uitgegeven. Als Google 180 miljard dollar uittrekt, gaat een groot deel daarvan naar turbine-deposito's voor 2028 en 2029, datacenterconstructie voor 2027, en stroomafnamecontracten voor nog verder in de toekomst."</p>
+<p>Het is een schaakveld waar zetten jaren van tevoren worden gepland. En op dit moment wint OpenAI van Anthropic—niet door betere modellen, maar door agressievere compute-inkoop.</p>
+<p>Anthropic zit in de knel. Hun inkomsten exploderen—van vier miljard in januari naar zes miljard in februari—maar ze hebben simpelweg niet genoeg compute om aan de vraag te voldoen. "Dario was heel conservatief," zegt Patel over Anthropic's CEO. "Hij wilde niet failliet gaan als de inkomsten anders zouden verlopen. Maar OpenAI tekende gewoon krankzinnige deals."</p>
+<p>Het resultaat? Anthropic moet nu op het laatste moment compute inkopen van tweedehands leveranciers, tegen prijzen die oplopen tot 2,40 dollar per uur voor een H100-chip—bijna het dubbele van wat OpenAI betaalt voor hun langetermijncontracten.</p>
+<h2>De paradox van de verouderende chip</h2>
+<p>Hier wordt het verhaal interessant. Normaal gesproken zou je verwachten dat computerchips in waarde dalen naarmate nieuwere versies uitkomen. Maar in de AI-wereld gebeurt het tegenovergestelde.</p>
+<p>"Een H100 is vandaag meer waard dan drie jaar geleden," verklaart Patel. "Dat komt doordat GPT-4.0 zowel goedkoper is om te draaien als veel beter is dan GPT-4. Dezelfde H100 kan meer tokens produceren van een model van hogere kwaliteit."</p>
+<p>Het is alsof een drie jaar oude auto plotseling sneller zou gaan rijden omdat de wegen beter zijn geworden. De waarde van een GPU wordt niet bepaald door de nieuwste concurrent, maar door de waarde die het vandaag kan genereren. En die waarde stijgt exponentieel.</p>
+<p>Michael Burry en andere bearish investeerders beweerden dat GPU's snel zouden depreciëren—misschien wel in twee jaar. Maar ze hadden het mis. In een wereld waar AI-modellen steeds waardevoller worden, kunnen GPU's zichzelf binnen maanden terugverdienen. "Als we echte AGI-modellen zouden hebben," speculeert Patel, "dan zou een H100 zichzelf kunnen terugbetalen in een paar maanden."</p>
+<h2>Nvidia's meesterzet</h2>
+<p>Terwijl de labs vechten om compute, heeft Nvidia een schaakveld gecreëerd waar zij alle troeven in handen hebben. Door vroeg langetermijncontracten af te sluiten met TSMC en geheugenleveranciers, heeft het bedrijf zich verzekerd van 70 procent van de meest geavanceerde productiecapaciteit.</p>
+<p>"Nvidia was gewoon veel eerder AGI-pilled dan Google of Amazon," legt Patel uit. "Jensen gelooft misschien niet dat software volledig geautomatiseerd wordt, maar hij zag wel veel meer vraag dan de anderen in Q3 van vorig jaar."</p>
+<p>Google heeft deze fout duur betaald. Terwijl hun eigen TPU-chips beter zouden zijn voor hun doeleinden, moesten ze alsnog massa's Nvidia-GPU's inkopen omdat ze niet genoeg eigen chips konden fabriceren. En toen ze eindelijk wakker werden en meer capaciteit wilden? Te laat. TSMC was al uitverkocht tot 2027.</p>
+<p>Het meest pijnlijke detail: Google verkocht miljoen TPU's aan Anthropic—hun directe concurrent. "DeepMind-mensen waren woedend," vertelt Patel. "Waarom deden we dit? Maar Google Cloud-mensen hadden een andere gedachtegang."</p>
+<h2>De Nederlandse chokepoint</h2>
+<p>Maar er schuilt een veel fundamenteler probleem onder al deze competitie. Naarmate de vraag naar AI-chips door het dak gaat, verschuift de bottleneck van datacenters en stroom naar de chips zelf. En daar wordt het verhaal echt interessant.</p>
+<p>Om één gigawatt aan AI-compute te bouwen—genoeg voor een flinke AI-lab—heb je ongeveer 55.000 wafers van 3-nanometer technologie nodig, plus 170.000 geheugenwafelveld. En om die wafers te maken, heb je 2 miljoen "passes" nodig van de meest geavanceerde lithografie-machine ter wereld: de EUV-tool van ASML.</p>
+<p>"Drie en een halve EUV-tools voor één gigawatt," rekent Patel voor. "Het is gek om erover na te denken. Je hebt vijftig miljard dollar aan datacenter-capex, maar dat wordt tegengehouden door 1,2 miljard dollar aan gereedschap dat simpelweg niet snel genoeg kan worden uitgebreid."</p>
+<p>ASML, het Nederlandse bedrijf dat deze machines maakt, kan dit jaar zeventig tools produceren. Volgend jaar tachtig. In het beste geval honderd tegen 2030. Sam Altman wil 52 gigawatt per jaar tegen het einde van het decennium. Dat is mogelijk—maar alleen als hij 25 procent van alle chipproductie ter wereld krijgt.</p>
+<h2>De machine die de wereld draaiende houdt</h2>
+<p>De EUV-tool is misschien wel de meest complexe machine die de mensheid in volume produceert. Patel beschrijft het proces met gefascineerde precisie: "Het laat tindruppeltjes vallen en raakt ze drie keer achter elkaar perfect met een laser. De eerste keer, waardoor de druppel uitzet. Nog een keer, zodat hij in de perfecte vorm uitzet. Dan wordt hij met superhoge kracht geraakt, waardoor de tindruppeltjes zo opgewonden raken dat ze UV-licht van 13,5 nanometer uitzenden."</p>
+<p>Dit licht wordt door een stapel van achttien perfecte spiegels geleid—elke spiegel bestaat uit perfecte lagen molybdeen en ruthenium. Een enkel defect in deze nanometer-dunne stapels vernietigt alles. De machine is zo groot dat hij in Nederland wordt gebouwd, vervolgens gedemonteerd en over meerdere vliegtuigen naar de klant wordt verscheept, waar hij opnieuw wordt opgebouwd—een proces dat maanden duurt.</p>
+<p>Het probleem? ASML's toeleveringsketen heeft meer dan tienduizend leveranciers. Je kunt niet zomaar de productie verdubbelen van 's werelds meest complexe machine.</p>
+<p>"Iedereen in de toeleveringsketen doet min één," zegt Patel. "Nvidia is niet zo AGI-pilled als Dario. ASML is nog minder AGI-pilled dan Nvidia. En sommigen doen gewoon gedeeld door twee, omdat ze er simpelweg niet in geloven."</p>
+<h2>De geheugencrisis</h2>
+<p>Maar EUV-tools zijn niet eens het grootste probleem op de korte termijn. Dat is geheugen.</p>
+<p>Patel legt uit dat AI-chips voor ongeveer de helft bestaan uit geheugen—specifiek HBM (High Bandwidth Memory), gestapeld DRAM dat drie tot vier keer minder bits per wafer oplevert dan gewone DRAM. "We voorspelden al anderhalf jaar geleden dat redeneren lange context betekent, wat grote KV-cache betekent, wat veel geheugendenial betekent."</p>
+<p>Het duurde een jaar voordat dit zich in prijzen vertaalde. Nu zijn geheugenprijzen verdrievoudigd. En dat heeft gevolgen die ver buiten Silicon Valley reiken.</p>
+<p>"Een iPhone heeft twaalf gigabyte geheugen," rekent Patel voor. "Dat kostte vroeger 50 dollar. Nu 150 dollar. Apple moet dat doorberekenen aan de consument—250 dollar extra voor een iPhone."</p>
+<p>Maar het ergste is aan de onderkant van de markt. Xiaomi en Oppo halveren hun volumes van budget-smartphones. De bits die vrijkomen gaan naar AI-chips, wiens eigenaars bereid zijn langetermijncontracten te tekenen tegen hogere marges.</p>
+<p>"DRAM wordt vrijgemaakt, gaat naar AI-chips," zegt Patel. "En dat leidt ertoe dat mensen AI nog meer gaan haten, omdat ze nu al die memes zien op PC-subreddits: dit is waarom geheugenprijzen zijn verdubbeld en je geen nieuwe gaming-GPU kunt krijgen."</p>
+<h2>De Chinese tijdbom</h2>
+<p>Terwijl het Westen worstelt met toeleveringsketens die over meerdere continenten verspreid zijn, werkt China aan een volledig geïntegreerde halfgeleiderindustrie. Ze hebben nog geen EUV, maar tegen 2030?</p>
+<p>"Ik ben behoorlijk optimistisch dat ze deze dingen kunnen doen over de komende vijf tot tien jaar," geeft Patel toe. "Ze hebben meer ingenieurs die eraan werken. Ze hebben meer bereidheid om kapitaal naar het probleem te gooien."</p>
+<p>Voor DUV-tools—nodig voor oudere procesknopen—denkt hij dat China zeker eigen productie zal hebben tegen 2030. Voor EUV is het een kantelmogelijk maar waarschijnlijk nog niet in massa.</p>
+<p>De geopolitieke implicaties zijn enorm. "Als takeoff snel is, wint de VS," vat Patel samen. "Bij lange tijdlijnen wint China."</p>
+<p>Het is een race waar de inzet hoger niet kan zijn. De VS investeert bijna een biljoen dollar dit jaar in datacenters. China heeft die schaal van infrastructuur nog niet gebouwd. Maar als AI langer duurt dan verwacht om transformerend te worden—zeg 2035 in plaats van 2027—dan heeft China de tijd om een volledig verticale toeleveringsketen op te bouwen die de gefragmenteerde westerse aanpak zou kunnen overtreffen.</p>
+<h2>Stroom: het opgelöste probleem</h2>
+<p>Van alle bottlenecks lijkt stroom—paradoxaal genoeg—het minste probleem. Terwijl commentatoren zich zorgen maken over het Amerikaanse elektriciteitsnet, wijst Patel op de veelheid aan opties.</p>
+<p>"Ja, er zijn maar drie mensen die gecombineerde gasturbines maken," zegt hij. "Maar er is zoveel meer dat we kunnen doen. Aeroderivatives—vliegtuigmotoren omgebouwd tot turbines. Reciprocerende motoren. Scheepsmotoren. Brandstofcellen van Bloom Energy."</p>
+<p>Nebius draait Microsoft-datacenters in New Jersey op scheepsmotoren. Crusoe werkt met Boom Supersonics aan nieuwe turbine-ontwerpen. En dan zijn er nog zonne-energie plus batterijen, waar de kostenlijnen blijven dalen.</p>
+<p>"De toeleveringsketens zijn gewoon veel eenvoudiger dan chips," concludeert Patel. Het Amerikaanse elektriciteitsnet is één terawatt groot. Twintig procent daarvan—tweehonderd gigawatt—zou kunnen worden vrijgemaakt met genoeg piekcapaciteit en batterijen.</p>
+<h2>De ruimte-illusie</h2>
+<p>Toen Elon Musk onlangs suggereerde dat datacenters naar de ruimte moeten, rolde Patel met zijn ogen. "Elon wint nooit door 20 procent verbeteringen na te jagen. Elon wint door wild te zwaaien en 10x verbeteringen te maken. Maar ruimtedatacenters gaan niet om een 10x verbetering dit decennium."</p>
+<p>Het probleem is niet de vrije energie in de ruimte—dat is waar. Het probleem is dat energie maar 10-15 procent van de totale kosten van een datacenter is. "Als je drie tot zes maanden langer duurt om je chips in de ruimte te krijgen, dan heb je 10 procent van je clusters nuttige levensduur verloren."</p>
+<p>En dan is er het netwerkprobleem. Starlink-satellieten communiceren met honderd gigabit per seconde. Maar moderne AI-chips hebben 400 gigabyte per seconde per GPU nodig—en dat voor 72 GPU's per rack.</p>
+<p>"Ruimtedatacenters worden uiteindelijk misschien een 10x verbetering," geeft Patel toe, "maar dat is niet dit decennium."</p>
+<h2>De Taiwan-dreiging</h2>
+<p>Misschien wel het grootste risico schuilt in de geografische concentratie van chipproductie in Taiwan. TSMC produceert niet alleen alle geavanceerde AI-chips, maar ook veel van de chips die gebruikt worden in de machines die andere chips maken—een slang die zijn eigen staart opeet.</p>
+<p>"Als je alle procesingenieurs uitvliegt en de fabs opblaast," waarschuwt Patel, "heeft China plotseling een sterkere halfgeleidertoeleveringsketen dan de rest van de wereld. Je vermindert de Amerikaanse capaciteit om compute toe te voegen van honderden gigawatt per jaar naar misschien tien of twintig gigawatt."</p>
+<p>In zo'n scenario, met bestaande capacity maar geen mogelijkheid tot uitbreiding, zou de AI-race compleet veranderen. Bestaande compute zou exponentieel waardevoller worden. Nieuwe projecten zouden stranden. En de geopolitieke machtsverhoudingen zouden dramatisch verschuiven.</p>
+<h2>Het grote spel</h2>
+<p>Terwijl we spreken, speelt zich een onzichtbaar schaakspel af in boardrooms van Veldhoven tot Hsinchu. Leopold Aschenbrenner—de voormalige OpenAI-onderzoeker die nu een hedge fund runt—is volgens Patel "vrijwel de enige persoon die me vertelt dat mijn cijfers te laag zijn." Andere clients, van hyperscalers tot AI-labs, beweren steevast dat zijn projecties te hoog zijn. Tot ze uitkomen.</p>
+<p>Het patroon herhaalt zich: Patel voorspelt een bottleneck, de industrie ontkent het, zes maanden later explodeert de vraag precies zoals voorspeld. Nu waarschuwt hij voor de EUV-crisis van eind dit decennium. De vraag is niet of het gaat gebeuren, maar wie er klaar voor is.</p>
+<p>"NVIDIA was AGI-pilled genoeg om compute te kopen op tijdlijnen die ridicuul leken voor mensen die niet AGI-pilled waren," reflecteert Patel. "Hetzelfde gebeurt met de toeleveringsketen voor halfgeleiders. NVIDIA was conservatiever dan de labs, ASML is conservatiever dan NVIDIA. En iedereen doet min één."</p>
+<p>In deze race naar kunstmatige algemene intelligentie, waar triljoen-dollar bedrijven hun toekomst inzetten op datacenterkapaciteit die nog niet bestaat, zijn het misschien niet de algoritmes of de modellen die bepalen wie wint. Het zijn de machines in Nederland, de fabs in Taiwan, en de geheugenmodules in Zuid-Korea die het lot van de AI-revolutie zullen bepalen.</p>
+<p>De ironie is bitter: in onze sprint naar digitale intelligentie, stranden we op de meest fysieke beperkingen van allemaal.</p>]]></content:encoded>
+    </item>
   </channel>
 </rss>
