@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plain English - Podcast Artikelen</title>
+    <link>https://alexanderklopping.github.io/podcast-feeds/Plain English.xml</link>
+    <description>Artikelen gegenereerd van Plain English podcast afleveringen</description>
+    <language>nl</language>
+    <lastBuildDate>Wed, 18 Mar 2026 08:08:22 +0000</lastBuildDate>
+    <atom:link href="https://alexanderklopping.github.io/podcast-feeds/Plain English.xml" rel="self" type="application/rss+xml"/>
+
+  </channel>
+</rss>
