@@ -5,8 +5,68 @@
     <link>https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml</link>
     <description>Artikelen gegenereerd van Dwarkesh podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Wed, 18 Mar 2026 08:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 08:59:46 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml" rel="self" type="application/rss+xml"/>
-
+    <item>
+      <title>De Drie Flessen­halzen die de AI-Revolutie Bepalen</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/Dwarkesh.xml#2026-03-19_Dwarkesh_Dylan Patel _ Deep dive on the 3 big bottlenecks to scaling AI compute</link>
+      <description>Dylan Patel staart naar zijn schermen vol spreadsheets en grafieken die samen het zenuwstelsel van de wereldwijde AI-infrastructuur in kaart brengen. Als oprichter van SemiAnalysis heeft hij zich opgewerkt tot degene die weet hoeveel gigawatts OpenAI werkelijk zal hebben, welke geheime deals Goog...</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-19_Dwarkesh_Dylan Patel _ Deep dive on the 3 big bottlenecks to scaling AI compute</guid>
+      <content:encoded><![CDATA[<h1>De Drie Flessen­halzen die de AI-Revolutie Bepalen</h1>
+<em>In de winter van 2025 begint zich een verhaal af te tekenen dat de komende decennia zal bepalen wie de kunstmatige intelligentie beheerst—en daarmee de wereldeconomie. Het is geen verhaal over algoritmes of data, maar over de meest fundamentele vraag van allemaal: hoe bouw je de rekenkracht die nodig is om goden te maken van silicium?</em>
+<p>Dylan Patel staart naar zijn schermen vol spreadsheets en grafieken die samen het zenuwstelsel van de wereldwijde AI-infrastructuur in kaart brengen. Als oprichter van SemiAnalysis heeft hij zich opgewerkt tot degene die weet hoeveel gigawatts OpenAI werkelijk zal hebben, welke geheime deals Google heeft gesloten met turbineleveranciers, en waarom smartphone­gebruikers binnenkort veel meer gaan betalen voor hun telefoons.</p>
+<p>"Een H100 is vandaag meer waard dan drie jaar geleden," zegt hij, en die uitspraak vat een paradox samen die het hart raakt van de AI-revolutie. In een normale markt worden computer­chips goedkoper naarmate er betere alternatieven komen. Maar dit is geen normale markt. Dit is een markt waarin de vraag naar rekenkracht zo explosief groeit dat zelfs 'oude' chips waardevol blijven, omdat er simpelweg geen alternatieven zijn.</p>
+<h2>De Race om Rekenkracht</h2>
+<p>De cijfers zijn duizelingwekkend. Amazon, Meta, Google en Microsoft hebben samen een voorspelde kapitaal­investering van 600 miljard dollar voor dit jaar aangekondigd. OpenAI kondigde een investering van 110 miljard dollar aan, Anthropic haalde 30 miljard op. Als je deze bedragen omrekent naar de werkelijke rekenkracht die erachter zit, kom je uit op tientallen gigawatts aan datacenters die de komende jaren online moeten komen.</p>
+<p>Maar er is een probleem. Eigenlijk zijn er drie problemen, en elk ervan dreigt de hele AI-revolutie te vertragen tot een kruipgang.</p>
+<p>"De grootste bottleneck is compute," legt Patel uit. "En voor compute heb je drie dingen nodig: logica, geheugen en energie. Als één van die drie tekortschiet, kun je al je plannen vergeten."</p>
+<p>Het verhaal begint bij logica—de chips zelf. NVIDIA heeft zich een positie verworven die bijna monopolistisch te noemen is. Ze bezitten 70 procent van de N3-wafercapaciteit bij TSMC, de Taiwanese chipreus die feitelijk alle geavanceerde processors voor AI-systemen maakt. Maar achter die dominantie schuilt een kwetsbaarheid die weinigen beseffen.</p>
+<h2>De Machine die de Wereld Draait</h2>
+<p>In een onopvallend gebouw in Veldhoven staat de machine die het lot van de kunstmatige intelligentie bepaalt. Het is een EUV-tool van ASML, ter grootte van een bus en zo complex dat hij wordt gebouwd in Nederland, gedemonteerd, per vliegtuig verscheept en ter plaatse weer in elkaar gezet—een proces dat maanden duurt.</p>
+<p>"ASML kan ongeveer 70 van deze machines per jaar maken," zegt Patel. "Volgend jaar misschien 80. In het meest optimistische scenario komen ze aan het einde van het decennium iets boven de 100 uit."</p>
+<p>Die cijfers klinken abstract, maar de implicaties zijn concreet. Voor elke gigawatt aan AI-rekenkracht heb je ongeveer 3,5 EUV-tools nodig. Sam Altman van OpenAI wil tegen 2030 een gigawatt per week implementeren. Dat betekent dat hij 25 procent marktaandeel nodig heeft van alle chips die ter wereld worden gemaakt—een aandeel dat hij dit jaar al ongeveer heeft bij NVIDIA's Blackwell-GPU's.</p>
+<p>"Het is niet onmogelijk," erkent Patel. "Maar het laat zien hoe afhankelijk we zijn van deze enkele fabriek in Nederland."</p>
+<p>Die afhankelijkheid wordt pijnlijk duidelijk als je kijkt naar wat er gebeurt als landen of bedrijven proberen alternatieve routes te vinden. China investeert massaal in het ontwikkelen van eigen EUV-technologie, maar zit nog jaren achter. Amerikaanse bedrijven zoals Intel en Samsung probieren hun eigen foundries op te schalen, maar stuiten op dezelfde bottlenecks.</p>
+<h2>Het Geheugenprobleem</h2>
+<p>Terwijl de industrie worstelt met logica-chips, tekent zich een nog grotere crisis af: geheugen. Moderne AI-modellen hebben enorme hoeveelheden High Bandwidth Memory (HBM) nodig—gespecialiseerd geheugen dat data veel sneller kan verwerken dan gewone computerchips.</p>
+<p>Het probleem is dat HBM wordt gemaakt van dezelfde DRAM als gewoon geheugen, maar dan in een veel complexer productieproces. "HBM gebruikt drie tot vier keer meer waferoppervlak voor dezelfde hoeveelheid bits," legt Patel uit. "Dat betekent dat elke byte geheugen voor AI vier bytes wegneemt van gewone consumenten."</p>
+<p>De gevolgen beginnen al zichtbaar te worden. Geheugenprijzen zijn verdrievoudigd. Xiaomi en Oppo halveren hun productie van goedkope smartphones. Apple staat voor de keuze: 250 dollar extra doorberekenen voor een iPhone, of marge inleveren.</p>
+<p>"Dit jaar zullen smartphonevolumes waarschijnlijk dalen van 1,1 miljard naar 800 miljoen," voorspelt Patel. "Volgend jaar misschien naar 600 of 500 miljoen. De geheugen gaat gewoon naar AI."</p>
+<p>Het is een rekensom die pijn doet voor gewone consumenten, maar die onvermijdelijk is zolang AI-labs bereid zijn veel meer te betalen voor dezelfde geheugen. Anthropic heeft momenteel ongeveer 20 miljard dollar aan jaarlijkse omzet, met marges van minder dan 50 procent. Dat betekent dat ze 13 à 14 miljard dollar uitgeven aan het huren van rekenkracht—compute die oorspronkelijk 50 miljard dollar aan investeringen heeft gekost.</p>
+<h2>De Energie-Oplossing</h2>
+<p>Van de drie bottlenecks is energie misschien de meest oplosbare, al klinkt dat paradoxaal gezien alle verhalen over stroomtekorten. Patel heeft een andere visie.</p>
+<p>"Amerika gaat van 0 procent groei in energieverbruik naar 2 procent groei," zegt hij. "Dat was al moeilijk genoeg. Maar er zijn zoveel manieren om energie op te wekken die we nog niet volledig benutten."</p>
+<p>Hij somt ze op: gecombineerde cyclusturbines van Siemens, Mitsubishi en General Electric Nova. Aeroderivatives—vliegtuigmotoren omgebouwd tot turbines. Scheepsmotoren zoals Nebius gebruikt voor Microsoft in New Jersey. Brandstofcellen van Bloom Energy. En dat allemaal naast de meer traditionele opties zoals zonne-energie met batterijen.</p>
+<p>"Elon Musk was de eerste die achter-de-meter gas ging gebruiken," vervolgt Patel. "Sindsdien zien we een explosie van verschillende oplossingen. Ze zijn niet altijd even efficiënt, maar ze zijn er wel."</p>
+<p>Het punt is dat energie een relatief klein deel uitmaakt van de totale kosten van een datacenter. Zelfs als energiekosten verdubbelen, stijgen de kosten per uur van een GPU maar met 10 cent. Voor labs die hun omzet maandelijks zien verdubbelen, is dat verwaarloosbaar.</p>
+<h2>China's Lange Termijn Strategie</h2>
+<p>Terwijl het Westen zich concentreert op de komende twee jaar, speelt China een langer spel. Het land heeft weliswaar geen toegang tot de nieuwste EUV-technologie, maar het investeert massaal in het opschalen van oudere productieprocessen.</p>
+<p>"China produceert 7-nanometer chips met multi-patterning en DUV-machines," legt Patel uit. "Het is minder efficiënt, maar het werkt. En ze trainen meer ingenieurs op dit gebied dan de rest van de wereld samen."</p>
+<p>De vraag is wanneer die strategie zijn vruchten gaat afwerpen. Bij snelle AI-ontwikkeling wint het Westen, omdat het de beste chips heeft om de beste modellen te trainen. Bij langzame ontwikkeling—alles wat verder ligt dan 2030—krijgt China de tijd om zijn productiecapaciteit op te schalen en mogelijk het Westen voorbij te streven.</p>
+<p>"Het is eigenlijk heel simpel," vat Patel samen. "Korte tijdslijnen, Amerika wint. Lange tijdslijnen, China wint."</p>
+<h2>De Paradox van de Ruimte</h2>
+<p>Elon Musk heeft een radicale oplossing voorgesteld voor het energieprobleem: datacenters in de ruimte, waar zonne-energie gratis en onbeperkt beschikbaar is. Het klinkt als science fiction, maar Patel is er niet van overtuigd dat het deze decade zin heeft.</p>
+<p>"In een wereld waar chips de bottleneck zijn, wil je ze zo snel mogelijk aan het werk hebben," argumenteert hij. "Als je zes maanden langer doet om ze in de ruimte te krijgen, verlies je 10 procent van hun levensduur. En dat terwijl energie maar 10-15 procent uitmaakt van de totale kosten."</p>
+<p>Er zijn meer praktische problemen. GPU's zijn notorisch onbetrouwbaar—15 procent van nieuwe Blackwell-chips moet gerepareerd worden. In de ruimte kun je niet zomaar even een technicus langssturen. En de communicatie tussen satellieten, hoe geavanceerd ook, kan niet tippen aan de bandbreedte die nodig is om duizenden chips met elkaar te laten praten.</p>
+<p>"Musk wint nooit door 20 procent beter te zijn," observeert Patel. "Hij wint door 10 keer beter te zijn. Ruimte-datacenters worden misschien ooit die 10x, maar pas als aardse resources echt opraken."</p>
+<h2>De Antropic Paradox</h2>
+<p>Terwijl OpenAI agressief capacity heeft ingekocht, zat Anthropic vast in wat Patel diplomatiek "commitment issues" noemt. CEO Dario Amodei wilde conservatief blijven met compute-investeringen, voor het geval de omzet anders zou groeien dan verwacht.</p>
+<p>Maar die voorzichtigheid heeft een prijs. Anthropic moet nu tegen hogere prijzen inkopen bij leveranciers van mindere kwaliteit. Waar OpenAI langetermijndeals heeft tegen 1,40 dollar per uur voor Hopper-chips, betalen sommige AI-labs nu 2,40 dollar voor dezelfde chips.</p>
+<p>"Anthropic zag het eerder dan Google," erkent Patel. "Maar ze waren niet bereid om er volledig voor te gaan, zoals OpenAI deed."</p>
+<p>Het is een les in de economie van de AI-race: wie het eerst committeert aan grote hoeveelheden compute, krijgt niet alleen betere prijzen, maar ook betere toegang tot nieuwe generaties chips. In een markt waar vraag het aanbod ver overtreft, is timing alles.</p>
+<h2>De Nieuwe Realiteit</h2>
+<p>Door alle technische complexiteit heen tekent zich een nieuwe economische realiteit af. We bewegen naar een wereld waarin rekenkracht zo waardevol is dat het de verdeling van alle andere resources bepaalt.</p>
+<p>Geheugen dat vroeger naar smartphones ging, gaat nu naar datacenters. Energie die vroeger industriële processen voedde, gaat nu naar AI. Ingenieurs die vroeger aan auto's werkten, ontwerpen nu koelsystemen voor GPU's.</p>
+<p>"Het gekke is dat een H100 vandaag meer waard is dan drie jaar geleden," herhaalt Patel. "Normaal gesproken worden computers goedkoper. Maar als je modellen hebt die miljarden tokens kunnen genereren uit elke GPU, en als die tokens steeds waardevoller worden, dan wordt zelfs oude hardware waardevol."</p>
+<h2>De Vraag van een Miljard Dollar</h2>
+<p>Al deze bottlenecks brengen ons terug bij de fundamentele vraag: kunnen we de infrastructuur bouwen die nodig is om kunstmatige generale intelligentie te realiseren?</p>
+<p>Patel's antwoord is genuanceerd. "We kunnen 200 gigawatts aan chips maken tegen het einde van het decennium, als alles goed gaat. Dat is genoeg voor wat Altman wil. Maar het vergt dat duizenden bedrijven in tientallen landen perfect samenwerken, en dat iedereen de urgentie begrijpt."</p>
+<p>Het probleem is dat urgentie. Terwijl AI-labs spreken over AGI binnen enkele jaren, denken chipfabrikanten nog steeds in cyclussen van tien jaar. ASML plant zijn productiegroei alsof we gewoon meer PlayStation-chips nodig hebben, niet alsof we letterlijk kunstmatige goden proberen te bouwen.</p>
+<p>"Constant wordt ons verteld dat onze cijfers veel te hoog zijn," zucht Patel. "En dan, als ze uitkomen, zeggen ze: 'Oké, maar de cijfers voor volgend jaar zijn nog steeds te hoog.'"</p>
+<p>Die ontsluiting tussen visie en realiteit, tussen Silicon Valley's ambities en de fysieke wereld van fabrieken en leveringsketens, zal uiteindelijk bepalen hoe snel de AI-revolutie zich ontvouwt. En misschien belangrijker nog: wie er de winnaar van wordt.</p>
+<p>In Veldhoven draait ondertussen de volgende EUV-machine van de productielijn. Ergens in Taiwan brengt een ingenieur de nacht door om een probleem op te lossen in een cleanroom. In Georgië worden turbines op vrachtwagens geladen die naar een datacenter in Texas gaan.</p>
+<p>Het zijn de kleine, concrete stappen die samen bepalen of we over vijf jaar terugkijken op het moment dat kunstmatige intelligentie de wereld veranderde—of op het moment dat fysieke bottlenecks onze grootste ambities temporeerden tot menselijke maat.</p>]]></content:encoded>
+    </item>
   </channel>
 </rss>
