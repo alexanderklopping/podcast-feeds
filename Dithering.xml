@@ -5,45 +5,8 @@
     <link>https://alexanderklopping.github.io/podcast-feeds/Dithering.xml</link>
     <description>Artikelen gegenereerd van Dithering podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Fri, 20 Mar 2026 08:08:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 09:00:36 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/Dithering.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>De Draai van de Paranoia</title>
-      <link>https://alexanderklopping.github.io/podcast-feeds/Dithering.xml#2026-03-20_Dithering_Jensen Huang_s Jobsian Keynote</link>
-      <description>Jensen Huang stond op het podium van de GPU Technology Conference en deed iets wat alleen de allergrootste tech-CEO's durven: hij veranderde openlijk van mening. Terwijl duizenden ontwikkelaars, journalisten en analisten toekeken, gebruikte de NVIDIA-baas dezelfde slides als het jaar ervoor om he...</description>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-03-20_Dithering_Jensen Huang_s Jobsian Keynote</guid>
-      <content:encoded><![CDATA[<h1>De Draai van de Paranoia</h1>
-<p>Jensen Huang stond op het podium van de GPU Technology Conference en deed iets wat alleen de allergrootste tech-CEO's durven: hij veranderde openlijk van mening. Terwijl duizenden ontwikkelaars, journalisten en analisten toekeken, gebruikte de NVIDIA-baas dezelfde slides als het jaar ervoor om het exacte tegenovergestelde te beweren. Het was een meesterlijke demonstratie van wat Andy Grove ooit 'gezonde paranoia' noemde—en een perfecte illustratie van waarom NVIDIA en Apple, twee bedrijven die nauwelijks met elkaar concurreren, elkaar zo wantrouwen.</p>
-<p>---</p>
-<p>Het begon met een slide die NVIDIA-volgers maar al te goed kenden: de Pareto-grens. Op de ene as stond doorvoer—hoeveel gebruikers je tegelijk kunt bedienen. Op de andere as latency—hoe snel je één persoon kunt helpen. Het was een fundamenteel dilemma in datacenterland: je kunt niet beide tegelijk optimaliseren.</p>
-<p>Een jaar eerder had Huang deze slide gebruikt voor een 28 minuten durende verhandeling over waarom GPU's alles moesten en konden doen. ASIC's—gespecialiseerde chips voor specifieke taken—waren volgens hem een vergissing. NVIDIA's GPU's waren zo veelzijdig en krachtig dat ze de hele datacenter konden overnemen.</p>
-<p>Nu, in maart 2026, toonde Huang dezelfde slide en zei in wezen: "Ja, er is dit hele stukje dat we niet goed bedienen. En nu doen we dat wel."</p>
-<p>Het was alsof Steve Jobs in 2010 had gezegd dat tablets nutteloos waren, om een jaar later de iPad te lanceren. Behalve dat Huang het met een volmaakt stalen gezicht deed, zonder ook maar een spoor van ironie.</p>
-<p>"NVIDIA is een bedrijf voor versneld computergebruik, geen GPU-bedrijf," verklaarde hij, alsof die nuance altijd al glashelder was geweest.</p>
-<p>De verandering werd geïllustreerd door wat Huang die dag presenteerde: een volledig rack met CPU's. Niet GPU's met een paar CPU's ernaast, maar gewoon CPU's. Het was een radicale koerswijziging voor een bedrijf dat jarenlang had gepredikt dat GPU's de toekomst van alle computing waren.</p>
-<p>Waarom deze draai? Huang legde het uit met de directheid van iemand die zijn huiswerk heeft gedaan. "Als je agents hebt die CPU's nodig hebben—omdat dat het 'menselijke' deel is dat het model aanstuurt, dat zoekt en tools gebruikt en bestanden bekijkt, allemaal CPU-taken—dan kun je niet toestaan dat je dure GPU's stil liggen te wachten op instructies. Dan kunnen klanten net zo goed elke willekeurige GPU gebruiken."</p>
-<p>Het was dezelfde logica die Apple ertoe bracht om Pages en Numbers te maken. Als niemand anders Mac-specifieke software wilde bouwen, wat was dan het punt van een Mac? En als Intel geen chips wilde maken die perfect pasten bij Apple's visie, waarom zou Apple dan niet hun eigen silicon maken?</p>
-<p>---</p>
-<p>De gelijkenissen tussen Huang en Steve Jobs waren die dag moeilijk te negeren. Beiden leiden bedrijven die astronomische marges kunnen vragen omdat ze geloven—nee, weten—dat ze de beste zijn. Beiden controleren zowel hardware als software, waarbij de software "gratis" is maar alleen op hun hardware draait. Beiden hebben het lef om klanten te vertellen wat ze nodig hebben, in plaats van andersom.</p>
-<p>"Ik denk niet na over wat we niet zijn," had Huang eerder die week gezegd in een interview. "Ik denk na over wat we moeten zijn."</p>
-<p>Het was een perfect Jobsiaans sentiment. Niet achteromkijken naar wat anderen doen en dat kopiëren—dan ben je te laat. In plaats daarvan vooruitkijken naar de problemen die opgelost moeten worden.</p>
-<p>Het probleem dat NVIDIA zag, was helder: hun massaal krachtige GPU's konden niet snel genoeg gevoed worden. Traditionele datacenter-CPU's waren geoptimaliseerd voor het maximale aantal kernen, zelfs als die kernen langzaam draaiden. Dat werkte prima toen de internetverbinding de beperkende factor was—waarom zou je CPU snel hoeven zijn als het web toch traag was?</p>
-<p>Maar in de wereld van AI-agents draaide alles om snelheid binnen het datacenter zelf. Agents communiceerden niet over trage internetverbindingen, maar via supersnelle interne netwerken. Plotseling was single-thread performance weer belangrijk.</p>
-<p>"Het is grappig," merkte een industrie-analist op, "Apple had hetzelfde probleem met hun Mac Pro. Die gebruikte Intel Xeon-chips die perfect waren voor servers maar totaal ongeschikt voor een desktop waar je de beste prestaties wilde."</p>
-<p>Huang knikte toen dit punt ter sprake kwam. Net zoals Apple uiteindelijk hun eigen silicon moest maken om te krijgen wat ze echt wilden, moest NVIDIA nu hun eigen CPU's maken om hun GPU's optimaal te laten presteren.</p>
-<p>---</p>
-<p>De snelheid waarmee NVIDIA deze koerswijziging uitvoerde, was adembenemend. In december hadden ze Grok overgenomen—eigenlijk meer een acqui-hire van talent dan een traditionele overname. Nu, in maart, konden ze al hardware leveren voor de herfst.</p>
-<p>Hoe was dat mogelijk? Omdat NVIDIA al jaren bezig was geweest met het leggen van de fundamenten. Hun Dynamo-software, een soort besturingssysteem voor AI-inferentie, was al jaren in ontwikkeling geweest voordat het werd gelanceerd. Het scheidde verschillende onderdelen van AI-berekeningen en dirigeerde ze naar de juiste plekken—een voorbereidende stap voor precies dit soort hardware-integratie.</p>
-<p>"We konden Grok eigenlijk vrij gemakkelijk in één zeer specifiek onderdeel schuiven," legde Huang uit. "Maar dat onderdeel is wel complex en vereist extreem snelle, betrouwbare netwerktechnologie."</p>
-<p>Netwerktechnologie die NVIDIA—toeval of niet—ook zelf maakte, dankzij hun overname van Mellanox jaren eerder.</p>
-<p>Het was weer die Apple-achtige aanpak: de software-infrastructuur voorbereiden zodat nieuwe hardware naadloos kan worden geïntegreerd. Controle over de volledige stack, van chips tot software tot netwerken.</p>
-<p>---</p>
-<p>De eerste dertig minuten van Huang's keynote waren misschien wel het meest verhelderend. Net zoals bij Steve Jobs' beste presentaties, leek hij evenveel tegen zijn eigen medewerkers te praten als tegen het publique. Het was een filosofische uiteenzetting over waarom NVIDIA deed wat ze deden, een interne motivatietoespraak die toevallig voor de hele wereld werd uitgezonden.</p>
-<p>"Kijk," leek hij te zeggen, "dit is wie we zijn. Dit is hoe we denken. En dit is waarom we de juiste keuzes maken, ook als die keuzes verrassend lijken."</p>
-<p>Het was de houding van een bedrijf dat, ondanks zijn dominante positie, nog steeds beweegt als een startup. Geen bureaucratie die nieuwe ideeën vertraagt. Geen trots die verhindert dat je van koers verandert. Alleen maar de constante vraag: wat hebben onze klanten nodig, en hoe zorgen we ervoor dat ze dat van ons krijgen?</p>
-<p>Andy Grove zou trots zijn geweest. In een wereld waar alleen de paranoïden overleven, had Jensen Huang zojuist bewezen dat NVIDIA's paranoia precies de juiste dosis had. Net genoeg om alert te blijven, niet zoveel dat het verlamde.</p>
-<p>En misschien verklaarde dat ook waarom Apple en NVIDIA, twee bedrijven met zoveel overeenkomsten, elkaar met argwanende blikken bekeken. Als je zelf de beste bent in het spel van geïntegreerde hardware en software, is de laatste persoon die je vertrouwt iemand anders die hetzelfde spel speelt—en er net zo goed in is.</p>]]></content:encoded>
-    </item>
+
   </channel>
 </rss>
