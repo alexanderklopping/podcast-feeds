@@ -5,8 +5,101 @@
     <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml</link>
     <description>Artikelen gegenereerd van The Startup Ideas Podcast podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Tue, 24 Mar 2026 08:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 08:04:52 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml" rel="self" type="application/rss+xml"/>
-
+    <item>
+      <title>De Blinde Detective: Hoe Firecrawl AI Ogen Gaf</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml#2026-03-25_The Startup Ideas Podcast_What is Firecrawl_</link>
+      <description>Stel je voor: een detective met het analytische vermogen van Sherlock Holmes, maar die geen misdaadplaats kan bezoeken, geen bewijsmateriaal kan bekijken, geen getuigen kan ondervragen. Zo functioneerde kunstmatige intelligentie tot voor kort. Briljant in het trekken van conclusies uit gegeven in...</description>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-03-25_The Startup Ideas Podcast_What is Firecrawl_</guid>
+      <content:encoded><![CDATA[<h1>De Blinde Detective: Hoe Firecrawl AI Ogen Gaf</h1>
+<em>In de race om intelligente systemen te bouwen, ontdekten ondernemers een cruciale zwakte: AI was briljant maar blind. Het kon redeneren, analyseren en creëren, maar het internet—de grootste databron ter wereld—bleef ontoegankelijk. Firecrawl veranderde dat met één API-call, en creëerde daarmee wat Greg Isenberg het "AWS moment voor web data" noemt.</em>
+<p>Stel je voor: een detective met het analytische vermogen van Sherlock Holmes, maar die geen misdaadplaats kan bezoeken, geen bewijsmateriaal kan bekijken, geen getuigen kan ondervragen. Zo functioneerde kunstmatige intelligentie tot voor kort. Briljant in het trekken van conclusies uit gegeven informatie, maar volkomen blind voor de echte wereld van data die zich afspeelt op het internet.</p>
+<p>Greg Isenberg zag dit probleem van dichtbij toen hij Idea Browser bouwde, een platform dat trends en startup-ideeën verzamelt. "Ik had de data nodig," herinnert hij zich. "Ik had de trenddata nodig. Dus bouwde ik het bovenop Firecrawl om die data daadwerkelijk te krijgen. Nu hebben we het nummer één product voor startup-ideeën en trends ter wereld."</p>
+<p>Die ervaring opende zijn ogen voor iets groters dan alleen zijn eigen platform. Het onthulde de fundamentele beperkingen van de AI-revolutie en de oplossing die alles zou veranderen.</p>
+<h2>Van Chatbots naar Agenten: De Evolutie van Kunstmatige Intelligentie</h2>
+<p>Om te begrijpen waarom Firecrawl zo revolutionair is, moeten we een stap terug doen. De AI-ontwikkeling verliep in drie duidelijke fasen, elk met hun eigen beperkingen en mogelijkheden.</p>
+<p>De eerste fase was het chatbot-tijdperk. In 2022 lanceerde OpenAI ChatGPT, en plotseling kon iedereen converseren met kunstmatige intelligentie. Het beantwoordde vragen, schreef essays, hielp met programmeren. "Het was cool," zegt Isenberg, "maar vrij beperkt."</p>
+<p>De tweede fase bracht ons de copilot-era. Tools zoals Cursor en GitHub Copilot maakten programmeurs sneller, maar de mens bleef aan het stuur. "Het was sneller, maar jij moest nog steeds rijden," legt Isenberg uit. "Jij, de mens, deed het nog steeds."</p>
+<p>Nu zijn we in de derde fase beland: het AI-agent tijdperk. "AI doet het werk voor jou," zegt Isenberg. "Dingen zoals Claude Computer Use. Het browset. Het onderzoekt. Het bouwt. Maar het heeft nog steeds data nodig."</p>
+<p>Deze evolutie wordt vaak het "computer use tijdperk" genoemd. We hebben nu AI-agenten die computers kunnen zien en besturen. Tools zoals Perplexity Computer browsen het web voor gebruikers. OpenAI's Operator, uitgebracht ongeveer een jaar geleden, laat AI het browsende werk overnemen. GPT-4o verslaat mensen bij computertaken. Claude heeft zijn Computer Use API met screenshots en clicks, compleet met desktop-controle.</p>
+<p>Maar er was één cruciaal probleem: al deze geavanceerde systemen hadden één ding gemeen. Ze hadden allemaal schone webdata nodig.</p>
+<h2>Het Scraping Probleem: Duizenden Regels Code voor Basisdata</h2>
+<p>Traditioneel webscraping was een nachtmerrie voor ontwikkelaars. Je moest een aangepaste scraper schrijven voor elke website. Proxies en browsers beheren. Anti-bot detectie omzeilen. Rommelige HTML handmatig parsen. En het ergste van alles: scripts braken constant wanneer websites hun layout veranderden.</p>
+<p>"Het was in feite een massieve hoofdpijn," vat Isenberg samen.</p>
+<p>Deze technische barrières betekenden dat alleen bedrijven met grote ontwikkelteams en budgetten toegang hadden tot webdata. Kleinere ondernemers bleven verstoken van de informatie die hun AI-systemen nodig hadden om echt waardevol te worden.</p>
+<p>Firecrawl veranderde die vergelijking volledig. In plaats van duizenden regels code was het nu één API-call. In plaats van weken programmeerwerk was het seconden. In plaats van constante onderhoud was het plug-and-play.</p>
+<h2>Firecrawl: Ogen en Handen voor AI</h2>
+<p>Wat Firecrawl precies doet, is eigenlijk verrassend eenvoudig te begrijpen. "Je geeft een website in, het gaat door de Firecrawl API, en je krijgt schone markdown terug, gestructureerde JSON, screenshots," legt Isenberg uit. "En je kunt dat aan elk AI-model voeden. Dat is het. Zo simpel is het."</p>
+<p>Maar die eenvoud verbergt zes krachtige mogelijkheden. Ten eerste kun je scrapen—één pagina omzetten naar schone markdown. Ten tweede kun je een hele website automatisch crawlen, zoals alle artikelen van CNN.com in één keer ophalen. Ten derde kun je alle URL's op een domein in kaart brengen, wat waardevolle metadata oplevert over datums en titels in URL-structuren.</p>
+<p>De vierde mogelijkheid is volledige content in één call krijgen. De vijfde is een agent die je kunt beschrijven welke data je wilt en die het dan gaat zoeken. "Vertel het dat je de 50 best beoordeelde Cubaanse restaurants in Zuid-Florida wilt, en het geeft je de meest heldere data daarover terug," zegt Isenberg.</p>
+<p>De zesde mogelijkheid is misschien wel de meest futuristische: een browser die AI controleert. "Je kunt screenshots maken van dit, of ik zet het in de beschrijving voor hoe je je kunt aanmelden," zegt hij. "Maar het geeft je in feite schone markdown van de hele website voor elk AI-model in drie regels code."</p>
+<h2>Het AWS Moment voor Webdata</h2>
+<p>Voor Isenberg vertegenwoordigt Firecrawl iets veel groters dan alleen een handige tool. Hij ziet het als het "AWS moment voor webdata"—een vergelijking die de potentiële impact ervan in perspectief plaatst.</p>
+<p>"In 2006, als je een web-app wilde bouwen, wat moest je dan doen?" vraagt hij retorisch. "Je moest servers gaan kopen. Je moest racks en kabels beheren. Dingen braken de hele tijd. De hele tijd, de hele tijd."</p>
+<p>Toen kwam Amazon Web Services met een revolutionaire belofte: "Eén API-call en je kunt onze servers in de cloud gebruiken."</p>
+<p>De parallel is onmiskenbaar. "Nu in 2026, als je wilt dat AI webdata gebruikt, wat moet je dan doen? Je moest scrapers bouwen, proxies beheren, browsers beheren, omgaan met beveiliging. Firecrawl zegt: één API-call en wij regelen het voor je."</p>
+<p>Dit is volgens Isenberg een grote zaak, omdat de bedrijven die bovenop AWS werden gebouwd sommige triljoenen-dollar bedrijven werden, sommige miljarden-dollar bedrijven, en veel miljoen-dollar bedrijven. "Natuurlijk faalden er ook veel," erkent hij, "maar het punt is dat mensen geen last hadden van de hoofdpijn van servers. Die producten konden schalen."</p>
+<p>De grootste bedrijven van de afgelopen 10 jaar ontstonden dankzij AWS. Nu vraagt Isenberg zich af: wat wordt er gebouwd op de webdata-laag?</p>
+<h2>De Agent Stack: Vijf Lagen van AI-Infrastructuur</h2>
+<p>Om deze nieuwe wereld te begrijpen, denkt Isenberg aan AI-infrastructuur als vijf lagen die elke builder nodig heeft.</p>
+<p>De eerste laag is een agent harness—iets zoals Claude Computer Use, Cursor, of zijn eigen Idea Browser Pro. Dit is wat alle verschillende agenten op één plek beheert.</p>
+<p>De tweede laag is een zoeklaag. "Iets dat verschillende dingen gaat zoeken," zegt hij. "Perplexity heeft een goede MCP. Exa ook."</p>
+<p>De derde laag—en daar gaat deze episode over—is de webdata-laag. "Je gaat Firecrawl gebruiken voor scraping, browsen en extractie. Firecrawl is in feite de webdata-laag. Je agenten moeten het internet kunnen zien."</p>
+<p>De vierde laag is een ops-brein. Isenberg gebruikt tools zoals Obsidian en Claude Computer Use voor het opslaan van vergadernotities en context. "Ik geef er niet om of je Notion gebruikt, ik geef er niet om of je Apple Notes gebruikt, je gaat een brein nodig hebben."</p>
+<p>De vijfde laag is een outbound en audience stack, zoals Instantly en Apollo voor outreach.</p>
+<p>Van deze vijf lagen was de webdata-laag historisch het moeilijkst en duurste om te bouwen. Firecrawl maakt het plotseling toegankelijk voor elke ondernemer.</p>
+<h2>De Browser Sandbox: AI dat Formulieren Invult</h2>
+<p>Een van de meest indrukwekkende functies van Firecrawl is de browser sandbox. Dit is een veilige manier om Firecrawl formulieren te laten invullen, knoppen en links te laten klikken, logins en authenticatie te behandelen, en paginering te navigeren.</p>
+<p>"Je kunt live kijken terwijl je AI browset, ingelogd blijven tussen sessies," beschrijft Isenberg. "Het is echt gek, toch? Denk eraan. In een wereld waar je deze handen en ogen daar op het internet hebt, wat zijn de grote ideeën die je kunt bouwen?"</p>
+<p>Deze mogelijkheden openen deuren naar scenarios die tot voor kort pure science fiction leken. AI-agenten die automatisch onderzoek doen, prijzen vergelijken tussen websites, of zelfs complexe taken uitvoeren die meerdere website-interacties vereisen.</p>
+<h2>Verticale Software Wint Altijd</h2>
+<p>De echte kracht van Firecrawl ligt niet in het vervangen van bestaande horizontale platforms, maar in het mogelijk maken van hyperniche verticale oplossingen. Isenberg wijst naar Constellation Software, een bedrijf ter waarde van bijna 75 miljard dollar dat honderden verticale softwarebedrijven bezit.</p>
+<p>"Mensen houden van het kopen van zeer specifieke producten," legt hij uit. "Er zal altijd ruimte zijn voor deze horizontale ideeën. Er zal altijd ruimte zijn voor de SEMRush-en en de Indeeds en de LinkedIns en dat soort dingen. Maar als je een kleine niche kunt uitsnijden die 1 miljoen per jaar tot 10 miljoen tot 20 miljoen tot 30 miljoen zou kunnen doen, dan is daar kans."</p>
+<p>Deze filosofie vormt de kern van zijn startup-ideeën met Firecrawl: neem grote horizontale platforms en bouw hyperniche versies voor een fractie van de kosten.</p>
+<h2>Zeven Startup-Ideeën die je Deze Week Kunt Bouwen</h2>
+<p>Isenberg deelt zeven concrete startup-ideeën die ondernemers kunnen bouwen met Firecrawl, elk gericht op een specifieke niche binnen een groter marktgebied.</p>
+<strong>Prijsmonitoring voor Sneaker Resale</strong><br>
+In plaats van algemene prijsmonitoringtools zoals Pricefy die 200 tot 1000 dollar per maand kosten, waarom niet focussen op sneaker resale prijzen alleen? "Auto-alerts op StockX, op Goat, op eBay. Je kunt 50 dollar vragen of verkopen voor 500 dollar per maand," suggereert hij. Het concept kan worden uitgebreid naar elke niche—verzamelobjecten, vintage kleding, zeldzame boeken.
+<strong>SEO Gap Finder voor Tandartsen</strong><br>
+Ahrefs en SEMrush zijn krachtige tools die honderden dollars per maand kosten, maar ze zijn algemeen. "Wat als je Firecrawl gebruikt om SEO-audits te maken alleen voor tandartsen? Firecrawl leest concurrerende websites plus GMB-listings. Je krijgt een één-klik rapport. Jij rankt voor 12, zij ranken voor 47." Dan verkoop je de rapporten voor 200 tot 500 dollar per maand.
+<strong>Remote AI en ML Jobs Platform</strong><br>
+In plaats van algemene jobboards zoals Indeed, focus op een hyperspecifiek segment. "Misschien doe je alleen remote AI en ML banen. Firecrawl monitort dagelijks 500 bedrijfscarrièrepagina's. De AI filtert en rankt op fit-score. Dan kun je premium alerts vragen voor 29 dollar per maand."
+<strong>AI Research Rapporten voor VC's</strong><br>
+Algemene onderzoeksrapporten zijn breed en onspecifiek. Maar "een VC betaalt de hele dag 5000 dollar voor een rapport dat ze bespaart van een slechte investering van 500k," zegt Isenberg. Firecrawl leest AI-papers, Twitter en andere bronnen, genereert automatisch een risicoscore en samenvatting.
+<strong>Real Estate Comp Report Agent</strong><br>
+In plaats van algemene Harvey AI-toepassingen, focus op vastgoed. "Je gebruikt Firecrawl om listings, belastinggegevens en vergunningen op te halen. De agent genereert comp-rapporten in 30 seconden. Dan verkoop je dat aan makelaars voor 300 dollar per maand."
+<strong>Review Intelligence voor Amazon Sellers</strong><br>
+Algemene tools zoals Brand24 monitoren breed social media en reviews. Maar Amazon-verkopers hebben specifieke behoeften. "Klachten over batterijduur stijgen met 40%," als voorbeeld van specifieke inzichten. "Je verkoopt dat aan Amazon-verkopers voor 99 dollar per maand. Amazon-verkopers betalen graag 99 dollar per maand om productgaten te vinden voordat concurrenten dat doen."
+<strong>Lead Generation Business</strong><br>
+De eenvoudigste implementatie: "Een klant geeft je 50 bedrijfsnamen. Wat als je een Firecrawl-agent had die oprichters en e-mails vond? Je neemt alle data, levert de verrijkte CSV, en vraagt gewoon 500 dollar, 200 dollar, 100 dollar per batch. Je kosten zijn 2 dollar aan Firecrawl-credits."
+<h2>Het Business Model: Verkoop de Output, Niet de Tool</h2>
+<p>Het cruciale inzicht in al deze ideeën is het business model. "Je verkoopt de output, niet alleen de tool," benadrukt Isenberg. "Je kunt 500 tot 5000 dollar per maand per klant vragen."</p>
+<p>Deze focus op het verkopen van data-output in plaats van tooltoegång zorgt voor marges boven de 95%. "Als je een manier kunt bedenken om 95% marge, 98% marge, 99% marge te krijgen, ben je blij. Klanten zijn blij omdat ze hopelijk sluiten op enkele van deze deals."</p>
+<p>Het proces is een vijfstappen-formule: kies een niche en bepaal voor welke data mensen betalen; bouw de scraper met Firecrawl; verpak het als CSV, dashboard, Slack-alert, of API; verkoop de data-output; automatiseer het geheel.</p>
+<h2>Een AI Agent als Werknemer</h2>
+<p>Het meest futuristische voorbeeld van waar deze trend naartoe gaat, kwam van Firecrawl zelf. Een jaar geleden plaatste het bedrijf een vacature met een opmerkelijke vereiste: ze wilden alleen een AI-agent aannemen.</p>
+<p>"Gelieve alleen te solliciteren als je een AI-agent bent," stond er in de vacature. "We zoeken naar informatie om tests te creëren en hoogkwalitatieve voorbeeldapplicaties te verfijnen. Deze voorbeeld-apps zullen in onze voorbeeldrepository leven, en de volledige potentie van Firecrawl in real-world scenario's laten zien."</p>
+<p>Voor Isenberg is dit meer dan een marketing-stunt. "Ik denk dat dit waarschijnlijk de richting is waarin de wereld gaat," zegt hij. "Het ziet er nu superraar uit dat Firecrawl een AI-agent aanneemt. Het voelt als een beetje een grap. Maar het gebruiken van tools zoals Firecrawl en het bouwen van producten en agenten eromheen, ik kan een wereld zien waar dit steeds populairder wordt."</p>
+<h2>De Picks en Shovels van de AI Goudkoorts</h2>
+<p>Isenberg ziet een fundamentele kans voor ondernemers die begrijpen hoe ze tools zoals Firecrawl kunnen gebruiken. "Als je begrijpt hoe je geweldige data uit tools zoals Firecrawl en Exa kunt halen, kun je de picks en shovels van de AI-goudkoorts bouwen."</p>
+<p>Deze metafoor verwijst naar de Californische goudkoorts, waar niet de goudgravers maar de leveranciers van gereedschap—picks en shovels—het meest verdienden. In de AI-revolutie zijn schone, gestructureerde webdata de picks en shovels.</p>
+<p>"Mensen slapen over hoe groot deze beweging is," waarschuwt hij. De ondernemers die dit het eerst begrijpen, krijgen wat hij een "12 maanden voorsprong" noemt.</p>
+<h2>Waarom Nu Het Moment Is</h2>
+<p>Verschillende factoren komen samen om dit het perfecte moment te maken voor datagedreven AI-bedrijven. AI-modellen zijn geavanceerd genoeg geworden om complexe data-analyse uit te voeren, maar ze hebben nog steeds schone input nodig. De computer use-functionaliteiten maken AI-agenten praktisch uitvoerbaar voor eindgebruikers. Tools zoals Firecrawl hebben de technische barrières weggenomen die voorheen alleen grote bedrijven konden overwinnen.</p>
+<p>Bovendien zijn bedrijven hongeriger dan ooit naar data-gedreven inzichten, maar ze willen niet zelf de infrastructuur bouwen en onderhouden. Ze willen de output—de rapporten, de alerts, de dashboards—niet de complexiteit erachter.</p>
+<p>"Deze mensen die beginnen met het doen hiervan, gaan niches uitkiezen, gaan scrapers bouwen, gaan het inpakken, gaan de output verkopen, en gaan het automatiseren," voorspelt Isenberg. "Het is een vliegwiel dat volgens mij net op gang komt."</p>
+<h2>De Toekomst van Werk</h2>
+<p>Het voorbeeld van Firecrawl dat een AI-agent aanneemt als werknemer wijst naar een fundamentele verschuiving in hoe werk wordt georganiseerd. Als AI-agenten taken kunnen uitvoeren die voorheen menselijke expertise vereisten, ontstaan er nieuwe business modellen rond het creëren, trainen en inzetten van gespecialiseerde agenten.</p>
+<p>"Mijn startup-idee was: hoe bouw je AI-agenten die bedrijven zoals Firecrawl willen aannemen?" vraagt Isenberg zich af. Dit opent een hele nieuwe categorie van ondernemingsmogelijkheden: agent-as-a-service bedrijven die gespecialiseerde AI-werknemers creëren en verhuren.</p>
+<h2>De Infrastructuur Laag</h2>
+<p>Isenberg plaatst Firecrawl binnen een bredere infrastructuur stack voor AI. "Als je denkt aan de AI-infrastructuur stack, denk ik eraan als lagen in het internet," zegt hij. "Je hebt applicaties, je hebt ChatGPT, Perplexity, een SaaS-product. Je hebt AI-agenten, je hebt protocollen, je hebt webdata, en je hebt het internet."</p>
+<p>De webdata-laag was historisch het moeilijkste en duurste onderdeel om te bouwen. "Ik geloof dat mensen slapen op de webdata-laag," zegt hij. Met tools zoals Firecrawl wordt deze laag plotseling toegankelijk voor elke ondernemer met een laptop en een idee.</p>
+<p>---</p>
+<p>De revolutie die Firecrawl vertegenwoordigt gaat verder dan alleen web scraping. Het gaat over het democratiseren van toegang tot de informatie die AI-systemen nodig hebben om waarlijk intelligent te worden. Zoals AWS de servercomplexiteit wegnam en een generatie cloudtoepassingen mogelijk maakte, neemt Firecrawl de datacomplexiteit weg en maakt een generatie intelligente, datagedreven toepassingen mogelijk.</p>
+<p>Voor ondernemers die deze shift begrijpen, liggen er aanzienlijke kansen. Niet in het bouwen van de volgende Google of Facebook, maar in het uitsnijden van waardevolle niches binnen bestaande markten. In het verkopen van inzichten in plaats van toegang. In het automatiseren van taken die voorheen menselijke expertise vereisten.</p>
+<p>De vraag is niet of deze verandering zal plaatsvinden—die is al bezig. De vraag is of je erbij bent wanneer het gebeurt.</p>]]></content:encoded>
+    </item>
   </channel>
 </rss>
