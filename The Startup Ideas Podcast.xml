@@ -5,8 +5,113 @@
     <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml</link>
     <description>Artikelen gegenereerd van The Startup Ideas Podcast podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Wed, 10 Jun 2026 17:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 17:44:09 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml" rel="self" type="application/rss+xml"/>
-
+    <item>
+      <title>Het Gevaar van Autonome AI-Systemen</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml#2026-06-10_The Startup Ideas Podcast_What are Agentic Loops_</link>
+      <description>Ross Mic zit voor zijn computer en scrollt door de nieuwste AI-content op sociale media. Zijn ergernis wordt steeds zichtbaarder. Overal ziet hij dezelfde boodschap: autonome AI-systemen zijn de toekomst. Influencers, startup-gurus, tech-commentatoren—allemaal zweren ze bij deze nieuwe manier van...</description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-06-10_The Startup Ideas Podcast_What are Agentic Loops_</guid>
+      <content:encoded><![CDATA[<h1>Het Gevaar van Autonome AI-Systemen</h1>
+<em>Iedereen heeft het over zelfwerkende AI-systemen die je hele app kunnen bouwen. Tech-expert Ross Mic legt uit waarom deze trend een dure valkuil is—behalve als je geld kunt verbranden zoals de tech-elite.</em>
+<p>---</p>
+<p>Ross Mic zit voor zijn computer en scrollt door de nieuwste AI-content op sociale media. Zijn ergernis wordt steeds zichtbaarder. Overal ziet hij dezelfde boodschap: autonome AI-systemen zijn de toekomst. Influencers, startup-gurus, tech-commentatoren—allemaal zweren ze bij deze nieuwe manier van werken waarbij je één keer een opdracht geeft aan je AI en dan toekijkt hoe het autonoom je hele applicatie bouwt.</p>
+<p>"Iedereen heeft het erover," zegt Mic met de directheid die hem kenmerkt, "maar de realiteit is dat de meeste mensen niet weten wat het is of hoe ze het moeten gebruiken."</p>
+<p>Hij leunt naar voren, zijn stem krijgt de urgentie van iemand die een waarschuwing moet afgeven. "Je gaat begrijpen wat zo'n systeem is. Je gaat begrijpen waarom mensen er opgewonden over zijn. En je gaat begrijpen waarom het een verschrikkelijke vergissing is—tenzij je geld kunt verbranden."</p>
+<p>Zijn waarschuwing komt niet uit cynisme. Mic heeft de AI-revolutie van dichtbij meegemaakt en weet wanneer een trend echt transformatief is, en wanneer het gewoon duur speelgoed voor de elite wordt.</p>
+<h2>De Kloof Tussen Twee Werelden</h2>
+<p>Mic toont zijn scherm—eenvoudige diagrammen met stokfiguren die hij voor drie dollar heeft gekocht. "Dit ben jij en ik," zegt hij, wijzend naar de simpele tekeningen. "Dit is je gemiddelde persoon die niet werkt bij Anthropic of OpenAI." Dan wijst hij naar een andere set figuren. "En dit zijn Boris en Peter en iedereen anders die onbeperkte toegang heeft tot modellen."</p>
+<p>Het contrast is onmiddellijk duidelijk. Aan de ene kant staan gewone ontwikkelaars, startups, freelancers—mensen met beperkte budgetten en deadlines. Aan de andere kant staat de tech-elite, voor wie de kosten van AI-gebruik geen rol spelen.</p>
+<p>"De manier waarop jij en ik hebben gewerkt," legt Mic uit terwijl hij door zijn diagram navigeert, "is met de mens in de loop." Het proces is vertrouwd: je stuurt een opdracht naar je computer, of je nu Cursor, Claude, of ChatGPT gebruikt. Het systeem genereert een resultaat. Jij bekijkt het, test het, en verbetert het. "Laten we zeggen dat ik aan een app werk—een takenlijst-app. Het eerste wat ik waarschijnlijk wil doen is een landingspagina bouwen omdat ik dit naar buiten wil brengen zodat mensen zich kunnen aanmelden."</p>
+<p>Het is een methodische, stapsgewijze benadering. Eerst de landingspagina, dan authenticatie, dan de backend. Bij elke fase ben jij degene die stuurt en goedkeurt.</p>
+<p>"Dit is wat wij gewend zijn," zegt Mic. "De AI bouwt, maar jij bent degene die stuurt, controleert, en beslissingen neemt."</p>
+<p>Maar dan krijgt Mic een andere blik in zijn ogen—de blik van iemand die op het punt staat een illusie te doorbreken.</p>
+<h2>De Valse Belofte van Volledige Autonomie</h2>
+<p>"Waar iedereen het over heeft," zegt hij, "met name Boris en Peter, is dat ze geen opdrachten meer schrijven. Ze genereren en bouwen systemen waarbij de AI zichzelf aanstuurt." Zijn stem krijgt een sarcastische ondertoon. "In essentie bouwen ze een systeem waarbij de AI een resultaat genereert, dat resultaat wordt dan teruggevoerd in de AI. De AI kijkt dan naar het resultaat en gaat verder met werken."</p>
+<p>De theorie klinkt verleidelijk: schrijf een uitgebreid specificatiedocument, druk op start, en laat de AI je hele applicatie bouwen zonder verdere interventie. Het is de heilige graal van automatisering—één keer een opdracht geven en dan koffie gaan drinken terwijl je product zichzelf bouwt.</p>
+<p>"In theorie klinkt dit geweldig," erkent Mic, "omdat we zeggen dat ik gewoon een soort specificatie-bestand ga hebben. Dit wordt een takenlijst. En dit gaat alle informatie geven die de AI nodig heeft om dit te bouwen."</p>
+<p>Maar dan komt de klap. "Hier gaat het verschrikkelijk mis."</p>
+<h2>De Ontwikkelaar Vergelijking</h2>
+<p>Mic illustreert het probleem met een verhaal dat elke ondernemer herkent—een verhaal van miscommunicatie en gebroken verwachtingen.</p>
+<p>"Laten we zeggen dat we een startup bouwen, jij en ik. We huren een zeer slimme ontwikkelaar in en vertellen deze ontwikkelaar: dit is de app die we willen bouwen. Dit zijn de dingen die het nodig heeft. De ontwikkelaar gaat aan de slag en bouwt het hele ding zonder ons te raadplegen."</p>
+<p>Zijn stem wordt intenser. "Bij het bouwen van dat hele ding moet die ontwikkelaar aannames maken. Aannames over hoe het product eruitziet, hoe het gaat voelen, bepaalde architecturale beslissingen. Veel aannames worden gemaakt."</p>
+<p>Het is een universele waarheid die elke projectmanager kent: geen document is ooit compleet. "Je denkt misschien dat je plandocument alles dekt, maar de waarheid is dat het dat nooit doet. Er is altijd een randgeval, iets dat gemist wordt."</p>
+<p>En dan komt de pijn. "Dus wat de ontwikkelaar gaat doen, is veel aannames maken. Die aannames zijn misschien niet uitgelijnd met onze productvisie. Nu hebben we een ontwikkelaar die komt met een afgewerkt product, en er zijn een heleboel dingen op orde, maar het is niet zoals wij het willen."</p>
+<h2>Wanneer AI Duur Wordt</h2>
+<p>Mic laat zijn frustratie nu volledig blijken. "Hetzelfde gebeurt wanneer je dit gestapelde specificatie-bestand hebt en je geeft het aan een AI en je laat het in dit zelfwerkende systeem draaien. Je hebt nu een AI die aannames gaat maken. En geloof me, wanneer je de AI de ruimte geeft om aannames te maken, gaat het meestal mis."</p>
+<p>Hier raakt hij de kern van het probleem. Dit is geen academische discussie, maar een financiële realiteit die startups kan breken. "Maar het gaat niet alleen mis—het gaat ook veel geld kosten."</p>
+<p>"Ik zeg dit met alle liefde, maar Boris en Peter komen uit een omgeving waar ze geen budget hebben voor AI-gebruik. Ze kunnen onbeperkte rekeneenheden verbranden. Als ik onbeperkte rekeneenheden had, zou ik hetzelfde doen. Maar dit is niet productief."</p>
+<p>Om dit te onderstrepen, haalt Mic een concrete waarschuwing aan. "Als je me niet gelooft, hoef je alleen maar naar Peter's tweet te kijken waar hij in één maand 1,3 miljoen dollar aan AI-gebruik heeft verbrand."</p>
+<p>Eén miljoen driehonderdduizend dollar. In één maand. Voor de gemiddelde ontwikkelaar met een €20 of €100 per maand abonnement is dit ondenkbaar.</p>
+<p>"Dit is geweldig voor onderzoek," erkent Mic. "Deze systemen zijn geweldig om prototypes mee te bouwen. Deze zijn geweldig om mee te experimenteren. Maar als je om de details geeft en je hebt geen geld om te verbranden, is dit het ergste dat er op dit moment trending kan zijn."</p>
+<h2>De Gokautomaat van de AI-Wereld</h2>
+<p>Een van de populairste manifestaties van deze autonome systemen heeft een naam die even simpel als misleidend is: Slash Goal. Mic is er niet van onder de indruk.</p>
+<p>"Ze zijn allemaal hetzelfde. Ze hebben verschillende namen. Slash Goal op het ene platform, Slash Loop in Cursor, en Slash-wat-dan-ook op een ander platform." Het principe is verleidelijk simpel: typ je opdracht, voeg eventueel een bestand toe, en laat de AI het volledig afmaken. "Vertel het om dit hele ding te bouwen. Stop niet tot je klaar bent. Maak geen fouten."</p>
+<p>Maar Mic ziet fundamentele problemen. "Deze zijn interessant. Maar er zijn twee issues. Ten eerste verbranden ze veel rekeneenheden. Als je niet op het tweehonderd-euro-per-maand plan zit, zou dit niet eens een gedachte moeten zijn."</p>
+<p>Het tweede probleem is dieper. "Ten tweede denk je dat je plan goed is, maar dat is niet zo omdat het onmogelijk is voor jou als mens om elk detail over het product dat je wilt vast te leggen in één document."</p>
+<p>Mic's stem wordt filosofischer. "Dingen evolueren. Trends veranderen. De ene dag is een bepaalde stijl populair. De volgende dag willen we het anders. Het is heel onmogelijk voor jou om al je gedachten en precies hoe je wilt dat het product wordt vastgelegd in één document."</p>
+<p>Hij haalt de realiteit van klantwerk aan—een pijnlijke waarheid die elke freelancer kent. "Als iemand werkt in dienstverlening, of je nu een bureau runt of software ontwikkelt voor andere mensen en bedrijven, proberen we altijd alle gedachten uit iemands hoofd te krijgen. Er is altijd iets. Er is altijd iets dat je gemist hebt of 'ik wilde het zo, dit is wat ik bedoelde'."</p>
+<p>Dan komt de cruciale vraag: "Hoeveel meer denk je dat een AI je gaat begrijpen als we als mensen moeite hebben om elkaar te begrijpen?"</p>
+<h2>Wanneer Autonomie Wel Werkt</h2>
+<p>Maar Mic is geen absolute tegenstander. Hij vertelt een verhaal dat laat zien wanneer deze systemen daadwerkelijk waarde kunnen toevoegen—een verhaal over experimentatie zonder perfectieverwachtingen.</p>
+<p>"Laat me je een leuk, interessant hulpmiddel laten zien dat ik laatst heb gebouwd," zegt hij, zijn toon veranderend van waarschuwing naar enthousiasme. "Ik deed een presentatie en wilde een Among Us simulator bouwen voor AI-modellen."</p>
+<p>Among Us—het populaire spel waarbij spelers proberen te ontdekken wie de saboteur is. "Eigenlijk is het dit spel waarbij er één slechterik is, één bedrieger, en iedereen probeert uit te vinden wie het is. Ik wilde mijn eigen test hebben om erachter te komen welke modellen goed zijn in liegen."</p>
+<p>Hier was het cruciale verschil: Mic gaf niets om de details. "Ik wilde niet zorgen over de details. Het maakte me niet uit hoe het eruitzag. Ik wilde alleen dat de simulatie en de test werkten."</p>
+<p>Hij gaf de AI zijn opdracht—bouw de simulator, bouw de test, laat het dit doen—en liet het zijn gang gaan. "Het duurde ongeveer anderhalf uur en het was klaar."</p>
+<p>Het resultaat was verre van perfect. "Er waren veel details die ik in gedachten had die het compleet verkeerd begreep die ik niet specificeerde in de beginopdracht. Maar omdat ik niet gaf om wat het bouwde, gaf ik niet echt om de details. Het was geweldig. Ik besteedde niet veel tijd. Slash Goal zorgde voor alles."</p>
+<h2>De Perfecte Metafoor</h2>
+<p>"Wat ik je hoor zeggen," onderbreekt zijn gesprekspartner, "is dat deze systemen een gokautomaat gaan creëren?"</p>
+<p>"Gokautomaat. Dat is eigenlijk wat het is," bevestigt Mic onmiddellijk.</p>
+<p>Het beeld is perfect—je stopt geld erin, trekt aan de hendel, en hoopt op een jackpot. Soms win je iets bruikbaars, vaak verlies je alleen je investering. En net als bij echte gokautomaten kunnen de kosten snel oplopen.</p>
+<p>"Ik heb er geen twijfel over dat Boris en Peter zeer geavanceerde systemen bouwen," erkent Mic. "Ik kan me voorstellen dat ze zoiets hebben als een testsuite waarbij ze tests schrijven voor de AI om de code tegen te laten lopen zodat het een bepaalde kwaliteit heeft. Ik weet zeker dat ze ook een soort browser-functionaliteit hebben zodat de AI de pagina live kan zien en screenshots kan maken."</p>
+<p>Deze tech-elite heeft waarschijnlijk "een waanzinnige infrastructuur rond de AI zodat dit systeem succesvoller kan zijn dan het gemiddelde systeem."</p>
+<p>Maar dan komt Mic's contraargument: "Maar aan het einde van de dag gaat dit veel rekeneenheden verbranden."</p>
+<h2>Een Werkend Voorbeeld: Code Review</h2>
+<p>Na alle waarschuwingen en kritiek wordt Mic constructief. Hij gaat een verhaal vertellen van een zelfwerkend systeem dat daadwerkelijk waarde toevoegt—zijn eigen dagelijkse workflow.</p>
+<p>"Ik gebruik meestal Cursor als mijn voornaamste tool. Met Cursor gebruik ik GitHub als mijn versiebeheersysteem, eigenlijk een plek waar ik code opsla en versiebeheer doe. Elke keer dat ik een feature push, push ik code naar GitHub."</p>
+<p>Tot nu toe klinkt het als standaard ontwikkelworkflow. Maar dan komt de wending.</p>
+<p>"En in GitHub heb ik een code review AI geïnstalleerd. Er zijn er veel soorten. Degene die ik gebruik is Greptile, maar mensen gebruiken CodeRabbit, Macroscope. Ze zijn allemaal goed. Ik gebruik Greptile."</p>
+<p>Hier begint de magie. "Wat er gebeurt is dat wanneer ik een feature push naar GitHub, de code die gepusht wordt door AI gegenereerd is. Maar dan heb ik een code review AI die de AI-code beoordeelt."</p>
+<p>Het is een elegante oplossing: AI die AI controleert, maar binnen een gestructureerd systeem met duidelijke parameters.</p>
+<p>"Wat interessant is aan Greptile is dat het me deze review geeft. Het is zoiets van: je hebt dit gemist. Er is dit beveiligingsding. Dit is kapot in dit randgeval. Het is behoorlijk goed. Maar mijn favoriete ding is dat het je een score geeft van één tot vijf."</p>
+<h2>De Vier-van-Vijf Regel</h2>
+<p>Mic heeft een ijzeren regel ontwikkeld: "Het denkmodel dat ik nu heb is dat ik niets naar productie zal pushen tenzij de score hoger is dan vier van de vijf. Als de score niet hoger is dan vier van de vijf, moet deze code worden herzien."</p>
+<p>Deze regel is zijn kwaliteitscontrole, zijn vangnet tegen AI-fouten. En hier komt zijn zelfwerkende systeem om de hoek kijken.</p>
+<p>"Hier is waar ik een zelfwerkend systeem gebruik," zegt hij, zijn stem krijgt de toon van iemand die een geheim onthult. "Ik heb deze functie genaamd 'grep loop'. Eigenlijk wil ik niet dat mensen denken dat het gecompliceerd is. Ik wil gewoon dat je begrijpt waar zelfwerkende systemen zinvol zijn."</p>
+<p>De workflow is elegant in zijn eenvoud. Wanneer hij een score van drie van de vijf krijgt, gaat hij terug naar Cursor en typt "grep loop". "Wanneer ik grep loop schrijf, leest Cursor de review die Greptile schreef op GitHub, en dan voert het de review terug in Cursor. Cursor maakt dan de wijzigingen, pusht de wijzigingen naar GitHub, en wacht op Greptile om een nieuwe review te doen."</p>
+<p>Het is een perfecte terugkoppellus: binaire input (de score), duidelijke actie (verbeter de code), meetbaar resultaat (nieuwe score). "Als de review nog steeds een drie van de vijf is, gaat het systeem verder en worden er meer wijzigingen gemaakt. Als het een vier van de vijf is, stopt het niet. Het neemt de feedback en pusht het terug naar GitHub. Het stopt niet tenzij het vijf pogingen heeft genomen en dan geeft het op, of het stopt niet tot het een vijf van de vijf krijgt."</p>
+<h2>De Grenzen van Perfectie</h2>
+<p>Maar zelfs in dit "perfecte" scenario erkent Mic de beperkingen. Zijn eerlijkheid is verfrissend in een wereld vol AI-hyperbole.</p>
+<p>"Kan ik eerlijk tegen je zijn? Dit systeem breekt soms ook. Het is niet perfect. Weet je wanneer het breekt? Elke keer dat ik meer dan duizend regels code push."</p>
+<p>Deze beperking illustreert een cruciaal punt: zelfs in een ideaal scenario met binaire feedback heeft het systeem grenzen. "Als de code die het moet reviewen meer dan duizend regels is, kan ik bijna nooit een vijf van de vijf krijgen omdat het te veel code is voor de AI om volledig te reviewen en te contextualiseren en te begrijpen."</p>
+<p>Mic moet zijn workflow aanpassen aan de beperkingen van de AI. "Elke keer dat ik een wijziging push, moet ik ervoor zorgen dat het duizend regels code of minder is, of ik moet Cursor vertellen om dit op te splitsen in meerdere onderdelen."</p>
+<p>"Ik zeg dat allemaal om te zeggen dat ik geen tegenstander ben, maar zelfwerkende systemen hebben gewoon geen zin op dit moment, vooral niet voor het bouwen van apps."</p>
+<h2>Waar Ze Wel Zin Hebben</h2>
+<p>Mic wordt specifiek over wanneer autonome systemen waarde toevoegen. "Ze hebben zin voor code review. Ze hebben misschien zin als je SEO doet en je hebt een soort SEO-formule en je wilt driehonderd pagina's gegenereerd en alle pagina's zien er hetzelfde uit en klinken hetzelfde. Ga je gang."</p>
+<p>De sleutel is het binaire karakter van de output. "Maar voor alles wat een beetje creativiteit vereist, tenzij je geld wilt doneren aan bedrijven die op het punt staan om publiek te gaan met triljoenen-dollar waarderingen, heeft dit gewoon geen zin voor mij."</p>
+<h2>De Startup Realiteit</h2>
+<p>Voor zijn doelgroep—startup founders, app builders, ondernemers—is het advies kristalhelder. "De persoon die naar deze podcast luistert, het heet letterlijk de Startup Ideas podcast. Ze bouwen apps. Ze willen een app creëren, een website, een startup, een SaaS, een micro SaaS, een AI-first startup met de hoogste kans op succes. En om dat te doen, moet je je app aan mensen laten zien om feedback te krijgen."</p>
+<p>Het fundamentele probleem met autonome systemen in dit scenario? "Wat ontbreekt aan het zelfwerkende systeem is dat er geen delen van je app zijn om feedback halverwege te krijgen. Je drukt gewoon op Slash Goal."</p>
+<p>Mic gebruikt een perfecte vergelijking: "Denk eraan als volledig autonoom rijden. Je gaat van Amsterdam helemaal naar Berlijn en je drukt op start. Je gaat onderweg zijn en je ziet een echt interessant restaurant aan de kant van de weg en je wilt een lokale specialiteit bestellen. Dat kan niet. Je bent gevangen in deze rit."</p>
+<p>Het beeld is krachtig—je bent opgesloten in een systeem dat geen afwijkingen toestaat, geen momenten van inzicht, geen kans om van koers te veranderen wanneer je iets interessants tegenkomt.</p>
+<p>"Of je het leuk vindt of niet, de trein heeft het station verlaten. Dat is wat dit is."</p>
+<h2>De Integriteitsverklaring</h2>
+<p>Tegen het einde van het gesprek komt Mic's belangrijkste statement—een verklaring van integriteit die de hele discussie samenvat.</p>
+<p>"Ik kan niet liegen tegen de mensen. Ik moet eerlijk zijn."</p>
+<p>Het is een simpele zin, maar hij vat samen waarom Mic zo gedreven is om deze waarschuwing af te geven. In een industrie vol hype en misleidende claims kiest hij ervoor om eerlijk te zijn over de beperkingen en kosten van nieuwe technologie.</p>
+<p>"Ik heb veel mensen zien opgewonden raken over dit. Dit is interessant, maar ik weet dat sommige mensen €20 abonnementen hebben, €100 abonnementen. Dit zal hier doorheen branden en het is helemaal niet productief."</p>
+<h2>De Toekomst Met Realisme</h2>
+<p>Ondanks zijn kritiek is Mic geen doomer. Hij ziet een toekomst waarin autonome systemen daadwerkelijk transformatief kunnen zijn.</p>
+<p>"Mijn geloof over zelfwerkende systemen," zegt hij, "ik geloof honderd procent dat we op een bepaald punt in de toekomst zullen komen waar dit mogelijk zal zijn. Gewoon niet nu."</p>
+<p>Hij begrijpt waarom de tech-elite experimenteert. "Nogmaals, ik vind ze niet kwaadaardig. Maar als ik ook een onbeperkt budget had, waarom zou ik dan nog opdrachten schrijven? Kosten doen er niet toe voor mij. Het is logisch. Ze moeten experimenteren. Ze moeten werken aan zelfherstellende systemen en dat soort dingen. Dus hun positie is logisch."</p>
+<p>Het probleem ontstaat wanneer deze experimenten worden gepresenteerd als praktische oplossingen. "Mijn probleem is met iedereen anders die content maakt en deze dingen onderwijst, zeggende, oh, dit is top tier, het is zoals, nee, tenzij je wilt doneren aan triljoenen-dollar bedrijven, dit is het niet op dit moment."</p>
+<h2>De Slotconclusie</h2>
+<p>Mic's finale statement is een krachtige samenvatting van zijn hele argument: "Systemen met de mens in de loop zijn de beste systemen."</p>
+<p>Voor de startup founder met een beperkt budget, concrete doelen, en de noodzaak om snel te itereren is betrokkenheid bij elke stap niet alleen praktischer—het is essentiëler. "Het zou het kunnen zijn over een maand en ik zou er als een dwaas uit kunnen zien. Maar op dit moment heeft dit gewoon geen zin."</p>
+<p>In een wereld waarin elke nieuwe AI-tool wordt gepresenteerd als een revolutionaire doorbraak, biedt Mic's stem een anker van praktische wijsheid. Zijn boodschap is niet om AI te vermijden, maar om realistisch te zijn over wat werkt, wat het kost, en wie werkelijk profiteert van de nieuwste trends.</p>
+<p>Autonome AI-systemen hebben hun plaats—in beperkte, gecontroleerde scenario's met binaire feedback en duidelijke parameters. Voor alles wat creativiteit, nuance, of menselijk oordeel vereist, blijft de mens onmisbaar in het proces.</p>
+<p>De volgende keer dat je verleid wordt door de belofte van volledig autonome AI-development, denk aan Mic's waarschuwing: tenzij je Peter's budget hebt, houd je handen stevig aan het stuur. Want in de wereld van AI-development is het beste systeem nog altijd het systeem waarin jij de controle houdt.</p>]]></content:encoded>
+    </item>
   </channel>
 </rss>
