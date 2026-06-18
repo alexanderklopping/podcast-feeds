@@ -1,0 +1,80 @@
+<!--
+podcast_name: Dithering
+guid: https://dithering.passport.online/member/episode/anthropics-pr
+-->
+
+# De Prijs van Gelijk Hebben
+
+*Anthropic bouwde in recordtijd de beste AI ter wereld. Maar succes vereist meer dan technische superioriteit—het vraagt om politieke wijsheid die het bedrijf nog niet bezit.*
+
+---
+
+Het was een dinsdag in juni toen iemand in een van de Apple-briefingrooms in Cupertino fluisterde: "Can't believe they're doing this this week." De man werkte voor een publicatie die nieuws moest brengen, hij zat in een zaal vol journalisten die wachtten op de volgende Apple-presentatie, en zijn telefoon trilde met berichten over iets wat honderden kilometers verderop in San Francisco aan het instorten was. De spreker die dit later vertelde, sloeg het op voor later. Maar toen hij er eindelijk aan toekwam, was het al te laat. Claude 3.5 Sonnet was al van het internet gehaald.
+
+Dat het model überhaupt even beschikbaar was geweest, maakt zijn verdwijning des te frustrerender. Want in die korte periode was iets merkwaardigs gebeurd: mensen die AI-modellen dagelijks gebruiken, die inmiddels zo gewend zijn aan verbeteringen dat ze ophouden ze te voelen, voelden het ditmaal wél.
+
+De host die dit vertelde, had het zelf nog kunnen aanraken. Zijn zoon had een app gebouwd voor het bijhouden van zijn zomerschema—een kleine, alledaagse klus, het soort ding dat vroeger een middag coderen had gekost. Claude 3.5 Sonnet had de basisversie praktisch in één keer goed. Het enige echte werk was daarna: de app moest van de browser's lokale opslag af en op een Docker container die op een Mac mini in het thuisrek draaide. "Dat deed het prima," zei de host. Niet spectaculair, niet veelzeggend—en toch precies de reden waarom mensen die het model hadden aangeraakt, er niet meer van terug wilden. Het werkte gewoon.
+
+Er zijn maar een paar momenten in de geschiedenis van kunstmatige intelligentie geweest waarbij een modelsprong tastbaar was—niet statistisch aantoonbaar, niet zichtbaar in benchmarks, maar gewoon voelbaar in het gesprek zelf. GPT-4 was zo'n moment. Grok 4, verrassend genoeg, ook. En nu dit. "Het maakte Claude 3 Opus en ChatGPT-4 oud aanvoelen," zei de host. "Gewoon in die zin die je krijgt."
+
+Dat gevoel is moeilijk te omschrijven aan iemand die het niet kent. Het beste vergelijkingsmateriaal is misschien de sprong in filmproductiewaarden: elke generatie heeft een moment waarop de effecten zo goed worden dat het er plotseling echt uitziet. Star Wars deed dat in 1977. Maar kijk nu naar die originele Star Wars en je ziet hoe primitief sommige effecten al lijken. Elke lat die wordt verlegd, zorgt ervoor dat alles wat eronder zat zichtbaar afzakt. Claude 3.5 Sonnet voelde als zo'n latverlegging. En toen was het weg.
+
+---
+
+Maar voordat het verdween, opende het model een discussie die verder reikt dan één modelrelease—en die precies begrijpt waarom Washington zenuwachtig werd.
+
+Claude 3.5 Sonnet was merkbaar beter in het vinden én exploiteren van bugs in andere systemen. Dat is precies zo alarmerend als het klinkt, maar ook precies zo vanzelfsprekend. Want wie goed nadenkt over wat programmeurs eigenlijk doen, ziet dat het vinden van een bug, het fixen van een bug en het exploiteren van een bug niet drie verschillende vaardigheden zijn. Het zijn drie uitkomsten van dezelfde vaardigheid.
+
+Een bug vinden is simpelweg begrijpen hoe de software werkelijk gedraagt—niet hoe ze bedoeld was te gedragen, maar hoe ze dat in de praktijk doet. Een bug fixen is bepalen wat je in plaats daarvan wil. En een bug exploiteren? "Exploits are, in a sense, fixes," zei de host. "It's just fixes for a different purpose." Als je als programmeur begrijpt hoe een bug werkt—als je de structuur van het programma doorziet—kun je er in principe alles mee. Je kunt geheugen uitlezen. Je kunt het systeem omleiden. Je kunt een beveiligingslaag omzeilen. De intentie verschilt; de technische handeling niet.
+
+Voor een model als Claude 3.5 Sonnet geldt hetzelfde. Wat de host voelde in zijn gesprekken met het model—het gevoel dat het niet alleen op de letterlijke tekst reageerde maar de strekking begreep, de richting, de onderliggende logica—is precies de eigenschap die een AI ook gevaarlijk maakt als het eenmaal in bugs duikt. Wanneer algemene redeneervermogens stijgen, stijgen ze aan alle kanten tegelijk. Het is moeilijk om een model te bouwen dat briljant advies geeft over artikelen maar stom blijft als het naar softwarekwetsbaarheden kijkt.
+
+Die combinatie—hogere redeneervaardigheden, betere bugdetectie, moeiteloze exploitatie—is wat de alarmbellen in Washington deed afgaan. Of Anthropic nou bedoeld had die capaciteiten vrij te geven of niet.
+
+---
+
+De Amerikaanse overheid had een richtlijn uitgevaardigd die buitenlandse staatsburgers—zowel binnen als buiten de Verenigde Staten, inclusief medewerkers van Anthropic zelf—de toegang tot het model ontzegde. Het was een maatregel die Anthropic voor een simpele maar onoplosbare wiskundige uitdaging stelde: hoe sluit je een model af voor je eigen personeel zonder het voor iedereen af te sluiten? Het antwoord luidde: dat doe je niet. Je trekt het terug.
+
+Maar hier ligt een dilemma dat groter is dan één directief. Want Anthropic moest een keuze maken die ook buiten Washington consequenties heeft: is het beter om kwetsbaarheden te verstoppen totdat ze zijn opgelost, of endure je een periode van pijn terwijl je ze in het open probeert te fixen? Het technologische precedent spreekt doorgaans voor transparantie. Maar de overheid heeft andere belangen dan een technologiebedrijf, en die belangen zijn niet per definitie onredelijk.
+
+Ondertussen werkt de rest van de wereld door. China loopt naar schatting zes tot achttien maanden achter op de technologische frontier—al is ook de aard van die achterstand een open vraag. Hoeveel van het verschil is te overbruggen via distillation—het trainen van een nieuw model op de outputs van een beter model—en hoeveel zit hem in pure rekenkracht die China simpelweg nog niet heeft? Dat is onduidelijk. Wat minder onduidelijk is: een groot deel van de mensen die momenteel in Silicon Valley aan AI bouwen, zijn Chinees. "This is not going to be neat," zoals de host het formuleerde. De grens tussen Amerikaans talent en Chinees talent is geen lijn die een exportbeperking netjes kan trekken.
+
+De modellen die worden tegengehouden door veiligheidsdirectieven, worden elders gewoon doorontwikkeld. De vraag is niet óf andere landen de capaciteiten van Claude 3.5 Sonnet zullen bereiken, maar wanneer.
+
+---
+
+"Waarschijnlijk heeft Anthropic op objectieve gronden gelijk," zei de host, "en hebben de mensen bij de overheid die dit besluit namen ongelijk. Maar het probleem is dat dit geen feitelijk onderzoek is—dit is een situatie waarin er uitdagingen zijn met mensen die andere zorgen hebben dan jij. En die zorgen zijn legitiem, ook als ze geen directe technische grondslag hebben."
+
+Dat onderscheid is cruciaal. Gelijk hebben en gelijk krijgen zijn twee verschillende dingen. Anthropic begrijpt het eerste beter dan wie ook. Het tweede is waar ze struikelen.
+
+Om te begrijpen waarom, moet je terug naar het begin. Anthropic werd opgericht door mensen die OpenAI verlieten omdat ze vonden dat veiligheid er onvoldoende serieus werd genomen. Dario Amodei, zijn zus Daniela, en een handvol collega's stapten op en bouwden een bedrijf dat zijn bestaansrecht rechtstreeks ontleende aan de overtuiging dat zij de enigen waren die dit goed deden. Niet de besten—de enigen die het ethisch serieus namen.
+
+Dat is een fundament, maar het is ook een geloofsbelijdenis. En een geloofsbelijdenis is moeilijk los te laten, zelfs als de omstandigheden veranderen. "Het is een religieus bedrijf," zei de host. Niet als belediging, maar als beschrijving. "Er is geen betere manier om het te zeggen." Die religieuze identiteit verklaart veel: de trouw van vroege Claude-gebruikers, die een jaar of twee geleden al bij Anthropic waren terwijl de rest van Silicon Valley zwoer bij ChatGPT-4. Het was meer dan voorkeur voor een model—het was een culturele aansluiting, een gevoel van deel uitmaken van iets wat de wereld anders zag.
+
+Maar religie in een bestuurskamer heeft een bijwerking. Ze neigt naar de overtuiging dat de eigen denominatie niet alleen de beste uitkomst nastreeft, maar ook de meest gezaghebbende is in het bepalen van de weg ernaartoe. Zoals kerken historisch van mening waren dat zij—niet de staat—de morele autoriteit hadden over vragen als euthanasie. Anthropic heeft een vergelijkbare overtuiging over AI-veiligheid. Dit is een religieuze beslissing. De overheid heeft hier niets over te zeggen.
+
+"Ze zijn beledigd," zei de host. En dat is precies het probleem.
+
+---
+
+De Apple-analogie werpt hier licht op iets wat moeilijk anders te benoemen valt.
+
+Apple bouwde decennia lang zijn identiteit als underdog. Het bedrijf dat iedereen afschreef. De rebellen tegenover IBM, tegenover Microsoft, tegenover de gevestigde orde. En in die rol ontwikkelde Apple een moreel narratief: wij zijn er voor de gebruiker. Wij geloven in privacy. Wij doen niet mee aan advertentiemodellen die mensen uitbuiten. Dat narratief was geloofwaardig zolang Apple de achterblijver was—het was het enige wapen dat ze hadden.
+
+Maar Apple werd de grootste en meest winstgevende onderneming op aarde. En het narratief bleef. Ook toen Google's advertentiegeld stroomde via Apple's Safari-standaardinstellingen. Er was wat de host ooit 'strategy credit' noemde: de opgebouwde geloofwaardigheid uit jaren van underdog-zijn, die nog lang na de feiten functioneerde als vrijbrief.
+
+Anthropic mist die spaarpot. Ze gingen in een paar jaar van onbekend startup naar technologische koploper, en ze namen de houding mee zonder de geschiedenis die haar rechtvaardigt. "Apple kon de underdog uithangen omdat mensen de laatste twintig jaar van Apple's geschiedenis kenden als underdog," zei de host. "Anthropic heeft zijn basis in Silicon Valley. Daarbuiten heeft het geen basis. En dat maakt ze politiek kwetsbaarder dan Apple ooit was."
+
+In Silicon Valley loopt al jaren het verhaal dat Claude de betere keuze is, dat Anthropic de volwassenere speler is. Maar dat verhaal drong nooit door. De meeste mensen hoorden voor het eerst van Anthropic twee maanden geleden.
+
+---
+
+En dat brengt ons terug bij de richtlijn, bij Washington, bij de vraag wat je doet als je technisch waarschijnlijk gelijk hebt maar politiek geen been hebt om op te staan.
+
+"Er is een totaal gebrek aan empathie voor iedereen anders," zei de host over Anthropic. "Je gelooft ons of je gelooft ons niet, en als je ons niet gelooft, ben je de vijand." Dat is geen politieke strategie. Dat is een geloofsverklaring.
+
+Geloofsverklaringen werken niet in Washington. De mensen in de overheid die bezwaar maken, hebben misschien geen technische expertise over grote taalmodellen of kwantumcomputing. Maar ze hebben de bevoegdheid. "Het maakt niet uit of je denkt dat de mensen in de administratie idioten zijn die het niet snappen," zei de host. "Ze hebben nog steeds de guns." Bedoeld als metafoor. Maar niet alleen als metafoor.
+
+Claude 3.5 Sonnet werd teruggetrokken. Het zal terugkomen, in een andere versie, na andere onderhandelingen. De technologie zal blijven verbeteren—dat is het enige waarover iedereen het eens is. En ergens, in de tijd die verstrijkt tussen release en terugname, zullen meer mensen een zomerschema-app bouwen met hun kinderen, of een artikel laten reviewen, of simpelweg het gevoel hebben dat iets anders is dan gisteren. Dat het model ze begrijpt in plaats van antwoordt.
+
+Totdat het er niet meer is. En je je afvraagt of je een Anthropic-gebruiker bent of toch maar een ChatGPT-gebruiker. De één is de Spurs. De ander is de Knicks.
