@@ -1,0 +1,172 @@
+<!--
+podcast_name: Victor Duidt TV
+guid: 52406a99-f42f-439d-b72f-b468010e79fc
+-->
+
+# Het Stille Seizoen: Oranjestilte, een Stille Dood en de Strijd om de Kijker
+
+*Het WK voetbal domineerde de televisie, maar het land bleef opvallend koel. Terwijl Nederland wachtte op de koorts die maar niet wilde komen, sloot RTL Tonight zijn deuren met nauwelijks een rimpeling in het water. Wat volgde was een panorama van programma's op zeer verschillende punten in hun levenscyclus — sommige nog maar net geboren, andere in diepe crisis, één definitief begraven. In de kijkcijfers, de studiosfeer en de stille talkshows tekenden zich oordelen af die iedereen kon lezen, maar die niemand hardop wilde uitspreken.*
+
+---
+
+Het grootse sporttoernooi ter wereld had Nederland in zijn greep. Althans, dat was de verwachting. De werkelijkheid was grilliger, zoals ze dat zo vaak is.
+
+Het WK voetbal had de televisie overgenomen. Wie zondagavond zapte, stuitte op NPO 1. Wie maandagochtend de krant opensloeg, las over doelpunten en formaties. Wie de televisiegidsen bekeek, zag schema's die volledig waren herschikt rond het toernooi. Maar wie met gewone mensen sprak — in de supermarkt, op het werk, aan de keukentafel — merkte iets anders. De koorts was er nog niet. Die typische Nederlandse collectieve bezwering, waarbij een land van zeventien miljoen mensen even één dierbaar en dwaas geheel wordt, bleef vooralsnog uit.
+
+Oranje Koorts is geen metafoor. Het is iets wat je kunt meten, zowel emotioneel als wetenschappelijk. Uit onderzoek beschreven in het boek *Zakernomics* bleek dat het zelfmoordpercentage in landen die deelnemen aan een EK of WK daalt ten opzichte van landen die er niet aan meedoen. De verklaring is simpel en tegelijkertijd ontroerend: mensen voelen zich verbonden. Ze zijn deel van iets groters. En die verbondenheid verdwijnt niet wanneer het toernooi eindigt of wanneer Oranje er in de kwartfinale uitvliegt. Ze blijft hangen, als een residu van gezamenlijkheid. Oranje Koorts heeft dus een functie. Niet als spektakel, maar als sociaal cement.
+
+En juist daarom viel het gebrek eraan op. Niet als blamage voor de voetballers of de KNVB, maar als symptoom van een land dat moeite had zijn eigen enthousiasme te vinden.
+
+De eerste wedstrijd — Nederland tegen Japan, die zondagavond — zou als lakmoesproef fungeren. Bij het vorige WK, in 2022, trokken de drie groepswedstrijden van Oranje gemiddeld tussen de 3,8 en 4,4 miljoen kijkers. Een eerste wedstrijd die dat getal niet zou halen, zou meer zeggen dan alle analistenpanels bij elkaar.
+
+---
+
+Ondertussen speelde zich op hetzelfde NPO 1 een andere strijd af.
+
+De NOS had rondom de WK-wedstrijden een avondprogramma gebouwd: *WK-avond*, een talkshow met analisten die afwisselend werd gepresenteerd door **Sjoerd van Ramshorst** en **Gert van 't Hof** — twee betrouwbare gezichten die de NOS-kijker inmiddels goed kende. Klinisch, inhoudelijk, vertrouwd. Precies wat je van de NOS verwacht.
+
+Daar tegenover stond, op SBS, *Vandaag Inside Oranje* — de WK-editie van het programma dat inmiddels zo groot was geworden dat het zijn eigen zwaartekracht had. Ook twee uitzendingen per avond. Ook een decor met een Amerikaans diner-gevoel. Als een spiegel en zijn reflectie, zonder dat een van beide de aanblik prettig vond.
+
+Op dag één won de NOS de kijkcijferstrijd. Op dag twee won VI Oranje. Wat de programma's van elkaar onderscheidde, was niet kwaliteit maar karakter. De NOS leverde analyse. VI Oranje leverde sfeer — en ging soms zo ver van het voetbal af dat de sport zelf er bijna vergeten bij stond.
+
+Voor **Johan Derksen** was dat geen verrassing. De man die decennialang het voetbalcommentaar had gedomineerd, had zijn interesse in het onderwerp allang verbreed. "Als je je hele leven over één onderwerp hebt gesproken, dan wil je op een gegeven moment ook wel verbreden," en dat was aan zijn gezicht af te lezen zodra iemand een tactische analyse begon: een soort berusting die hij niet meer verborg. **René van der Grijp** daarentegen bloeide zichtbaar op. Voor hem was het WK nog altijd iets magisch.
+
+De verwachting was dat op echte Oranje-avonden — bij cruciale wedstrijden, bij doelpunten die een land van zijn stoel deden opstaan — de NOS zou winnen. En op de rustiger avonden, als het voetbal naar de achtergrond trad, zou SBS de kijker omarmen met zijn bredere programmering. Als Oranje Koorts uitbleef, werkte dat in het voordeel van SBS.
+
+SBS had bovendien iets wat de NOS bewust had weggegeven. De publieke omroep had de samenvattingsrechten van alle 104 WK-wedstrijden aan SBS verkocht — een beslissing die op het eerste gezicht merkwaardig leek, maar bij nader inzien een onmiskenbare logica had. De WK-rechten hadden een vermogen gekost. Meer zelfs dan een commerciële zender ervoor zou betalen, zoals **Chris Woerdes** — die voor John de Mol de sportrechtenonderhandelingen voert — al vaker publiekelijk had gezegd. Het was dus belastinggeld, en een publieke omroep heeft een andere verantwoordelijkheid dan een commerciële zender. Exclusiviteit is voor een commerciële speler een strategisch wapen. Voor de NOS is het dat niet — of in elk geval: het hoort het niet te zijn. Door de samenvattingsrechten te verkopen, bewees de NOS dat ze zorgvuldig met dat belastinggeld omging. Een commerciële zender zou die stap nooit zetten, want het geeft de concurrent een wapen. Maar de NOS is geen commerciële zender. En juist in dat onderscheid lag de verstandigheid van de beslissing. SBS had er dankbaar gebruik van gemaakt.
+
+---
+
+SBS had ook een ander programma in de strijd gegooid: *Oranje Café*, dagelijks om vijf uur, gepresenteerd door **Sam van Rooijen**. Het was in wezen een poging om het vroegere VI te reconstrueren — het programma dat VI ooit was voordat het zichzelf uitvond als cultureel fenomeen. Van Rooijen deed het in de stijl van **Wilfred Genee**, de presentator die de VI-tafel groot had gemaakt. Soms was het zo treffend dat het grensde aan imitatie. Soms leek hij zijn eigen stem nog te zoeken. Maar over het algemeen deed hij het goed. Brutaal genoeg, luchtig genoeg, betrokken genoeg.
+
+Het probleem zat elders aan tafel.
+
+*Oranje Café* was nog een pasgeboren programma, en dat was te zien aan alles: de chemie die er nog niet helemaal was, de dynamiek die haar vorm nog moest vinden. Maar pasgeboren programma's hebben tijd nodig. Dat wist iedereen. De vraag was of het daarvoor de ruimte zou krijgen.
+
+Het grootste knelpunt was **Nicky van der Gijp** — 25 jaar oud, zoon van René, en door Talpa neergezet op de positie die normaliter voor een veteraan is gereserveerd. "Ik heb een week met hem doorgebracht op Curaçao," en daarna was het oordeel genuanceerd: "ik vind het echt een hele aardige kerel." Dat hij veel van voetbal wist en er een groot hart voor had — dat stond buiten kijf. Maar weten van voetbal is niet hetzelfde als het kunnen besturen van een liveprogramma. Je zag het aan kleine dingen: een fractie ongemak als een gesprek een onverwachte wending nam, een aarzeling waar Derksen senior nooit had geaarzeld.
+
+De gedachte bij Talpa was waarschijnlijk geweest: hij is de zoon van René, hij weet van voetbal, hij heeft naam. Zet hem maar neer. Maar televisie is genadeloos voor wie nog niet klaar is voor de spotlight. Een betere aanpak zou zijn geweest: laat hem twee, drie keer per week aanschuiven als gast. Geef hem de kans om te wennen aan het medium, aan de dynamiek, aan de druk. Zet voor nu een meer ervaren analist op die positie.
+
+Nu lag de gehele last om het programma los te trekken bij Sam van Rooijen. En dat was te zien. Hij trok hard — maar aan gas kun je nog zo hard trekken, het gaat daardoor niet sneller groeien. Sommige dingen moeten ontstaan. De kijkcijfers rond de 200.000 waren niet dramatisch, maar wel teleurstellend voor wat een van de vlaggenschepen van de WK-programmering had moeten worden. Ter vergelijking: *Droomhuis op het platteland*, het programma dat daarvoor op dat tijdstip liep, trok vergelijkbare aantallen — en was een stuk goedkoper om te produceren.
+
+---
+
+Dan was er nog de kwestie van de reclame.
+
+De FIFA had drinkpauzes ingevoerd — officieel vanwege de hitte in steden als Dallas, Houston en Miami. Maar ze werden in elke wedstrijd ingelast, ongeacht het weer, op vaste momenten: rond de tweeëntwintigste minuut van elke helft. En de NOS had die momenten gevuld met reclame.
+
+Het leidde tot ophef. Mensen die voor het eerst het WK via de publieke omroep volgden, voelden zich bedrogen. Maar de redenering aan de andere kant was niet onbegrijpelijk: de rechten hadden een vermogen gekost, het was belastinggeld, en de NOS zocht naar manieren om dat geld terug te verdienen. Woerdes had er meerdere keren op gewezen dat de NOS structureel te veel betaalt voor voetbalrechten — meer dan het oplevert. Vanuit die logica was de reclame begrijpelijk, zelfs vanuit een publiek perspectief. Maar de kijker die voetbal kijkt, wil geen reclame. Die wil voetbal.
+
+---
+
+Terwijl de aandacht op het WK was gericht, viel er elders een gordijn. Het seizoen had zijn eerste dode.
+
+Op een vrijdagavond werd de laatste uitzending van *RTL Tonight* uitgezonden. Geen groot afscheid, geen zelffeliciterend retrospectief, geen bloemlezing van hoogtepunten. Slechts een reguliere uitzending, waarbij **Albert Verlinde** op een zeker moment even de redactie bedankte — meer was het niet. Het boek sloot zich geruisloos, als een deur die zachtjes in het slot valt.
+
+Het contrast met de afsluiting van *RTL Late Night* van **Humberto Tan**, destijds, was bijna te groot voor woorden. Die afsluitende week was zo uitbundig, zo zelfverheerlijkend geweest dat ze als zelfsatire kon worden gelezen. Kennelijk had men daar lessen uit getrokken, want *RTL Tonight* vertrok zoals het was aangekomen: met maximale verwachtingen, maar dit keer zonder het lawaai.
+
+321.000 kijkers voor de laatste uitzending. En slechts 46 procent bleef tot het einde kijken — een getal dat bij talkshows normaal gesproken aanzienlijk hoger ligt. Mensen blijven doorgaans kijken voor het afsluitende woord van de presentator. Maar er was geen afsluitend woord. En de kijker wachtte er niet op. Ze waren niet sentimenteel over een programma dat nooit hun hart had bereikt.
+
+*RTL Tonight* was groot aangekondigd. Prominente duiders, bekende namen, een heldere positionering als het serieuze avondalternatief. En toch was het in de praktijk een programma geworden dat nooit echt had gevonden wat het zocht. De vraag die nu restte: wat werd er van de duiders?
+
+Het AD schreef er een groot artikel over, met de strekking dat de meeste duiders wel op hun pootjes terecht zouden komen. En dat klopte voor het leeuwendeel. Maar voor drie namen leek de toekomst minder rooskleurig.
+
+**Ahmed Aboutaleb**, de voormalige burgemeester van Rotterdam, had bij *RTL Tonight* zijn mediadebuut gemaakt als commentator in plaats van als politicus. Hij was 21 keer te zien geweest, vaker in de eerste helft van het seizoen dan in de tweede. Hij sprak goed en duidelijk, had achtergrond als nieuwslezer en journalist voordat hij de communicatiewereld en daarna de politiek inging. Maar zijn analyses gingen te vaak over zichzelf. De verhalen waren niet altijd goed verteld. Als duider — iemand die helder en compact de lading van nieuws voor een breed publiek dekt — was hij niet overtuigend. De verwachting was dat hij incidenteel zou opduiken in talkshows, wanneer er een concrete aanleiding was. Maar als vaste duider? Dat leek een stap te ver.
+
+**Astrid Holleeder** was de meest pijnlijke casus. Negen optredens, groot aangekondigd, verwachtingen die ze nooit had kunnen waarmaken — en misschien ook niet had mogen hoeven waarmaken. Want de aankondiging was groter geweest dan haar capaciteiten op dat moment rechtvaardigden. Ze kon over zichzelf praten. Ze kon haar eigen verhaal vertellen met overtuiging — dat had ze bewezen in de eerste aflevering, waar ze indruk had gemaakt. Maar een duider is iemand die over *andere dingen* praat dan zijn eigen leven. Dat lukte haar niet. En wanneer je groot bent aangekondigd, is de afstand tussen belofte en werkelijkheid des te pijnlijker zichtbaar.
+
+De derde naam was **Ben van den Burg**. Hij was bij *RTL Tonight* maar liefst 51 keer ingezet — méér dan wie ook. Ter vergelijking: bij *Vandaag Inside* zat hij gemiddeld één keer per twee weken. Het verschil was enorm. En zelfs als hij naar VI zou terugkeren — iets waarover discussie bestond, mede omdat Johan Derksen er niet onverdeeld enthousiast over was — dan nog betekende dat een forse achteruitgang. Zijn rol als de warrige professor had charme, maar was ook een type dat snel zijn werking verloor als het te frequent op het scherm verscheen.
+
+Voor de rest van het veld — **Josien Drogendijk**, **Frits Wester**, **Anna Gimbrère**, **Gijs Rademacher** — gold dat zij waarschijnlijk hun weg zouden vinden, veelal bij het nieuwe programma van **Renzo Martens**, dat in het najaar zou starten.
+
+---
+
+Terwijl *RTL Tonight* geruisloos verdween, was *Vandaag Inside* nog volop in beweging — zoekend naar de juiste configuratie voor het nieuwe seizoen.
+
+Het nieuws dat **Albert Verlinde** terugkeerde bij het programma had iets van een stille logica. Zijn exclusieve contract met RTL liep niet door. Hij was nu vrij. En bij VI had hij altijd zijn thuis gehad — zijn gevoel voor roddel, zijn media-antennes, zijn aangeboren flair voor de lichte toon die bij het programma paste.
+
+Hij zou niet uitsluitend op de woensdagavond terugkeren. Dat tijdslot werd ingevuld door **Rutger Castricum** en **Wierd Duk** — een combinatie die, zo bleek uit de cijfers van het afgelopen half jaar, verrassend goed draaide. Maandag en dinsdag waren de sterkste avonden, gevoed door het voetbalweekend en de nieuwsstroom van de nieuwe week. Woensdag deed het prima. Donderdag was de zwakste schakel.
+
+De voor de hand liggende inzet voor Verlinde was de vrijdag — losser, lichter, meer van het programma dat je op een vrijdagavond wil zien. Hij kon media-onderwerpen bespreken zoals weinig anderen dat konden. En zo zou de week zijn structuur krijgen: maandag voor het voetbalweekend, woensdag voor de inhoudelijke gesprekken met Rutger en Wierd, vrijdag voor de lossere toon met Albert. Een programma op zoek naar de beste versie van zichzelf.
+
+---
+
+Als *RTL Tonight* de dode van het seizoen was en *Oranje Café* de pasgeborene, dan was *Pauw en De Wit* iets daartussenin: een programma in crisis, worstelend met vragen waarop het de zomer zou moeten vinden.
+
+Het had het seizoen sterk begonnen. Heel sterk zelfs. Van januari tot april schommelden de kijkcijfers routinematig tussen de 650.000 en 800.000 — een respectabel getal voor late primetime. Maar vanaf april begon iets te knagen. Geleidelijk, maar gestaag. In mei en juni lagen de cijfers tussen de 400.000 en 550.000. Een daling van meer dan een kwart.
+
+Hoe was dat te verklaren?
+
+Een voor de hand liggend antwoord was de politiek. De formatie was afgerond. Het nieuwe kabinet was op 23 februari beëdigd. Daarvoor had Nederland ruim een jaar in een staat van politieke spanning verkeerd, en *Pauw en De Wit* was precies het soort programma dat daarin uitblonk. **Jeroen Pauw** is in zijn element als Den Haag beweegt. Als het politieke nieuws opdrogt, droogt een deel van zijn publiek mee op.
+
+Maar dat verklaarde niet alles. De daling was te groot om volledig toe te schrijven aan de politieke stilte. VI — dat op hetzelfde tijdstip werd uitgezonden — had in diezelfde periode gelijke of zelfs licht stijgende cijfers. Er was dus geen sprake van een algehele terugloop in televisiekijken op dat uur. De kijker koos actief ergens anders voor. Dat wees op iets binnenin het programma: gasten die niet aanspraken, onderwerpen die misten, een dynamiek die haar spanning verloor.
+
+En dan was er de kwestie van de presentatoren.
+
+*Pauw en De Wit* werd gedraaid door drie presentatoren: Jeroen Pauw, **Tim de Wit** en **Roos Mogré**. De kijkcijfers van het hele seizoen gaven een helder beeld. Pauw gemiddeld: 626.000 kijkers per aflevering. De Wit: 599.000. Een verschil van 27.000 — te klein om zwaar te wegen, groot genoeg om te bevestigen dat de twee als nagenoeg gelijkwaardig konden worden beschouwd.
+
+Roos Mogré: 503.000. Een verschil van 123.000 ten opzichte van Pauw. Dat was niet klein. Dat was fors.
+
+Er was nuance nodig. Mogré had zeven van haar negentien presentatiebeurten in juni gedraaid — precies de periode waarin het programma al in dalende lijn zat. Maar ook als je alleen april tot en met juni bekeek, de periode waarin alle drie presenteerden onder vergelijkbare omstandigheden, bleef Mogré structureel lager scoren.
+
+Wat was er aan de hand?
+
+Mogré leek steviger aan haar draaiboek te zitten dan Pauw of De Wit. De spontaniteit die talkshows groot maakt — het moment waarop een gast iets onverwachts zegt en de presentator daarin meegaat, een stilte laat vallen, het gesprek een andere kant op leidt — dat leek bij haar minder te ontstaan. Een programma dat precies gaat zoals het gepland was, is een veilig programma. Maar het is geen memorabel programma.
+
+Dat betekende niet dat de situatie hopeloos was. Pauw had jaren ervaring, De Wit ook. Die vlieguren tellen. Maar het verschil was zo significant dat het niet genegeerd kon worden. Er was werk aan de winkel — en de zomer was het moment om dat werk te verrichten.
+
+---
+
+RTL 4 deed intussen iets wat bij een WK-zomer bijna opzienbarend was: niets. Geen WK-café, geen voetbalanalist achter een glazen tafel. De zender deed aan counterprogramming — het inhaken op het deel van het publiek dat juist weg wilde van het voetbal.
+
+Dat was niet onlogisch. Wie de kijkcijfers bekeek op de avonden van *Boulevard*, *GTST* en *RTL Tonight*, zag telkens hetzelfde: twee derde vrouwelijke kijkers. RTL 4 was onmiskenbaar een vrouwenzender geworden. En vrouwen kijken statistisch iets minder naar voetbal dan mannen.
+
+Het risico zat elders. Een brede zender die te sterk doorschiet naar één doelgroep, verliest langzaam zijn breedte. Mannelijke kijkers die bij RTL 4 structureel niets vinden dat hen aanspreekt, leren de zender af. Ze slaan hem over. En dat patroon, eenmaal ingesleten, is moeilijk te doorbreken. SBS was in vergelijking juist uitgesproken mannelijk — niet door beleid, maar door karakter. De twee zenders opereerden op dit punt als elkaars spiegelbeelden.
+
+---
+
+Ergens in de marge van het seizoen speelde zich een kleine televisierel af die groot voelde voor wie erbij betrokken was.
+
+De winnaar van *The Voice Kids* was uitgelekt. Het seizoen was nog niet eens begonnen op televisie, maar in de wereld van musicals en castingbureaus ging een naam rond. *Reality FM* wist wie het was.
+
+De reden dat dit kon gebeuren, was eenvoudig: de finale was niet live uitgezonden. Ze hadden haar tegelijkertijd met de reguliere editie van *The Voice* opgenomen — allebei al weken eerder. En een niet-live finale is een tijdbom. Op het moment dat een kind weet dat het gewonnen heeft, begint zijn of haar gedrag te veranderen. Agenten en castingdirecteuren gaan rekenen. Een knipogende opmerking — *ze doet het erg goed in The Voice, heel interessant voor jouw musical* — en een verhaal begint zijn weg te vinden. Niemand liegt, niemand verraadt een contract, maar de informatie verspreidt zich toch.
+
+De impact was beperkt maar aanwezig. De blinde audities — de momenten waarop coaches zich omdraaien voor een stem die ze niet kunnen zien — waren in hun waarde nog altijd intact. Maar de afvalrace daarna kon eronder lijden, nu de uitkomst bekend was.
+
+De les was oud en simpel, maar RTL leerde haar opnieuw: de finale van een talentenjacht moet live zijn. Niet omdat het technisch prettiger is. Maar omdat geheimen niet kunnen worden bewaard.
+
+---
+
+Intussen had **Mischa Blok** een reeks gemaakt die weinig ophef veroorzaakte maar stiller iets verdienstelijks deed.
+
+*Misha en de mannen die het beter weten* heette het programma — een portrettenserie op NPO 2, elke vrijdagavond om half negen. De eerste aflevering was met **Wierd Duk**, columnist en opiniemaker, iemand met zo'n uitgesproken eigen stem dat het de vraag was hoe hij zou overkomen als hij zelf het onderwerp was in plaats van de auteur.
+
+Het antwoord was: goed. De aflevering was fair. Duk kreeg de ruimte om te vertellen hoe hij was geworden wie hij was — een van de meest gelezen en meest uitgesproken opiniemakers van Nederland. Het scoorde 200.000 kijkers, wat minder was dan het programma verdiende. Het timingprobleem was evident: de eerste aflevering stond tegenover *Vandaag Inside*, een programma dat juist het VI-publiek aantrok — en dat publiek zou ook weleens geïnteresseerd kunnen zijn in een portret van Wierd Duk.
+
+Maar de persoonlijkste dimensie van het programma was er nog niet geweest. Want ook de maker zelf was een van de vier mannen. In de derde aflevering — vrijdag 26 juni — zou hij worden gevolgd. En dat gaf hem gemengde gevoelens, om het zachtjes uit te drukken. Heel veel dingen van op televisie komen, van kritiek krijgen, van aan de publieke blik worden blootgesteld — dat was niet het probleem. "Maar het idee dat je andere mensen de controle geeft over je eigen verhaal, dat vind ik altijd wel lastig." En dat was precies wat dit vroeg. Ze waren met hem mee geweest naar de sportschool. Een uur lang. Wat dat zou opleveren aan gênante beelden — hij wist het nog niet, en hij wist ook niet zeker of hij het wilde weten. Maar de aflevering stond al geprogrammeerd, de opnamen waren al gemaakt, en controle was hij allang kwijt.
+
+---
+
+Ten slotte was er Triviant — het jongste kind van het seizoen, nog niet eens geboren, maar al vol beloften.
+
+*Avrotros Triviant* was de naam waarmee het klassieke bordspel zijn televisiewedergeboorte tegemoet trad. Gepresenteerd door **Anniko van Santen** — bekend van *Opsporing Verzocht*, en voor de generatie die in de jaren negentig opgroeide ook van *Cartoon Express* en *Telekids* — zou het elke avond worden uitgezonden in de zes weken voorafgaand aan *De Slimste Mens*.
+
+En dat was precies het punt. *De Slimste Mens* was verplaatst van de zomer naar het najaar. Het tijdslot dat het jarenlang had bezet, lag leeg. Avrotros wilde dat gat vullen met iets dat dezelfde sfeer had: een kennisquiz met bekende kandidaten in een toernooiopzet. Het recept was herkenbaar, de verpakking was nieuw.
+
+Achter dat recept zat ook een internationale ambitie. **Talpa Studios** — het productiehuis van John de Mol — had Triviant enkele jaren geleden gelanceerd op de grote televisiebeurs in Cannes. Het format was aangeschaft door de Amerikaanse zender CW en liep er met genoeg succes om een tweede seizoen op te leveren. De Nederlandse versie was dus niet zomaar een lokale nostalgietrip. Het was een internationaal format, nu uitgezonden op de omroep die de man die het ook in Amerika produceerde goed genoeg kende.
+
+De zwakste schakel was de presentatrice. Niet omdat Anniko van Santen een slechte presentatrice was — dat was ze niet. Maar ze had iets wat televisie met een klinisch woord omschreef als *kleurloos*. Ze vulde het beeld zonder het te kleuren. Haar voorgangster bij het klassieke *Tros Triviant*, **Tineke de Nooy**, had precies hetzelfde profiel gehad. Maar een programma dat wil concurreren met de warme aanwezigheid van *De Slimste Mens*, met presentatoren als **Philip Freriks** en later **Herman van den Brink**, had iets kunnen winnen bij een uitgesprokenere persoonlijkheid.
+
+Maar Anniko was in dienst bij Avrotros. En ze had op dat moment weinig op haar agenda staan.
+
+---
+
+Het seizoen liep op zijn einde. RTL Tonight lag begraven. *Pauw en De Wit* had zijn huiswerk voor de zomer. *Oranje Café* moest nog loskomen. En Triviant wachtte op zijn geboorte in augustus.
+
+En ergens, in een land dat maar niet op hol sloeg van collectieve voetbalvreugde, wachtten zeventien miljoen mensen op het moment dat het toch zou komen — dat gevoel van verbondenheid waarvoor wetenschappers gedegen onderzoek hadden gedaan en waarbij ze hadden aangetoond dat het echt iets met mensen deed. Dat het zelfmoordcijfer daalde. Dat mensen zich minder alleen voelden. Dat een land even één was.
+
+Misschien zou het komen met de eerste wedstrijd. Misschien pas als Oranje verder kwam dan verwacht. Misschien helemaal niet dit toernooi.
+
+Volgende week: Maarten van Rossum.
+
+Televisie wachtte altijd. Ze had geen keus.
