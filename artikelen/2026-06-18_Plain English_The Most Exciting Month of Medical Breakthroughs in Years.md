@@ -1,0 +1,210 @@
+<!--
+podcast_name: Plain English
+guid: 44e7b60c-5e2e-11f1-8007-bb34b7df7e40
+-->
+
+# De Maand Dat Decennia Vielen
+
+*In de zomer van 2026 voltrokken zich binnen enkele weken drie medische doorbraken die elk afzonderlijk de geschiedenis van de geneeskunde zouden hebben gemarkeerd. Een nieuw medicijn verdubbelde de gewichtsverliesseffecten van het meest populaire afslankmiddel ter wereld. Wetenschappers vonden eindelijk een weg naar een eiwitfamilie die al decennia als onbereikbaar werd beschouwd, en met die sleutel openden ze de deur naar een therapie die patiënten met alvleesklierkanker voor het eerst echte hoop bood. En een piepklein gentherapie-onderzoek suggereerde dat het misschien mogelijk is om met één injectie het risico op hartziekte voor de rest van je leven dramatisch te verlagen. Twee ziekten die samen jaarlijks meer Amerikanen doden dan wat dan ook. Matthew Herper, een van de meest ervaren medisch journalisten van Amerika bij STAT News, hielp de wereld begrijpen wat er eigenlijk was gebeurd—en waarom dit moment niet zomaar uit de lucht was gevallen, maar het resultaat was van decennia stil, duur en vaak ondankbaar wetenschappelijk werk.*
+
+---
+
+Er is een uitspraak die doorgaans aan Lenin wordt toegeschreven, hoewel niemand hem ooit de precieze bron heeft kunnen aanwijzen: er zijn decennia waarop niets gebeurt, en er zijn weken waarop decennia gebeuren. In de medische wetenschap had die zin de afgelopen jaren een bittere bijklank gekregen. Onderzoekers klaagden dat de vooruitgang vertraagde, dat klinische onderzoeken steeds duurder en ingewikkelder werden, en dat de behandelingen die er uiteindelijk uit voortkwamen dikwijls slechts bescheiden verbeteringen boden. De rekening voor het ontwikkelen van één nieuw medicijn was in de afgelopen decennia uitgegroeid naar een getal dat niemand echt goed kan bevatten: ergens tussen de honderd miljoen en tien miljard dollar, afhankelijk van hoeveel kandidaten onderweg stranden. En dat getal stijgt, jaar na jaar, met de meedogenloze regelmaat van een wet die zelfs zijn eigen naam heeft gekregen.
+
+In de halfgeleiderindustrie kennen ze Moores Wet: rekenkracht verdubbelt elke twee jaar terwijl de kosten halveren. In de farmacologie kennen ze Erooms Wet—Moores Wet achterstevoren gespeld—omdat de kosten van medicijnontwikkeling even snel stijgen als rekenkracht ooit daalde. Elke generatie medicijnen is duurder dan de vorige. Elke klinische studie vergt meer patiënten, meer tijd, meer controle. Wetenschappers die hierover spraken klonken alsof ze rapporteerden over een trendlijn die maar in één richting wees.
+
+En dan, opeens, was er juni 2026.
+
+Op de jaarvergadering van de American Society of Clinical Oncology, kortweg ASCO—de plek waar kankerwetenschappers uit de hele wereld samenkomen om de nieuwste klinische data te bespreken en te bediscussiëren—stond een zaal met oncologieprofessionals op van hun stoelen. Dat was geen beleefd staand applaus. Het was de reactie van mensen die iets zagen waarop ze een heel werkzaam leven hadden gewacht. Een paar weken eerder had een kleine studie laten zien dat een experimentele gentherapie het slechte cholesterol bij mensen met hartziekte misschien voorgoed kon verlagen, met één enkele infusie. En intussen rolden de fase-drie-resultaten binnen van een nieuw medicijn dat de werking van Ozempic, het afslankwonder dat de afgelopen jaren het medisch-industriële complex had overhoop gegooid, gewoon verdubbelde.
+
+Matthew Herper, die al vijfentwintig jaar over geneesmiddelenontwikkeling schrijft, was er middenin. Als hij één ding heeft geleerd in al die jaren, zei hij, is het dat je op dit soort momenten gelijktijdig extatisch en voorzichtig moet zijn. Niet het een óf het ander. Allebei.
+
+---
+
+**Het drievoudig wonder van Eli Lilly**
+
+Laten we beginnen bij het medicijn dat in de breedte misschien wel de meeste aandacht trok: retatrutide, het nieuwe GLP-1-geneesmiddel van farmaceutisch gigant Eli Lilly. Of misschien moet je het een GLP-3-medicijn noemen, want het grijpt niet aan op één hormoon maar op drie: GLP-1, GIP en glucagon. In onderzoekerskringen had het al een bijnaam: Triple G. Herper vond die naam geweldig, en begrijpelijk—er zit iets geruststellend concreets in vergeleken met de bureaucratische tongbreker van de officiële naam. En er is iets symbolisch aan die drie letters: drie hormonen tegelijk in het gareel brengen was iets wat de vorige generatie medicijnen simpelweg niet deed.
+
+De fase-drie-resultaten waren indrukwekkend. Patiënten die retatrutide namen, verloren gemiddeld 28 procent van hun lichaamsgewicht. Ter vergelijking: semaglutide, dat de wereld kent als Ozempic of Wegovy en dat niet zo lang geleden werd geprezen als een historische doorbraak op zichzelf, bereikte gemiddeld 15 procent gewichtsverlies. Tirzepatide, het dubbelagonistmedicijn dat daartussenin zit, presteerde daar net onder. Het patroon was helder: singleagonist, dubbelagonist, Triple G—elke stap in de keten bracht meer gewichtsverlies. En de reeks is niet voorbij. Er komen nog krachtigere versies aan.
+
+Maar de gewichtsreductie was slechts het begin van het nieuwsbericht. Retatrutide verbeterde ook de slaapapneu van deelnemers, verlaagde hun bloeddruk, verzachtte kniepijn, bracht type 2 diabetes onder controle, verlaagde triglyceriden en het slechte cholesterol, en verminderde ontstekingsmarkers. Fase-twee-data suggereerden bovendien dat het visceraal vet rondom de lever—het soort vet dat bijzonder schadelijk is voor organen—met tachtig procent kon worden verminderd. Er waren ook vroege aanwijzingen voor voordelen bij verslavingsproblematiek, bij bepaalde psychiatrische aandoeningen. De lijst leek maar te groeien naarmate meer studies werden gepubliceerd.
+
+Herper koos zijn woorden zorgvuldig. "Ik geloof in de hype, maar dat hangt ervan af welke hype," zei hij. "GLP-1-medicijnen veranderen de wereld. Dit is de meest krachtige die we tot nu toe hebben gezien, en er komen nog krachtiger versies aan." Maar hij wilde ook één fundamentele vraag stellen: hoeveel van die imponerende lijst voordelen was echt een rechtstreeks effect van het medicijn zelf, en hoeveel was simpelweg het gevolg van gewichtsverlies?
+
+Het antwoord is niet zo eenvoudig als het lijkt. "We zijn niet gemaakt om zo zwaar te zijn," zei hij. "We zijn geëvolueerd om te lopen, actief te zijn en relatief slank te blijven. Obesitas is slecht voor je op een heel scala aan manieren. Als je het medicijn wegdenkt en je ziet al die positieve effecten, is de vraag of het medicijn al die dingen afzonderlijk doet, of dat het in wezen één ding doet—gewicht wegnemen—en dat de rest vanzelf volgt."
+
+Dat is geen triviale nuance. Er zijn aanwijzingen dat GLP-1-medicijnen méér doen dan alleen de weegschaal omlaag brengen. Er zijn onderzoeken die suggereren dat zelfs bij mensen die niet substantieel afvallen, sommige ontstekingsmarkers verbeteren. En er zijn de hersenmedieerde effecten—de signalen vanuit het centraal zenuwstelsel die niet direct via het metabolisme lopen—die wetenschappers nog proberen te begrijpen. Eli Lilly-topman Dave Ricks had eerder een vergelijking gemaakt met grote taalmodellen: die werken het beste wanneer er over een onderwerp een enorme hoeveelheid tekst bestaat waaruit ze kunnen leren. Voor het menselijk lichaam ontbreekt die tekst grotendeels nog. We kennen de moleculaire grammatica van ons metabolisme onvoldoende om met zekerheid te zeggen wat precies welk mechanisme aanstuurde.
+
+Maar intussen groeit het bewijs. In mei publiceerde een onderzoeksgroep een retrospectieve analyse van meer dan honderdduizend vrouwen van vijfenveertig jaar en ouder die al jaren GLP-1-medicijnen gebruikten. Ze bleken 30 procent minder kans te hebben op borstkanker dan de vergelijkbare populatie die deze medicijnen niet nam. Elizabeth McDonald, hoogleraar aan de Universiteit van Pennsylvania en een van de onderzoekers, was voorzichtig in haar formulering: "Onze studie was observationeel en bevestigt geen definitief verband tussen GLP-1-medicijnen en een lagere incidentie van borstkanker, maar ze voegt zich bij een groeiend corpus van bewijs."
+
+Herper wist precies welke woorden hij hier nodig had: voorzichtigheid. Hij herinnerde zich de statinenjaren. Statines zijn de cholesterolverlagende medicijnen die inmiddels door tientallen miljoenen mensen worden geslikt en waarvan Lipitor, dat al lang van patent is, vermoedelijk het meest voorgeschreven geneesmiddel van Amerika is. Een alledaagse pil die mensen zonder pardon elke ochtend bij hun koffie nemen, die al zoveel onderzoek heeft doorstaan dat wetenschappers de bijsluiters uit hun hoofd kennen. En toch: ook bij statines kwamen er in de loop der jaren observationele studies die bijkomende voordelen suggereerden—voordelen die later soms standhielden in gerandomiseerde studies, maar lang niet altijd. "Tijdens de statinenjaren waren er ook allemaal studies die zeiden dat ze dit deden en dat deden en ook nog dat," zei Herper. "Sommige dingen kloppen, maar bij observationele data kun je nooit alle andere variabelen uitsluiten. De gouden standaard blijft de gerandomiseerde gecontroleerde studie."
+
+Dat is het principe waarop de hele moderne geneeskunde rust: je weet pas of een medicijn werkt als je mensen willekeurig in twee groepen verdeelt, de ene groep het medicijn geeft en de andere groep een placebo, en dan kijkt wat er gebeurt. Alles daaromheen is suggestief, niet bewezen.
+
+Toch waren alle voorzichtigheidswoorden niet genoeg om de ophef te temperen. De vraag die Herper werkelijk interessant vond—en die hij als realistisch omschreef—was of we over vijf of tien jaar naar deze klasse medicijnen zullen kijken als primair bedoeld voor gewichtsverlies, of als een breder metabolisch instrument. Het is niet ondenkbaar dat over een decennium mensen die noch obees zijn noch type 2 diabetes hebben, een lagere dosis van een orale versie slikken, simpelweg vanwege het totaalprofiel van voordelen. De farmaceutische industrie werkt al hard aan pilvormen van GLP-1-agonisten. Als die net zo goed blijken te werken als de injecties die mensen nu wekelijks zetten, verandert de vraag van miljoenen naar honderden miljoenen gebruikers.
+
+"Absoluut," zei Herper. "Maar er zijn hindernissen. De medicijnen zijn niet altijd gemakkelijk. Soms is het moeilijk om water te drinken tijdens de behandeling. Veel mensen stoppen ermee en beginnen er opnieuw mee, en de medische data daarover zijn nog niet sterk genoeg. En dan is er het prijsvraagstuk. We hebben een zorgstelsel dat een barrière vormt voor mensen om medicijnen te nemen."
+
+De productiecapaciteit bood een ander ongemakkelijk rekensom: er zijn pakweg 300 miljoen Amerikanen. Reguliere geneesmiddelenmarkten plafonneren doorgaans bij tientallen miljoenen gebruikers—al was het maar omdat het distributiesysteem, de vergoedingssystemen en de productiecapaciteit simpelweg niet zijn ingericht op een grotere schaal. Kun je een medicijn maken dat honderd miljoen mensen nemen? De vraag is niet alleen wetenschappelijk maar logistiek, financieel, politiek. En het antwoord is vooralsnog nee.
+
+Een slotdetail dat Herper niet kon nalaten te vermelden: de GLP-1-klasse werd oorspronkelijk afgeleid van het speeksel van een gila monster, een giftige hagedis uit de Sonora-woestijn. De eerste GLP-1-agonist, exenatide, werd letterlijk gebaseerd op een verbinding die in het speeksel van dit dier werd gevonden. De weg van hagedissenspuug naar een medicijn dat straks misschien honderd miljoen mensen zullen slikken: dat is, in het kort, ook de geschiedenis van de moderne farmacologie. Iemand, ergens, merkte iets bijzonders op in de meest onwaarschijnlijke bron—en veertig jaar later staat dat iemand op als de hele zaal staat.
+
+---
+
+**De gladde watermeloen**
+
+Verderop in het medische nieuws van juni stond iets dat oncologieprofessionals al decennia wakker had gehouden: de vraag of de eiwitmolecule RAS ooit te bedwingen zou zijn.
+
+Om te begrijpen waarom de ASCO-zaal opsprong, moet je begrijpen wat KRAS is. KRAS is een gen dat codeert voor een eiwit genaamd RAS. Dit eiwit fungeert als een schakelaar in een complex netwerk van celsignalen. Wanneer KRAS muteert—wat in sommige kankers het geval is—blijft die schakelaar permanent aan staan, wat cellen ertoe aanzet zich ongecontroleerd te blijven delen. In alvleesklierkanker zijn KRAS-mutaties aanwezig in ongeveer 90 procent van de gevallen. Het is geen bijkomende factor. Het is de motor van de ziekte.
+
+Dus was KRAS al tientallen jaren een droombestemming voor kankeronderzoekers. Als je dit eiwit kunt uitschakelen, kom je misschien dichter bij een behandeling voor een van de dodelijkste kankers die er bestaat. Alvleesklierkanker wordt zo laat gediagnosticeerd en is zo resistent voor behandeling dat de vijfjaarsoverleving slechts rond de twaalf procent ligt. Vijf jaar geleden is twaalf procent. Dat getal zegt alles over waarom er in deze zaal mensen stonden te huilen toen de data werden gepresenteerd.
+
+Maar KRAS had een eigenschap die de vindingrijkste biochemici voor een muur zette: het oppervlak van het eiwit was glad. Geen holtes, geen duidelijke aanhechtingspunten. Medicijnmoleculen werken door aan een eiwit te binden zoals een sleutel in een slot past. Als er geen slot is, kun je geen sleutel maken. Herper omschreef de vergelijking die hij had gehoord met een glimlach: "Toen ik kind was, speelden we waterpolo met een ingevet watermeloen. Dat is onmogelijk vast te houden. RAS was dat eiwit."
+
+De doorbraak begon in 2013, met Kevan Shokat, biochemicus aan de Universiteit van Californië in San Francisco. Shokat vond een minimale holte op het oppervlak van het eiwit—een microscopisch klein aanknopingspunt dat eerder was gemist. Dat was het begin. Maar het echte conceptuele aha-moment—de inzicht die de dam echt doorbrak—kwam van een andere kant: van Greg Verdine, een onderzoeker aan Harvard die een bedrijf had opgericht dat later opging in Revolution Medicines, het bedrijf dat uiteindelijk het medicijn zou maken.
+
+Verdine dacht niet in termen van het vinden van een handvat op het watermeloenoppervlak. Hij vroeg zich af of de natuur zelf ooit had uitgevogeld hoe je een glad, onbereikbaar eiwit kunt grijpen. En ja: de natuur had dat gedaan. Het bewijs was rapamycine, een molecuul dat oorspronkelijk was gevonden in bodembacteriën van het Paaseiland. Rapamycine bindt niet rechtstreeks aan zijn doelwit, het eiwit mTOR—wat zelfs staat voor "molecular target of rapamycin", wat iets zegt over hoe groot die ontdekking was. In plaats daarvan bindt rapamycine eerst aan een ander eiwit, FKBP12, dat overal in de cel aanwezig is. De twee moleculen samen vormen een nieuw gecombineerd oppervlak, en dat gecombineerde oppervlak kan wél aan mTOR vastgrijpen. Drie moleculen, met rapamycine als een soort moleculaire lijm ertussenin.
+
+Herpers STAT-collega Angus Chen reconstrueerde hoe Verdine de logica formuleert: "Als je willekeurig de oppervlakte van dit molecuul kunt veranderen, kun je het herprogrammeren om een nieuw doelwit te bereiken. Je kiest een doelwit en stelt het molecuul daarop in."
+
+Ze stalen dus de truc van de natuur en gebruikten hem voor een ander doelwit: RAS.
+
+Het resulterende medicijn heet Diraxon Rasib, en het is gemaakt door Revolution Medicines. De resultaten die in juni op ASCO werden gepresenteerd, waren—voor alvleesklierkanker—buitengewoon. Het medicijn vertraagde de kanker significant, verlengde het leven van patiënten, en vroege data van combinatietherapieën lieten zien dat tumoren daadwerkelijk kromp. Vroege combinatieresultaten met een tweede middel lieten nog indrukwekkendere responspercentages zien: tumoren die op het scherm kleiner werden, in een ziekte waarbij "kleiner worden" lang een onbekend concept was.
+
+"Ik heb kankerwetenschappers al in geen jaren zo opgewonden gezien," zei Herper. "Het is echt jaren geleden."
+
+Maar Herper wilde ook de historische context bewaken. Dit is geen eerste stap; de eerste stap werd dertig jaar geleden gezet. Het is een stap in een lange mars. Een vergelijkbaar moment—en Herper heeft er meerdere meegemaakt in zijn carrière—was in het begin van de jaren nul, toen een geneesmiddel genaamd Gleevec, gemaakt door Novartis en gericht op een specifiek eiwit bij een zeldzame bloedkanker genaamd chronische myeloïde leukemie, op de voorpagina's van alle tijdschriften terechtkwam. Gleevec bewees dat gerichte therapie werkt: als je het exacte moleculaire mechanisme van een kanker begrijpt, kun je een medicijn maken dat dat mechanisme blokkeert. Het verscheen op de cover van Time Magazine. Wetenschappers spraken over een revolutie.
+
+En het was een revolutie. Maar geen tsunami. Een langzame vloed. Sindsdien is de oorlog tegen kanker uitgevochten in een reeks van afzonderlijke gevechten: het ene doelwit na het andere, het ene medicijn na het andere, met combinaties en vroegere toediening en steeds grotere overlevingscijfers. Een ander voorbeeld dat Herper graag noemt: lorlatinib, een medicijn ontwikkeld door Pfizer voor patiënten met longkanker veroorzaakt door een specifieke mutatie in het ALK-gen. De meest recente data lieten een progressievrije overleving zien van zeven jaar. Zeven jaar zonder dat de kanker terugkeerde. In longkanker. Voor een ziekte die mensen jarenlang in maanden rekenden.
+
+"Het is hoe de oorlog tegen kanker wordt gevoerd," zei Herper. "Niet met één atoomwapen. Met een lange reeks gerichte aanvallen, en elk succesvolle aanval verplaatst de frontlinie een stukje verder. Je combineert middelen, je dient eerder toe, je vindt de patiënten die het meest baat hebben. En dan, soms, staat een hele zaal op."
+
+Een van de grootste vragen aan de horizon is de rol van kunstmatige intelligentie. In de frontale AI-labs klinkt het verhaal over het genezen van kanker bijna als een bijproduct: we bouwen iets wat misschien gevaarlijk is en miljoenen banen vernietigt, maar het gaat ook alle ziekten oplossen. Herper had meer nuance in zijn bagageruim.
+
+Hij beschreef een gesprek met Mark Tasse-Levine, CEO van het AI-gedreven farmaceutisch bedrijf Zara, dat fors kapitaal heeft opgehaald om kunstmatige intelligentie in te zetten voor het aanvallen van doelwitten als KRAS—moleculen die eerder onbereikbaar waren. Dat is een veelbelovende toepassing. Maar het fundamentele probleem van AI in medicijnontwikkeling is de feedbackcyclus: je traint een model, het geeft een antwoord, en je weet of het klopt na een klinisch onderzoek van acht jaar en met een kostenplaatje van honderden miljoenen tot miljarden dollars.
+
+"Het is alsof je Claude iets vraagt," zei Herper, "en je pas na acht jaar te horen krijgt of het antwoord klopte."
+
+De farmacologie heeft zelfs zijn eigen variant van Moores Wet, de beroemde observatie dat rekenkracht elke twee jaar verdubbelt. In de farmacologie noemen ze het Erooms Wet—Moores Wet achterstevoren—omdat de kosten van medicijnontwikkeling zo snel stijgen in plaats van dalen. En ondanks alle beloften van AI heeft niemand dat patroon nog gekeerd. Dat betekent niet dat AI niets kan bijdragen. Maar het betekent dat de bijdrage eerder zal liggen in het identificeren van patiënten voor studies, het versnellen van de logistiek, het real-time verwerken van data—dan in het vervangen van het klinisch onderzoek zelf.
+
+China loopt daarin voor, en wel om een reden die biotech-investeerders wakker houdt: in China zitten alle patiënten in dezelfde elektronische patiëntendossiers, en de cultuur is dat als je voor een onderzoek in aanmerking komt, je meedoet. Dat versnelt de inschrijving enorm. In Amerika is klinische trial-participatie een complex, versnipperd, vrijwillig proces waarbij een patiënt die eigenlijk in aanmerking komt nooit te horen krijgt dat er een studie bestaat. De ongelijkheid in toegang tot klinisch onderzoek is niet alleen een ethisch probleem—het is een wetenschappelijk probleem, omdat het de snelheid van antwoorden vertraagt.
+
+"De randomized controlled trial—het willekeurig toewijzen van mensen aan een medicijn of placebo—blijft de heilige graal," zei Herper. "AI moet helpen om die trials uit te voeren, niet om ze te vervangen."
+
+---
+
+**De gemuteerde aerobicslerares**
+
+De derde pijler van de medische junimand was tegelijk de kleinste en misschien de meest verbeeldingrijke: een minuscuul vroeg onderzoek, gepubliceerd in The New England Journal of Medicine, dat liet zien dat een experimentele genoombewerking het slechte cholesterol bij mensen met een hoog risico op hartziekte mogelijk permanent kon verlagen, na één enkele infusie.
+
+De New York Times omschreef het als potentieel "een eenmalige prik om grote delen van hartziekte te voorkomen." Hartziekte is de nummer één doodsoorzaak in Amerika. De woorden "één prik" en "permanent" samen in dezelfde zin doen iets met mensen.
+
+Het bedrijf achter de behandeling is Verve—inmiddels eigendom van Eli Lilly, het bedrijf dat ook retatrutide maakt—en het werd opgericht door Sekar Kathiresan, een cardiovasculair geneticus wiens naam Herper al jaren volgt. Kathiresan is, in de wereld van lipidologen en cardiogenetici, iemand met een reputatie die zijn publicaties vooruitloopt. Zijn idee was radicaal in zijn eenvoud: mensen nemen hun statine niet consequent, ze vergeten pillen, ze stoppen na verloop van tijd. Wat als je het probleem niet behandelt maar oplost? Wat als je het gen bewerkt, en daarmee de vraag sluit?
+
+Het doelwit is PCSK9, een gen dat codeert voor een enzym dat een rol speelt in het regelen van het LDL-cholesterolniveau in het bloed—het slechte cholesterol, de variant die zich ophoopt in slagaders, plaques vormt, ontstekingen veroorzaakt en uiteindelijk hartaanvallen en beroertes triggert. De volledige naam van het gen—proprotein convertase subtilisin kexin type 9—rolt, zoals Herper droog opmerkte, niet bepaald van de tong. De negen staat eenvoudigweg voor het negende enzym in zijn familie.
+
+De wetenschappelijke basis voor PCSK9 als doelwit is ongewoon sterk. Het verhaal begint bij Helen Hobbs, een onderzoekster die grote populatiebestanden bestudeerde—waaronder veel Afro-Amerikanen—en mensen ontdekte met een defecte kopie van het PCSK9-gen. Niet werkt dat gen: hun LDL was laag, en hun hartgezondheid was opvallend beter. En dan waren er mensen met een dubbele uitschakeling van het gen—mensen bij wie geen van beide kopieën functioneerde.
+
+Ze waren in orde. Sterker: ze leidden normale, actieve levens, met structureel lage cholesterolwaarden en praktisch geen hartziekte.
+
+Herper herinnerde zich een anekdote die hij had gehoord, en die hij hoorde in, van alle plekken, een Chinees restaurant in Manhattan. Dat is waar een collega hem voor het eerst over PCSK9 vertelde, terwijl de dim sum werd doorgegeven en de enorme implicaties van dit eiwit werden uitgelegd. Eén van de mensen met een dubbele PCSK9-uitschakeling, zo luidde het verhaal, was een aerobicslerares. Gewoon een vrouw die lessen gaf en mensen hielp fitter te worden, en die toevallig een mutatie had die haar min of meer immuun maakte voor een van de grootste doodsoorzaken ter wereld. Geen bijzondere levensstijl. Geen speciaal dieet. Gewoon een genetische afwijking die haar beschermde.
+
+"Drug developers adore this," zei Herper. "Ze noemen het 'human proof'. Je ziet een mens met een defect gen, en die persoon is gezonder, niet zieker. Dat is de ultieme validatie van een doelwit. Dat is beter dan welk diermodel dan ook."
+
+De klinische implicaties waren evident: op basis van dit bewijs ontwikkelden Regeneron en Amgen al jaren geleden PCSK9-remmers—antilichamen die het enzym blokkeren. Ze werkten. Ze verlaagden het LDL significant en ze vermindeerden hart- en vaatziekterisico's aantoonbaar. Maar ze flopten commercieel, en de redenen daarvoor zijn een casestudy in farmaceutische timing. Ze werden gelanceerd vlak na de hepatitis C-medicijnen, die een kleine revolutie op zichzelf waren maar de budgetten van verzekeraars hadden uitgeput en de betalers hongerig hadden gemaakt voor bezuinigingen. De reactie van het verzekeringsstelsel was fel: als iedereen deze dure injecties gaat nemen, gaat ons systeem bankroet. En er waren statines—die goedkope, generieke, vertrouwde pillen die al tientallen miljoenen Amerikanen slikten en voor bijna niets verkrijgbaar waren. Waarom een dure nieuwe injectie vergoeden als er een goedkope pil is?
+
+Amgen bleef volhouden en heeft inmiddels toch een zekere markt gevonden. Merck en AstraZeneca werken aan pilversies. Maar de grote doorbraak van de antilichamen bleef commercieel ver achter bij de wetenschappelijke belofte.
+
+Hier ligt de kracht van genoombewerking: je hoeft je medicijn niet elke dag te nemen. Je hoeft het zelfs niet elke maand te nemen. Je bewerkt het gen, en daarmee is de kwestie opgelost. Voor de rest van je leven.
+
+Maar Herper wees op een voordeel dat minder voor de hand liggend is: timing. We beginnen cholesterolverlagende medicijnen doorgaans pas te geven als mensen al middelbaar zijn, wanneer er al plaque in de slagaders zit. Het is de levenslange blootstelling aan hoog LDL die ophoopt—als een langzame sedimentlaag die zich decennium na decennium neerzet in de vaten, totdat een moment van ontsteking de boel laat barsten en een bloedprop een hartaanval of beroerte veroorzaakt. Als je het PCSK9-gen vroeg kunt bewerken—misschien jong, misschien zelfs als kind bij mensen met een hoog risico zoals familiale hypercholesterolemie, een erfelijke aandoening die zorgt voor structureel te hoog cholesterol—ontneem je het slechte cholesterol decennia van de tijd om schade aan te richten.
+
+De studie bij Verve was overigens de tweede poging van het bedrijf. De eerste had een veiligheidsprobleem opgeleverd—een hiccup, in de woorden van Herper—waarna de aanpak werd bijgesteld. Dat soort tegenslagen zijn normaal in medicijnontwikkeling, maar ze verklaren ook waarom hij zo nadrukkelijk benadrukte dat dit vroege data zijn, van slechts een handvol patiënten.
+
+"Ik kan me zeker een wereld voorstellen," zei Herper, "waar mensen hun genoom vroeg laten bewerken zodat ze zich nooit meer zorgen hoeven te maken over hartziekte." Maar hij voegde er onmiddellijk aan toe dat we daar ver, heel ver van verwijderd zijn. Cultureel. Medisch. En wat de data betreft.
+
+Er speelt ook een Rorschach-moment in dit verhaal. Wil je je genoom laten bewerken zodat je nooit een hartaanval krijgt? Sommige mensen horen dit en zeggen ja, meteen, zonder aarzeling—want wat is het alternatief, je leven lang pillen slikken? Anderen horen het en voelen instinctief een grens. Mijn DNA aanpassen klinkt anders dan een pil nemen. Het is onomkeerbaar. Het is definitief. En we weten nog niet wat er over twintig jaar in de lever van iemand wordt gevonden bij wie zo'n bewerking is uitgevoerd. De culturele vraag—niet de wetenschappelijke—zal op den duur bepalend zijn voor hoe ver deze technologie reikt.
+
+---
+
+**Wat blijft als alles slaagt**
+
+Leg alles naast elkaar. GLP-1-medicijnen die het metabolisme hervormen, visceraal vet wegsmijten en misschien zelfs beschermen tegen borstkanker. Een kankerbehandeling die een van de meest onbereikbare eiwitten ter wereld heeft bereikt en alvleesklierkanker voor het eerst een effectief wapen geeft. Een gentherapie die de aanleg voor de grootste doodsoorzaak van Amerika mogelijk voorgoed kan neutraliseren.
+
+Het is verleidelijk om hier een lijn doorheen te trekken en te zeggen: dit is de gouden eeuw van de geneeskunde.
+
+Herper glimlacht bij die formulering, maar trekt tegelijk zijn wenkbrauw op. "Ik zou je een tegenexperiment willen geven," zei hij. "Stel dat we in loopvriendelijke steden wonen, dat we allemaal veel bewegen, dat we niet de hele dag achter een bureau zitten en dat onze voedselomgeving niet zo karikaturaal ongezond was als die nu is. Zou dat een groter of kleiner effect hebben dan al die doorbraken samen? Ik weet het eerlijk gezegd niet."
+
+Het is een reële vraag, maar ook een afleiding van een ander probleem dat hem meer bezighoudt: de kloof tussen uitvinden en toedienen. Een nieuw geneesmiddel heeft pas waarde als het mensen bereikt. Te veel kankerpatiënten worden te laat gediagnosticeerd. Te veel mensen weten niet dat hun tumor een mutatie heeft waarvoor een specifiek medicijn beschikbaar is, simpelweg omdat hun tumor niet genetisch werd geanalyseerd. Te veel mensen stoppen met hun statine. Te veel mensen in de armste wijken van Amerika zijn niet de mensen die meedoen aan de klinische onderzoeken die leiden tot de medicijnen die ze het hardst nodig hebben.
+
+Herper noemde een ander, schijnbaar onbeduidend voorbeeld dat toch alles zegt over hoe groot die kloof kan zijn: de laparoscopische galblaasoperatie. Waar het verwijderen van de galblaas vroeger een grote chirurgische ingreep was—een lange snee, weken herstel, de nodige complicatierisico's—is het nu dagchirurgie. Je gaat 's ochtends naar het ziekenhuis en 's middags ben je thuis. Niemand denkt daar meer bij na. Het is gewoon geworden. Maar het is een wonder. We denken niet aan al die gewone wonderen omdat ze gewoon zijn geworden.
+
+"De grote tragedie van de geneeskunde," zei Herper, "is niet dat er te weinig voortgang is. De grote tragedie is dat we de voortgang die er al is niet bij iedereen kunnen krijgen."
+
+---
+
+**De prijs van vooruitgang**
+
+De prijskwestie hangt als een wolk boven elk gesprek over farmaceutische doorbraken. In Amerika betalen patiënten en verzekeraars structureel hogere prijzen voor geneesmiddelen dan in de rest van de wereld. De standaardrechtvaardiging van de industrie is dat onderzoek en ontwikkeling astronomisch duur is, en dat zonder hoge prijzen niemand het risico van medicijnontwikkeling zou nemen.
+
+Herper neemt die redenering deels serieus, maar vindt haar ook te gemakkelijk. Niet elke hoge prijs wordt gerechtvaardigd door de daadwerkelijke ontwikkelingskosten, en er zijn zeker gevallen waar de industrie te ver is gegaan.
+
+Over de oplossingen was hij genuanceerder dan veel beleidsmakers. Hij vergeleek twee benaderingen: prijspremies versus advanced market commitments. Een prijspremie—de overheid zegt: als jij een doorbraak bereikt, betalen wij je een bonus—klinkt logisch. Maar het probleem is de schaal. Als je kijkt naar de netto huidige waarde van een succesvolle GLP-1-reeks, kom je uit op bedragen van vijftig miljard dollar en meer. Bij een medicijn met tien miljard dollar jaarsales en een bedrijfswaarde die de vijftig miljard benadert, is een overheidsbonus van honderd miljoen dollar niet meer dan kleingeld. Onvoldoende om gedrag te veranderen.
+
+Advanced market commitments werken anders: de overheid garandeert op voorhand dat zij een bepaalde hoeveelheid van een nog te ontwikkelen medicijn zal kopen als het bewezen effectief is. Dat principe werkte tijdens de COVID-pandemie voor vaccins. En het kan groter worden gekalibreerd dan een bonus achteraf, omdat het de kracht van de overheid als koper bundelend inzet. "De grote aankoper zijn verandert de economie fundamenteel," zei Herper. "Dat is iets anders dan achteraf een beloning uitdelen."
+
+Maar het terrein waar hij écht warmte in zijn stem liet horen, was antibiotica. Nieuwe antibiotica worden nauwelijks meer ontwikkeld—niet omdat de wetenschap het niet toelaat, maar omdat de commerciële logica faalt. Antibiotica worden gebruikt voor een beperkt aantal dagen. Ze worden zo spaarzaam mogelijk ingezet om resistentie te voorkomen. En als ze eenmaal generiek zijn, zijn ze goedkoop. Dat is rampzalig voor een businessmodel dat vereist dat je miljarden investeert in hoop op een rendement dat na tien jaar generiek verdampt. "Als er een domein is waar de overheid de markt moet corrigeren, is het dit," zei Herper. "En antibioticaresistentie is geen verre dreiging. Het is een van de meest concrete gevaren voor de volksgezondheid van de komende decennia."
+
+En dan was er nog een gedachte die hij losliet alsof hij zelf niet zeker wist hoe radicaal hij klonk: misschien moet de overheid zelf in de medicijnontwikkeling stappen. Niet als regelgever, maar als producent. Voor weesgeneesmiddelen, voor zeldzame ziekten, voor gebieden waar de markt simpelweg faalt. Het NIH zou geneesmiddelen naar de markt kunnen brengen in samenwerking met wetenschappers, zonder de commerciële kostenstructuur van grote farmaceutische bedrijven. Het zou data genereren over wat het werkelijk kost om een geneesmiddel te maken—en dat zou de prijsdiscussie transformeren. Nu is die discussie altijd vertroebeld door de vraag: maar hoeveel kost het nu echt? Als de overheid zelf medicijnen maakt en de boeken opent, verdwijnt die mist.
+
+"De industrie geeft meer uit aan ontwikkeling dan de overheid uitgeeft aan medisch onderzoek," zei Herper. "Dat hoeft niet zo te blijven."
+
+Hij voegde daaraan toe dat zelfs dit radicale idee ergens zijn grenzen heeft. Publieke medicijnontwikkeling vereist ook serieus publiek geld. Niet een symbolisch programma, maar een structurele investering. En die investering staat op gespannen voet met de richting die de huidige politiek in Washington uitgaat.
+
+---
+
+**De weken die decennia kosten**
+
+Er was in dit gesprek één passage die Herper inleidde met een zekere terughoudendheid, alsof hij zelf even moest stilstaan bij wat hij wilde zeggen. Het ging over het bredere klimaat.
+
+Terwijl de medische wereld feestvierde—retatrutide, Diraxon Rasib, PCSK9-genbewerking, de ASCO-staande ovatie—heeft de Trump-administratie het afgelopen jaar een ander soort beleid gevoerd. Bezuinigingen op fundamenteel wetenschappelijk onderzoek. Instabiliteit bij de FDA. Onzekerheid bij het NIH en de NSF. Herper noemde Marty McCurry, de FDA-commissaris, zonder omwegen de slechtste commissaris die hij ooit over had geschreven. Dat zijn niet de woorden van iemand die zijn woorden lichtzinnig kiest. In vijfentwintig jaar medische journalistiek heeft hij elke commissaris gezien en elke administratie doorstaan. Dat hij zo expliciet is, zegt iets.
+
+Het paradoxale is dat beide dingen tegelijk waar zijn. Juni 2026 was een maand van buitengewone medische vooruitgang, én een maand wherein de infrastructuur die toekomstige doorbraken mogelijk maakt, onder druk stond. Voor mensen buiten de wetenschap lijkt dat een tegenstrijdigheid. Het is er geen.
+
+Herper legde uit waarom. De doorbraken van juni 2026 zijn niet het product van beleid van zes maanden geleden. Ze zijn het product van decennia werk. KRAS is een doelwit dat onderzoekers al dertig jaar proberen te bereiken. De eerste GLP-1-moleculen werden ontdekt in de vroege jaren tachtig. De technologie om genomen te bewerken staat op de schouders van generaties moleculair biologen, van wie het werk werd gefinancierd door beurzen van het NIH, van publieke universiteiten, van stichtingen die niemand buiten de wetenschap ooit heeft gehoord.
+
+"Deze dingen kosten levens," zei Herper. Het klonk simpeler dan het was.
+
+Hij had net een necrologie geschreven over Craig Venter, de wetenschapper die in het begin van de jaren nul een privébedrijf leidde dat de menselijke race aan de overheid gooide om als eerste het menselijk genoom te sequencen. Een man die wetenschappelijk theater maakte van een fundamentele ontdekking en die daarmee het tijdperk van de genomica inluidde. Venter was een icoon. En de eerste antilichaamtherapie die Herper ooit als journalist bijhield—de man die hem ontwikkelde, stierf aan een infectie veroorzaakt door een antibioticaresistente bacterie. Een wetenschapper die zijn leven wijdde aan het ontwikkelen van therapieën tegen infecties, en die zelf stierf aan een infectie die zijn eigen veld nog niet had kunnen temmen.
+
+"Dat is hoe lang dit duurt," zei Herper. "Dat is wat er op het spel staat als je de infrastructuur beschadigt."
+
+Op ASCO 2025 was de stemming onder wetenschappers somber. Ze spraken over onderzoeksbudgetten, over visumproblemen voor buitenlandse wetenschappers—een kwart van de beste biomedische onderzoekers in Amerika is niet Amerikaans geboren—over de vraag of Amerikaans biomedisch onderzoek zijn positie aan de wereldtop zou behouden. Op ASCO 2026 was die somberheid naar de achtergrond verschoven. Er was data te bespreken. Er was reden tot opwinding. Maar verdwenen was die zorg niet. Ze was alleen even ingesust door de aanblik van iets wat het wachten waard was.
+
+Herper had er een naam voor. "De weken waarop decennia lijken te gebeuren," zei hij, verwijzend naar de Leninquote waarmee het gesprek was begonnen, "die weken kosten zelf ook decennia."
+
+---
+
+**Epiloog: Wat dit alles betekent**
+
+Er is iets eigenaardig vertroostends aan hoe wetenschap werkt. Niet in de zin dat het eenvoudig is—niets is complexer—maar in de zin dat het langzaam, geduldig en cumulatief is. Elke ontdekking rust op de schouders van de vorige. De gladde watermeloen van KRAS was twintig jaar een mysterie, totdat iemand bedacht dat hij niet naar een handvat op het watermeloenoppervlak moest zoeken, maar naar een moleculair sjabloon waarmee de natuur zelf het probleem al had opgelost. Hagedissenspuug leidde, door een reeks stappen die niemand kon hebben voorzien, tot een medicijn dat mensen helpt tientallen kilo's kwijt te raken en tegelijkertijd hun hart, lever, knieën en slaap te beschermen. Een vrouw die aerobics gaf met een defect gen bood het bewijs dat farmaceuten nodig hadden om een nieuw hoofdstuk in de cardiologie te beginnen. In een Chinees restaurant in Manhattan, terwijl de gerechten worden doorgegeven, hoort een journalist voor het eerst de naam van een gen dat twintig jaar later het onderwerp zal zijn van een baanbrekende genoombewerkingsstudie.
+
+De doorbraken van juni 2026 zijn in die zin niet uitzonderlijk in hun kwaliteit—de wetenschap heeft altijd in dit soort stappen bewogen. Wat uitzonderlijk is, is de samenloop. Alvleesklierkanker, hartziekte, obesitas: drie van de meest urgente gezondheidsuitdagingen van de mensheid, en in één maand waren er voor elk van de drie tastbare redenen voor optimisme.
+
+Matthew Herper heeft voldoende doorbraken zien komen en gaan om te weten dat sommige van die redenen zullen verdampen bij nader onderzoek. Klinische trials falen. Bijwerkingen duiken op. Combinaties die veelbelovend leken, vallen tegen. De immunotherapiegolf in de oncologie—checkpoint inhibitors, PD-1, de revolutie waarvoor iedereen een decennium geleden stond te juichen—produceerde uiteindelijk meer een gestage stroom dan een vloedgolf. Er was aanvankelijk een wildgroei aan nieuwe doelwitten verwacht; die bleef grotendeels uit. Dat wil niet zeggen dat de immunotherapie faalde. Het wil zeggen dat elk nieuw instrument zijn eigen tempo en zijn eigen grenzen heeft.
+
+Herper heeft hierover een jaar of tien geleden een stuk geschreven dat hij achteraf zijn manifest zou kunnen noemen: dit is de biologieeeuw, en we zijn er niet klaar voor. Zijn voornaamste argument was niet het gebrek aan wetenschappelijke doorbraken—die kwamen. Zijn argument was dat we te langzaam waren in het beantwoorden van klinische vragen. Te langzaam in het inschrijven van patiënten. Te langzaam in het delen van data. Te langzaam in het laten circuleren van resultaten. Wetenschappers sterven terwijl ze wachten op antwoorden die over tien jaar beschikbaar zijn, maar die over vijf jaar beschikbaar hadden kunnen zijn met een beter systeem.
+
+Dat argument is niet minder relevant geworden. Het is urgenter.
+
+"Geneesmiddelen uitvinden is moeilijker dan een mens op de maan zetten," zei Herper. "Het is moeilijker dan raketwetenschap. Maar ze bij de mensen krijgen die ze nodig hebben—dat is minstens even moeilijk, zo niet moeilijker."
+
+De medische wereld heeft een asymmetrisch probleem: ze is goed geworden in het produceren van wondermiddelen en slecht gebleven in het distribueren ervan. Niet altijd door kwade wil, maar door de logica van systemen die zijn gebouwd voor een andere tijd, voor andere schaal, voor andere ziekten. Een systeem dat vergoedingscodes vereist voor elke behandeling is niet ontworpen voor de snelheid van een genomische revolutie. Een systeem dat klinische trial-participatie overlaat aan toeval en informatie is niet ontworpen voor de belofte van gerichte therapie.
+
+Ergens in een universiteitslab, op dit moment, werkt iemand aan de ontdekking die over twintig jaar de wereld verbaasd zal doen opstaan. Ze weten zelf nog niet wat het is. Ze weten waarschijnlijk niet eens dat ze op weg zijn naar iets groots. Ze werken gewoon—geduldig, nieuwsgierig, langzaam—aan de volgende schakel in een ketting die al lang vóór hen begon en lang na hen zal doorgaan.
+
+Die wetenschapper heeft een beurs van het NIH. Of die beurs er over vijf jaar nog is, weet niemand met zekerheid.
+
+De weken waarop decennia lijken te vallen, kosten hun eigen decennia om te bouwen. Dat is de werkelijke les van de gouden maand. En het is ook de reden waarom elke aanslag op dat geduldig opgebouwde bouwwerk—elk ingekrompen budget, elke weggestuurde wetenschapper, elke verstoorde pijplijn—zwaarder weegt dan het op het eerste gezicht lijkt. Niet alleen voor het heden. Maar voor de doorbraken die we nog niet kennen, en die zonder onderhoud van de fundering misschien nooit komen.
+
+De man die de eerste antilichaamtherapie ontwikkelde die Herper als journalist volgde, stierf aan een infectie waartegen zijn eigen medicijn misschien had geholpen. Dat is hoe lang dit duurt. En dat is hoe kwetsbaar dit is.
