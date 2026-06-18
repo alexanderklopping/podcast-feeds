@@ -1,0 +1,260 @@
+<!--
+podcast_name: The Ezra Klein Show
+guid: 63747e74-abc1-4d4d-b49a-bc5c3bfe1a89
+-->
+
+# De Oesterkweker die het Systeem Brak
+
+**Aandacht is de nieuwe valuta van de politiek. Wie haar niet verdient, koopt haar — of verdwijnt. Dit is het verhaal van hoe een nagenoeg onbekende oesterkweker uit Maine de zittende gouverneur uit de race drukte, en wat dat vertelt over de fundamentele herschikking van politieke macht in Amerika.**
+
+---
+
+Ergens in een database vol namen en beroepen en donorgeschiedenissen verscheen hij voor het eerst op een scherm. Geen advocaat, geen voormalig officier, geen kind van een politieke dynastie. Graham Platner, eigenaar van Frenchman Bay Oyster Company in Sullivan, Maine. Oesterkweker. Iemand die geld had gegeven aan Bernie Sanders.
+
+Dat was genoeg.
+
+"We hadden duizenden profielen doorgespit," vertelde een van de mensen die hem hadden gerekruteerd later aan The Wall Street Journal. "Toen Leanne zijn video opende — die man met zijn oesterfarm — en daarna zijn donorgeschiedenis controleerde, wisten we dat we misschien wel de beste kandidaat ooit hadden gevonden."
+
+Het was geen politieke ontdekking. Het was casting.
+
+Die vergelijking, zo legt Chris Hayes uit aan Ezra Klein in een gesprek over de nieuwe spelregels van de Amerikaanse politiek, is geen retorische overdrijving. Hayes is presentator van *All In with Chris Hayes* op MSNBC en auteur van *The Sirens' Call: How Attention Became the World's Most Endangered Resource* — een boek over hoe aandacht de meest schaarse grondstof van onze tijd is geworden. En precies die grondstof, zegt Hayes, verklaart alles wat er in het politieke seizoen van 2026 aan het gebeuren is.
+
+"Ze gingen niet naar iemand toe en vroegen: kun jij het geld ophalen om aandacht te kopen?" zegt Hayes. "Ze gingen naar iemand toe en vroegen: heb jij het charisma om aandacht te verdienen?"
+
+Het onderscheid klinkt subtiel. Het is fundamenteel.
+
+---
+
+Decennialang werkte het zo in de Amerikaanse politiek: de partij identificeert een beloftevolle kandidaat, zet hem of haar aan de telefoon, zes uur per dag, elke dag, om geld op te halen. Het DCCC — het Democratic Congressional Campaign Committee, de organisatie die toezicht houdt op de kansen van Democraten in het Huis van Afgevaardigden — hanteerde dit als een soort heilige wet. Kandidaten die niet genoeg ophaalden, werden van lijsten geschrapt. Wie wél ophaalden, konden daarmee zendtijd kopen op televisie. En televisie was aandacht. En aandacht was macht.
+
+Het model was eenvoudig omdat de werkelijkheid eenvoudig was: in het tijdperk van de massamedia was er één kanaal naar de kiezer, en dat kanaal kostte geld.
+
+Maar dat tijdperk is voorbij.
+
+"Naarmate televisiereclame aan relevantie verliest," zegt Hayes, "moet je een alternatieve theorie hebben over hoe je mensen bereikt." De groep die Platner recruteert, hanteert precies zo'n alternatieve theorie. In plaats van geld als de bepalende variabele te zien, zien zij aandacht zelf als het doel — en charisma als het middel om haar te veroveren. Geld volgt dan vanzelf. Of niet. Maar de aandacht is er.
+
+En Platner had aandacht. Overvloedig, onophoudelijk, op een manier die Janet Mills — de zittende gouverneur van Maine, het meest voor de hand liggende profiel voor een Senaatszetel — nooit wist te evenaren.
+
+Mills was wat politieke rekenaars een Roy Cooper-figuur noemen: een beproefd politicus die door iedereen in zijn of haar staat gekend wordt, die statewide meerdere keren gewonnen heeft, en die geen afzonderlijke theorie over aandacht nodig heeft omdat haar naam zelf al aandacht genereert. Cooper, gouverneur van North Carolina, hoeft zichzelf niet opnieuw uit te vinden. Hij ís al aanwezig in het collectieve geheugen van zijn kiezers.
+
+Maar Maine is klein. En Platner werkte harder. Hij was jonger — Mills is 78 — en hij campagnevoerde op de grond, liep door het land, schudde handen in dorpen waar zelden een Senaatskandidaat verscheen. Tegelijk bouwde hij online een aanwezigheid op die zijn tegenstanders verlamde. De kranten volgden. De kabelzenders volgden. Het geld volgde.
+
+Mills haakte af nog voor ze officieel van start was gegaan. Platner had haar aandachtelijk gewurgd.
+
+---
+
+Hoe kon dat? Hoe verliest een ervaren politica zo'n race voordat ze begonnen is?
+
+Hayes wijst op iets dat hij de inverse relatie noemt: de persoonlijkheidstypen die slagen binnen instituties, zijn dikwijls precies de verkeerde persoonlijkheidstypen voor het aandachtstijdperk. Een partij als de Democraten recruteert op basis van institutionele signalen — diploma's, connecties, vermogen om geld op te halen, een levensloop die door instituties is gecertificeerd. Yale Law, voormalig CIA-officier, marineveterane. Abigail Spanberger. Mikey Sherrill. Mensen van wie je denkt: die persoon is klaar voor dit.
+
+"Het oude begrip dat je in de jaren vijftig zou gebruiken," zegt Hayes, "was de 'company man'. Iemand die goed samenwerkt, geen golven slaat, niemand van streek maakt." Dat is het sjabloon. En dat sjabloon werkt uitstekend binnen een organisatie. Maar het produceert geen mensen die de aandacht grijpen en vasthouden.
+
+Platner is geen company man. Platner is naar beneden gevallen in de sociale hiërarchie, en zijn oesterfarm draait niet eens echt winst — hij verkoopt grotendeels aan het restaurant van zijn moeder. Hij is niet indrukwekkend op papier. Maar hij gelooft, diep en authentiek, dat het systeem rot is. Niet als verkiezingsprogramma. Als levenservaring.
+
+"Je kunt over zijn leven zeggen wat je wil," zegt Hayes, "maar hij is iemand die gelooft dat de instituties hebben gefaald, omdat ze voor hem hebben gefaald, en omdat hij er zelf uit gevallen is. De vijandigheid is echt."
+
+En dat is het sleutelwoord: echt.
+
+Op het podium draagt Platner niet primair een boodschap over Medicare for All of de Green New Deal. Hij draagt een gevoel. De wereld klopt niet. Het systeem deugt niet. De mensen die het beheren, beheren het voor zichzelf.
+
+"De wereld waarin we vandaag leven is niet natuurlijk," zei Platner op de campagne. "We leven niet in een politieke en economische werkelijkheid die organisch is gegroeid. Het is een systeem dat gebouwd is door beleidsmakers in Washington, D.C., in dienst van hun donoren. En het is een systeem dat is ontworpen om ervoor te zorgen dat jij, hoe hard je ook werkt, nooit het gevoel zult hebben dat je macht hebt. Die mensen daarboven — zij zijn gekwalificeerd. Zij hebben het pedigree. Zij mogen de beslissingen nemen. Maar ik zeg je: dat verhaal is onzin."
+
+Je kunt een toespraak als deze niet neerschrijven voor iemand die niet meent wat hij zegt. Kiezers horen het verschil.
+
+---
+
+Er zit een andere paradox verborgen in het verhaal van Platner, een die Hayes scherp formuleert: het succes van Platner hangt niet alleen af van zijn charisma, maar ook van zijn bereidheid tot risico.
+
+Bijna alle bekende namen in Maine namen een andere beslissing. Het gouverneursschap zou vrijkomen — een veiliger weddenschap, geen zittend kopstuk om tegenaan te lopen. Niemand had er trek in om het op te nemen tegen Susan Collins, de Republikeinse senator die Maine zo volledig in haar greep houdt dat ze naar verluidt een verbazingwekkend hoog percentage Mainers persoonlijk kent. Dat was de rationele keuze.
+
+Platner maakte de irrationele keuze. En daarin schuilt, zegt Hayes, iets structureels. "Er is een relatie tussen risicobereidheid en aandacht die diep verankerd zit in de Democratische politiek. Er bestaat een soort institutionele aversie tegen risico. Je vermijdt negatieve pers. Als je moet kiezen tussen geen aandacht en slechte aandacht, minimaliseer je de neerwaartse risico's."
+
+Maar slechte aandacht — en die heeft Platner rijkelijk gehad, inclusief een reeks schandalen die zijn campagne doorkliefdden — is in het huidige mediaklimaat niet per definitie funest. Sterker, soms is ze brandstof. De nationale commentatoren zochten het ene verhaal, de ene kop, het ene moment dat zijn campagne zou definiëren. "Maar in hun pogingen mij te begrijpen," zei Platner, "begrijpen ze niet dat dit helemaal niet over mij gaat. Dit is een beweging. Dit gaat over ons."
+
+Of hij dat gelooft of niet — en er zijn redenen om sceptisch te zijn — deed in Maine niet meer ter zake. Het werkte. Mills staakte haar campagne. Platner bleef staan.
+
+---
+
+Wat er in Maine gebeurde, staat niet op zichzelf. In Michigan voert Abdul El-Sayed campagne voor de Senaat, zijn vuist geheven, vragen over Medicare for All en het afschaffen van de immigratiedienst ICE omzettend in staande ovaties. In Texas is James Talarico, een jaar geleden nog nagenoeg onbekend, de Democratische kandidaat voor de Senaat — een staat die voor velen al jaren als verloren geldt. In Los Angeles probeerde Spencer Pratt, voormalig realityster, hetzelfde trucje uit bij de burgemeestersrace — maar hij haalde de tweede ronde niet eens.
+
+Aandacht, zo blijkt, is noodzakelijk maar niet voldoende. En de vraag die boven dit alles hangt — welke kandidaten overleven de aandachtseconomie, en welke verbranden erin — begint zich pas te ontvouwen.
+
+Jared Golden is het levende bewijs van wat er mis kan gaan als je het probeert te combineren. De Democraat die de roodste kieskring van het hele land vertegenwoordigt—Maine's tweede district, Trump-land door en door—is een politiek curiosum: een populist die Bernie Sanders steunde én gematigde standpunten innam, iemand die tarievenbeleid van Trump publiekelijk steunde maar tegelijkertijd diep pro-vakbond was en een instinctieve afkeer had van het gevestigde Washington. Hij schreef een beruchte column over hoe een Trump-overwinning het einde van de democratie niet zou betekenen. Hij overleefde jaren in een kieskring die eigenlijk niet van hem was. En nu vertrekt hij—uitgeput, weggedrukt door een linkse primaire tegenstander, klaar met de dagelijkse slijtageslag van een politicus die nooit helemaal welkom is in zijn eigen partij.
+
+Het vreemde is: je had je een alternatieve wereld kunnen voorstellen. Een wereld waarin de Democratische Partij Golden omarmde, hem tot boegbeeld maakte van een nieuw soort gematigd populisme, hem naar voren schoof om Susan Collins te verslaan. Hayes schetste die wereld en voegde er droog aan toe: "In that world, Susan Collins is gone." Maar de werkelijkheid liet die wereld niet toe. In een partij die zichzelf steeds verder naar links heeft omgedraaid—het percentage Democraten dat zichzelf in 1995 "very liberal" noemde was een minderheid; nu is het de dominante fractie—is er simpelweg geen adem meer voor de Golden-types. De bijdragen komen niet, de primaire-kiezers straffen af, de advocatengroepen schreeuwen. De politieke ruimte voor gematigd populisme is niet verdwenen omdat het electoraat er niet om vraagt. Ze is verdwenen omdat de partijstructuur en de aandachtseconomie samen een omgeving hebben gecreëerd waarin het overleven van zo iemand vrijwel onmogelijk is.
+
+Dit is ook precies de context waarin Graham Plattner zo'n ongemakkelijk fascinerende figuur wordt. Hij is niet Jared Golden. Hij is het tegenovergestelde: hoog risico, hoge charisma, een anti-institutioneel leven als politiek merk. En juist dat merk brengt zijn eigen problemen mee.
+
+De scandalen stroomden de afgelopen weken binnen als bij een open kraan. Een Totenkopf-tatoeage op zijn borst—het doodshoofd dat geassocieerd wordt met de SS. Plattner beweerde lang dat hij niet wist wat het symboliseerde. Weinigen geloofden hem volledig. De meest welwillende lezing, zo formuleerde Hayes het, was dat hij en zijn vrienden het kozen als teken van een soort gewelddadige stoerheid—edge om de edge, niet om een ideologie. "If he were an anti-Semite, I think we would know," zei Hayes. "He was so politically incorrect on Reddit that it would have come out." Maar de tatoeage was niet het enige. Er kwamen berichten over seksueel getinte berichten die hij stuurde aan een half dozijn vrouwen tijdens zijn huwelijk. Een ex-vriendin—werkzaam in de Republikeinse politiek—vertelde dat hij grensoverschrijdend gedrag vertoonde tijdens ruzies. En dan waren er nog de Reddit-posts: politiek incorrect, rauw, scherp aan de rand van wat acceptabel is.
+
+Geen van deze dingen was op zichzelf doorslaggevend, aldus Hayes. Maar samen tekenden ze een patroon. "The thing that worries me about Plattner isn't any one of these things individually. It's that a guy who's failed out of a bunch of institutions and has been downwardly mobile and has made a bunch of weird decisions and had a Nazi tattoo might not be the best choice to be a U.S. Senator."
+
+En toch—en dit is precies wat het geval zo interessant maakt—is het debat niet zo simpel. Wie had anders moeten lopen? De grote namen van Maine kozen allemaal voor de gouverneursrace. Plattner liep omdat hij liep. Iemand moest het doen. En de vorige poging, in 2020, was het schoolboekvoorbeeld van de veilige, solide, schandaalvrije kandidaat—een vrouwelijke staatswetgever met goede cijfers en dikke oorlogskassen—die met negen punten verloor van Collins terwijl de peilingen haar winst voorspelden. De conclusie die velen trokken: voorzichtig werkt hier niet.
+
+Bovendien, zo opperde Hayes, zou de slordige reputatie van Plattner welens een troef kunnen zijn in plaats van een handicap. Er bestaat een diep geworteld beeld van de Democratische Partij als de partij van het schoolmeesterachtige betuttelende establishment—van wat je wel en niet mag zeggen, van snel uitstoten en publiekelijk veroordelen. "The personality type of the left is bureaucratic and the personality type of the right is autocratic," formuleerde Hayes. "The left is overformed by institutions, and the right is underformed by institutions." Plattner is duidelijk ondergevormd. Misschien is dat precies wat sommige zwevende kiezers aantrekt—niet omdat ze zijn Reddit-posts goedkeuren, maar omdat hij aantoont dat hij niet gecensureerd is door de machine.
+
+Dat Plattner de afgelopen weken alle persverzoeken aannam, elke vraag beantwoordde, geen enkel interview weigerde—dat vertelde ook iets. In de nieuwe schandaaleconomie, waar aandacht razendsnel verschuift, is er een eenvoudige strategie om een crisis door te komen: meer bewegen, niet minder. Wie blijft praten, overleeft. Wie zich ingraaft, verdwijnt onder het puin.
+
+Maar er was nog een dimensie aan Plattner die Hayes wilde onderstrepen, en die misschien zijn grootste politieke vermogen is: zijn vermogen tot code-switching. Het woord verwijst naar de capaciteit om naadloos tussen sociale werelden te bewegen—de taal, de toon, de referentiekaders aan te passen zonder onecht over te komen. Plattner groeide op in een geprivilegieerde omgeving—een beroemde grootvader als architect, een privéschool, een welgesteld gezin—maar meldde zich aan als gewone soldaat bij de mariniers en vocht in meerdere tours in de bitterste fronten van de oorlog tegen terreur. Die combinatie, hoe zeldzaam ook, geeft hem een organische toegang tot werelden die voor de meeste politici gesloten blijven.
+
+"Code switching is actually one of the superpowers of a successful Democratic politician," zei Hayes, "because the Democratic Party is so varied, diverse, and pluralistic." Hij noemde de politici die het meesterlijk beheersten: Barack Obama, die in universitaire kringen kon schitteren en tegelijkertijd op een parkeerplaats in Chicago kon aanslaan. Bill Clinton, die geen enkel gezelschap te ongemakkelijk vond. Alexandria Ocasio-Cortez, misschien—al stelde Hayes die vergelijking meteen ter discussie.
+
+Want bij AOC is het ingewikkelder. Ze beschikt over magnetische aantrekkingskracht, over een publiek dat vrijwel geen enkele andere Democraat kan evenaren. Maar ze kiest bewust voor een smalle mediaruimte. Je ziet haar niet bij Lex Fridman. Niet op Flagrant. Ze deed een video met More Perfect Union—een linkse contentproducent—waarbij ze in gesprek ging met Trump-kiezers, maar in een strak gecontroleerde setting. Ze verscheen niet op Jubilee, het online debatplatform waar Ro Khanna en James Talarico wel opdoken. Gavin Newsom gaat overal naartoe. Letterlijk overal—juist naar plekken waar het onverwacht is hem te zien, waar het ongemakkelijk kan worden, waar hij zich blootstelt.
+
+AOC doet dat niet. En Hayes begrijpt waarom: ze heeft het niet nodig. Haar aandachtsreservoir is zo diep dat ze zich de luxe kan veroorloven selectief te zijn. Maar er is een prijs. Op de Munich Security Conference, geconfronteerd met een scherpe vraag over Taiwan en de inzet van Amerikaanse troepen, struikelde ze zichtbaar. "She fumbled." En de verklaring, aldus Hayes, is simpel: ze krijgt te weinig oefening in vijandelijk terrein. Newsom kon een blunder maken voor een overwegend Zwart publiek—hij beriep zich op zijn slechte SAT-score als bewijs van gemeenschappelijkheid, een vergelijking die spectaculair mislukte—en twee dagen later was het alweer voorbij. Maar Newsom reist zo constant door ongemakkelijk gebied dat hij er zeebenen voor heeft ontwikkeld. AOC niet. Elke misstap telt zwaarder omdat ze zo weinig reps heeft gemaakt.
+
+"If I were her advisor, I'd push her to do more," zei Hayes. "She's not getting comfortable with things going wrong—and not getting the swiftness to rescue them when they do."
+
+En dan is er Michigan. Een open zetel, want Debbie Stabenow trekt zich terug na decennia in de Senaat. Aan Republikeinse kant heeft de partij een kandidaat van het type dat swing states normaliter winnen: Mike Rogers, voormalig congreslid, ervaren, zonder de flamboyante gekheid van een Peter Thiel-protégé. Hij oogt als gematigdheid, ook al is hij het niet helemaal.
+
+Aan Democratische kant draait het om twee figuren die op hun eigen manier de spanning in de partij belichamen. Abdul El-Sayed: voormalig volksgezondheidsambtenaar in Detroit, Rhodes Scholar, MD-PhD, verloofde spreker. Hij liep eerder voor gouverneur en verloor, maar hij beschikt over een charisma dat moeilijk te negeren is. En dan Mallory McMorrow: staatssenaatslid, relatief onbekend buiten Michigan—tot de dag dat ze opstond in de wetgevende vergadering en een toespraak hield die viraal ging over heel het land. Ze was beschuldigd van het "groomen" van kinderen, de retorische aanval die Republikeinen de afgelopen jaren als wapen gebruiken. McMorrow weerde hem niet met feiten of beleefd protest. Ze koos voor iets anders. "Call me whatever you want," zei ze, haar stem laag en beheerst. "I hope it brought in a few dollars. I hope it made you sleep good last night. I know who I am. I know what faith and service means, and what it calls for in this moment. We will not let hate win."
+
+De Michigan-primary draaide intussen om een heel andere kandidaat — en om een heel andere dynamiek. Abdul El-Sayed is in veel opzichten het spiegelbeeld van Graham Plattner. Waar Plattner een buitenstaander was zonder staat van dienst, is El-Sayed juist alles wat het Amerikaanse meritocratische systeem kan produceren: rhodesscholaar, hoogleraar aan Columbia, voormalig volksgezondheidsdirecteur van Detroit, eerder kandidaat voor gouverneur. Zijn handen dragen de hoogste onderscheidingen die een institutionele carrière kan opleveren. En toch: ook hij staat nu aan de top van de peilingen.
+
+Hoe dat gebeurde, is een verhaal over aandacht en de chemie van bepaalde issues.
+
+El-Sayed was niet van het begin af aan de favoriet. Hij liep aanvankelijk achter in een driehoeksstrijd: tegenover hem stond Haley Stevens, de zittende congresswoman die werd gerekruteerd door de partij-gevestigde orde — en die, zo bleken de peilingen, weinig vat kreeg op het publiek. De derde kandidate, Mallory McMorrow, was juist wél attentioneel begaafd, een charismatische senator die een jaar geleden nog gold als de opkomende ster van de Michigan-Democraten. In een traditioneel politiek landschap had zij misschien gewonnen. Maar het landschap was niet traditioneel.
+
+Wat de race kantelde, was de komst van Hassan Piker. Piker is een van de grootste politieke streamers van het land — zijn Twitch-kanaal trekt miljoenen kijkers en zijn politieke stellingnames zijn navenant uitgesproken. Hij organiseerde een rally voor El-Sayed. De reactie was onmiddellijk en heftig: buitenpartijse groepen als Third Way, maar ook de andere kandidaten, vielen El-Sayed aan. En in die aanvallen maakten ze één cruciale fout: ze centreerden Israel en Gaza als het onderwerp van debat.
+
+Hayes omschreef het effect bondig: "Het werd een attentioneel supergeleider." Geen enkel ander thema — op Donald Trump na — laadt zo snel zo veel emotionele spanning. Voor een betrokken Democratisch primaire-electoraat stond El-Sayed duidelijk aan de goede kant van die lijn. Piker's aanwezigheid had niet zozeer zijn eigen gewicht als endorsement; het was de controverse die Piker opriep bij zijn tegenstanders die hem centraal stelde. Ze hadden hem groter gemaakt dan hij ooit zelf had kunnen worden.
+
+Michigan is geen willekeurige staat voor dit debat. Het heeft een van de grootste Arabisch-Amerikaanse bevolkingsconcentraties van het land. En Haley Stevens draagt hier een bijzondere last: zij versloeg in 2022 Andy Levin — een vakbondsorganisator, voorzitter van zijn synagoge, hartstochtelijk voorstander van een tweestatenoplossing — nadat AIPAC hem had overladen met geld omdat hij onvoldoende loyaal was aan de Netanyahoe-lijn. Dat verleden volgde haar nu.
+
+El-Sayed zelf gaf op de vraag hoe hij de Joodse kiezer wil aanspreken een antwoord dat Hayes als krachtig markeerde. "Niemand begrijpt beter hoe het is om gediscrimineerd te worden om hoe je bidt," zei El-Sayed, "dan iemand die daarvoor zelf gediscrimineerd wordt. Het gaat de meeste mensen niet om hóe je bidt. Ze vragen: waarvoor bid je? En ik bid voor vrede, voor waardigheid, voor het basale goede voor al onze kinderen — of dat nu Joodse kinderen zijn die een paar huizen verderop wonen, of mijn eigen kinderen die moslim zijn."
+
+Hij vervolgde: "Het is cruciaal dat we onderscheid maken tussen het Jodendom als religie, het Joodse volk, de Joodse cultuur, de enorme Joodse bijdrage aan dit land — en AIPAC en de staat Israël. Dat zijn twee verschillende dingen. Als ik verkozen ben, zal ik me uitspreken tegen wat de Egyptische regering doet. Mijn familie is uit Egypte geïmmigreerd. Dat maakt me niet anti-Egyptisch. Het betekent dat ik wil dat mijn belastinggeld hier wordt uitgegeven, in plaats van dat het wordt overgemaakt om de greep van een militaire dictatuur op zijn eigen bevolking te bekrachtigen. Ik pas diezelfde principes toe op Israël. Ik wil niet dat mijn belastinggeld apartheid en genocide financiert, terwijl het hier kan worden gebruikt voor brillen, gezondheidszorg of scholen voor onze eigen kinderen."
+
+Hayes trok de vergelijking met een ander politiek breukvlak: de oorlog in Irak, en hoe één campagnebord in Los Angeles in 2008 een heel primaire-seizoen samenvatte. Op een lantaarnpaal, simpel en onverbiddelijk: "Zij stemde voor de oorlog." Dat was alles wat je moest weten. Hillary Clinton verloor de voorverkiezing van Barack Obama om veel redenen, maar die ene zin vatte de fatale breuk samen. Sommige issues zijn zo geladen dat ze alles overschaduwen.
+
+Maar er is meer aan de hand dan enkel het issue zelf. Er is een stapeling gaande, zo stelde Hayes, waarbij geld, gevestigde macht, de pro-Israëllobby en het falende status quo allemaal op hetzelfde moment boven op elkaar worden gestapeld. "Als je de populistische insurgent bent tegen het establishment," zei hij, "dan bereik je met je kritiek op Israël en je standpunten over Gaza tegelijk al die scheidslijnen. Ze reiken van het concrete issue helemaal omhoog en omlaag door de politieke werkelijkheid."
+
+Dat bracht hem bij de Israel Day Parade in New York — een jaarlijkse manifestatie die tradtioneel gold als een cross-ideologische dag van Joodse eenheid. Dit jaar was die eenheid ver te zoeken. De burgemeester verscheen niet. En te midden van dat alles gaf Bezalel Smotrich, de meest rechtse minister in de Israëlische regering, een reeks interviews. Smotrich is de man die heeft gepleit voor executie door ophanging, die de kolonistenbewegingen heeft gesteund en een concreet plan heeft gepresenteerd voor wat Hayes zonder omhaal omschreef als de etnische zuivering van de Westelijke Jordaanoever. Hij vergeleek de parade met de Jeruzalemdag, de jaarlijkse mars waarbij ultranationalistische Israëliërs door Arabische wijken trekken onder leuzen als "dood aan de Arabieren."
+
+"Je kunt het niet scheiden," zei Hayes. "Wie is er verantwoordelijk voor de aandacht die de parade krijgt? Ze hebben die aandacht zelf naar zich toe getrokken."
+
+Hij gebruikte een uitdrukking die hij koestert: throwing rocks and hiding hands — stenen gooien en vervolgens je handen verbergen. "Dat is precies wat AIPAC en de organisaties om hen heen doen. Ze hebben gespeeld in een reeks van de duurste congresverkiezingen in de Amerikaanse geschiedenis. Record na record gebroken. Dat mag. Dit is Amerika na Citizens United. Maar je kunt niet meedoen en daarna verbaasd doen dat iedereen naar je kijkt. Je speelt óf mee, óf je speelt niet. Maar als je meespeelt, mag je bekritiseerd worden."
+
+---
+
+Texas draait om een heel andere kandidaat, en om een heel ander soort aandacht.
+
+James Talarico is de Democratische Senaatskandidaat in een staat die de partij al decennialang niet heeft gewonnen. Hij is een voormalig staatslid, een Teach for America-alumnus, een oud-voorzitter van zijn universitaire Democraten. Hij is niet iemand van wie je zou zeggen dat hij door de Amerikaanse instituties is gefaald — hij heeft ze benut en doorkruist. Zijn politiek is conventioneel progressief. Maar wat hem onderscheidt, is de taal waarin hij die politiek verpakt: een diep geworteld christelijk moreel kader dat hij niet aanwendt als decoratie, maar als fundament.
+
+Dat bracht hem op Joe Rogans podcast. Dát is het signaal dat zijn campagne uitzond: misschien is hier iemand die iets kan wat andere Democraten niet kunnen.
+
+Hayes zei het treffend: Talarico is charismatisch in de oorspronkelijke Griekse betekenis van het woord. De pastorale traditie waar hij uit voortkomt geeft hem niet alleen een aangeboren uitstraling, maar ook toegang tot retorische gereedschappen die letterlijk duizenden jaren zijn verfijnd om aandacht te grijpen en vast te houden. "Dat is een enorm voordeel," zei Hayes. "En het sluit aan bij het back-to-future-thema dat we steeds terugzien. Je kunt niet simpelweg geld inzamelen en advertenties kopen. Je moet iets hebben in de manier waarop je mensen bereikt."
+
+Talarico is een unicorn in het politieke landschap van dit verkiezingsseizoen, precies omdat zijn doorbraak niet stoelt op populisme in de traditionele zin. Hij frameert zichzelf als een insurgent, zeker — maar hij beroept zich niet op een ons-versus-hen-verhaal. Hij doet een klein beroep op de miljardenklasse als retorische versiering, maar dat is niet zijn kern. Zijn kern is iets anders: een oproep tot fatsoen.
+
+Hayes merkte op dat er onder de oppervlakte van dit politieke seizoen een verlangen leeft dat groter is dan de honger naar populisme of radicale verandering. Het is een verlangen naar publieke deugdzaamheid. "Ik denk steeds meer na over deugd," zei hij. "Deels door Trump. Deels doordat ik een vader ben van drie kinderen, en nadenk over morele vorming in een wereld waarin de machtigste en bekendste persoon van het land een morele degenerate is."
+
+Dat verlangen — naar verbinding, broederschap, eenheid — was ooit Barack Obama's sterkste kaart. Het zit diep in de progressieve ziel, zei Hayes, en mogelijk nog dieper in de Amerikaanse ziel. Trump is er constitutioneel toe onvermogend. De Republikeinse Partij in zijn tijdperk is het steeds minder machtig op dat register te spelen. En precies in die leegte kan een Talarico gedijen.
+
+Maar zijn tegenstander ziet dat anders. De campagne van Ken Paxton heeft één aanvalslijn gekozen: zwakte. Talarico is aardig — té aardig. Hij spreekt graag over zijn eigen bescheidenheid. Hij heeft een veganistische vriendin. Hij is, zo stelt Paxton's team, niet sterk genoeg voor Texas.
+
+Ze noemen hem Tofu Talarico. De Talarico-campagne heeft inmiddels shirts laten maken met die bijnaam.
+
+Maar onder die spotternij schuilt iets grimmiger. Stephen Miller omschreef hem als "de eerste transgenderkandidaat." Talarico is een homoseksuele man. Wat Paxton's mensen eigenlijk doen, stelde Hayes zonder omwegen, is hem het f-woord noemen. Het is schoolpleinpolitiek, rauw en onverholen: wreedheid versus vriendelijkheid, gespierde kracht versus delicate deugd.
+
+En toch: misschien is dat precies de tegenstander die Talarico wilde. Hayes herinnerde zich een opmerking uit de kringen rond de Hochul-Cuomo-strijd: beide kandidaten hadden precies de antagonist gekregen die ze wilden. Het bleek dat Hochul gelijk had over welke tegenstander haar zou helpen, en Cuomo niet.
+
+Talarico mag hetzelfde gelden.
+
+Want ook de tegenkandidaat verdient een blik. Ken Paxton vertegenwoordigt een zeldzame combinatie: alle risico's van een kandidaat die aandacht trekt op de verkeerde manier, zonder enig van de voordelen. Hij werd door een overweldigende meerderheid van de Republikeinse staatswetgever afgezet wegens corruptie. Hij stond terecht voor effectenfraude. Zijn ex-vrouw verliet hem om wat zij "bijbelse redenen" noemde. Voormalige medewerkers publiceerden een gezamenlijke verklaring over zijn wandrag als baas en in zijn publieke functies. Hayes, die Paxton uitgebreid had gevolgd, was er nuchter over: "Dit is niet een supercharismatisch iemand. Hij heeft alle bagage zonder de aantrekkingskracht." Als je de slechtst denkbare kandidaat zou ontwerpen voor dit tijdperk—iemand die alle nadelen heeft van riskante aandachtsstrategieën zonder één voordeel—dan zou je uitkomen bij Ken Paxton.
+
+Maar het is Talarico die de eigenlijke les bevat. Dat hij Jasmine Crockett versloeg in de voorverkiezing was geen klein kunstje. Crockett is zelf een figuur die thuis is op MSNBC, bedreven in de virale clip, allesbehalve afgemeten in haar optreden. Ze speelde hetzelfde spel. En ze verloor. Dat vertelt iets fundamenteels over hoe deze platforms werken: er zijn meerdere wegen naar aandacht, maar ze hebben allemaal één ding gemeen. "Deze anti-institutionele ruimtes snuiven onechtheid op," zei Hayes. "Mensen voelen wanneer je niet zegt wat je echt denkt. Je moet in zekere zin jezelf zijn om het goed te doen." De oude instituties vroegen je juist om jezelf aan te passen—de perfect geformuleerde soundbite voor het avondnieuws, het nette pak voor Meet the Press. De algoritmen vragen het tegenovergestelde: wees wie je bent, of wees niets.
+
+Rahm Emanuel past paradoxaal genoeg in dit plaatje. De voormalige burgemeester van Chicago, oud-stafchef van Obama, door en door institutioneel—en toch fundamenteel zichzelf in alle ruimten. "Hij heeft niets te verliezen," analyseerde Hayes. "Hij kan overal ja op zeggen. Hij is een hoogrisicopersoonlijkheid." In een presidentsrace die hij waarschijnlijk niet zal winnen, zou Emanuel toch een kracht worden die mensen onderschatten.
+
+En dan is er Jon Ossoff.
+
+Hayes had hem op zijn team-Slack de Lisan Al-Ghaib gedoopt—een verwijzing naar de Dune-profeet, de uitverkorene—zij het als grap, zo benadrukte hij. Toch zat er iets in die grap. Ossoff was begonnen als een goedgebekte senator uit Georgia, de jongste Democratische senator in decennia, en was ergens in de loop van 2025 veranderd in een fenomeen. Hassan Piker praatte over hem. Matt Yglesias praatte over hem. Michelle Goldberg publiceerde een uitgebreid profiel in de Times. "Er is iets interessants in wat mensen op Jon Ossoff projecteren," zei Hayes.
+
+Wat hem onderscheidt is deels wat hij niet doet. Hij speelt geen volumespel. Je treft hem niet op eindeloze podcast-interviews. Zijn sociale media zijn zorgvuldig gecureerd, niet overvloedig. Maar elk fragment dat zijn team uitbrengt heeft een herkenbare visuele grammatica die Hayes nauwkeurig wist te ontleden. Ossoff werkte als documentairemaker voordat hij politicus werd—hij draaide films over internationale corruptie. De man weet hoe je een verhaal vertelt met een camera. Zijn shot is altijd hetzelfde: driekwart omhoog, de blik gericht op iets voorbij de menigte. Hayes noemde het de heldenshot, een hoek die Obama had geperfectioneerd. "Obama keek altijd alsof hij de toekomst zag," zei Hayes, en hij verwees naar een klassiek Onion-artikel: Obama accidentally stares too far into the future. "Ossoff doet precies hetzelfde."
+
+Maar visuele grammatica alleen verklaren de aandacht niet. Er zijn drie lagen aan Ossoff die samen iets unieks creëren.
+
+De eerste laag is zijn verhaal over corruptie. Hij heeft een manier gevonden om de rotting van het Trumptijdperk te verwoorden zonder te vervallen in de moralistische verbijstering die zoveel Democraten lamslaat. In een video die breed gedeeld werd, sprak hij direct in de camera: "Ik begrijp waarom mensen voor hem stemden. Want al vóór hij ten tonele verscheen, had Amerika het meest corrupte politieke systeem van de westerse wereld. Het draait al jaren op bedrijfsgeld, geheim geld, miljardairsgeld—van beide kanten—en het is erger dan ooit. Citizens United was de slechtste rechterlijke uitspraak in het moderne Amerika. En als leden van het Congres niet bedelen bij lobbyisten, ontwijken ze de superpac-bommen. Daarom werkt er niets voor gewone mensen. Niet vanwege woke universiteitsstudenten of transgender leerlingen of interraciaal koppels in graanvlokkenreclames. Maar omdat de gekozen vertegenwoordigers van het volk het volk niet vertegenwoordigen. Ze vertegenwoordigen de donateurs."
+
+Dat is het Obama-trucje. Geef de andere kant zijn argument—erken het, laat het ademhalen—en gebruik het dan als startpunt voor je eigen verhaal. Ossoff positioneert Trump niet als de oorzaak van de corruptie, maar als iemand die handig gebruik maakt van een systeem dat al ver voor hem kapot was. Dat maakt het verhaal groter dan één man, en tegelijkertijd persoonlijker.
+
+De tweede laag is zijn positie als joods Israel-criticus. In een partij verscheurd door Gaza en de percepties rondom antisemitisme en de macht van de Israëllobby, is dit geen zwakte. Het is een sleutel. Hayes zei het expliciet: "De eerste joodse presidentskandidaat in de geschiedenis die ook een criticus van Israël is, zou weleens de enige zijn die deze kloof kan overbruggen." Vroeg in de Gaza-crisis ondertekende Ossoff een brief van Bernie Sanders—slechts negentien senatoren tekenden—tegen verdere wapenleveranties aan Israël gezien de humanitaire verwoesting. Een Haaretz-journalist schreef dat dit zijn herverkiezingskansen in Georgia zou schaden. Maar Hayes zag het anders: die positie plaatst Ossoff precies op de enige plek waar navigatie überhaupt mogelijk is. Josh Shapiro, de gouverneur van Pennsylvania die als potentiële kandidaat rondwaart, heeft dit probleem al. En wie te ver doorbuigt naar één kant, verliest de andere.
+
+De derde laag is de school waarin Ossoff is gevormd. De meeste Democraten die zichzelf als kwekelingen van de progressieve kust beschouwen, weten theoretisch dat er mensen bestaan die van Donald Trump houden—maar ze kennen hen niet. Ze hebben hen uit hun leven gesneden, of zijn er nooit mee in contact geweest. Ossoff heeft geen andere keuze gehad. Georgia is Georgia. De mensen die hij moet overtuigen, wier familieleden hij moet bereiken, zijn zichtbaar aanwezig van het begin af aan. "Trump's aantrekkingskracht op het electoraat is voor hem nooit een abstractie geweest," analyseerde Hayes. "Hij is gevormd in een omgeving waar die aantrekkingskracht reëel, aanwezig en persoonlijk is."
+
+Dat is de les die Sanders in Vermont leerde na jaren van electorale mislukkingen: je leert een publiek kennen door voor hen te falen, te analyseren waarom, en het opnieuw te proberen. Obama leerde het door als zwarte politicus witte zalen te werken in Illinois—het soort plekken waar mensen sceptisch stonden tegenover een man genaamd Barack Hussein Obama. "Politici zijn als comedians," zei Hayes. "Je werkt de zaal. Je ontdekt waar je lachlijnen liggen. Je speelt in steeds grotere zalen."
+
+Maar misschien is het meest opvallende aan Ossoff wat hij níet doet: hij is geen brawler. Terwijl Newsom, AOC, Pritzker en Whitmer allemaal de variant spelen van ik ben je vechter, ik ruk hun strot eruit—is Ossoff in een ander register. Hij is moreel verontwaardigd zonder verbijsterd te zijn. Zijn campagnevideos zijn opwekkend, bijna inspirerend. In een veld vol vuurvechters kiest hij water.
+
+Wat brengt ons bij Gavin Newsom. De gouverneur van Californië leidde op dat moment de predictiemarkten voor de Democratische nominatie van 2028, en Hayes had gecompliceerde gevoelens. Newsom was altijd al charismatisch geweest, maar ergens was hij veranderd—of misschien was iets in hem tot expressie gekomen dat eerder verborgen lag. De keuze die Newsom had gemaakt, was radicaal in zijn eenvoud: omnipresentie. Hij zei ja op alles. Hij was overal. Hij begon zijn eigen podcast. Hij nodigde Ben Shapiro uit. Hij nodigde figuren uit die je niet verwachtte. En het resultaat was een comfort, een vloeiendheid in debat en interview en confrontatie, die hij eerder niet had.
+
+"Maar er is een vraag," zei Hayes, "over of je vuur bestrijdt met vuur, of met water." Newsom had de brawlerstrategie omarmd—online deed hij bijna parodistisch mee aan het Trump-schtick. Dat spreekt een deel van het Democratisch electoraat aan. Of het genoeg is, en of het de juiste aanpak is voor een algemene verkiezing, is een andere vraag.
+
+Want achter alle tactiek—de heldenshots, de platform-strategieën, de authenticiteitstests van algoritmen—speelt een fundamentelere vraag. Wat wil het Amerikaanse publiek op dit moment eigenlijk? Een fighter die terugslaat met dezelfde energie? Of iemand die iets anders belooft, iets wat al een tijdje zoek is: een verhaal over wat Amerika zou kunnen zijn, verteld door iemand die het nog lijkt te geloven?
+
+Maar Hayes wilde één complicatie aanbrengen, één figuur die het verhaal weerbarstiger maakt: Gavin Newsom.
+
+Want Newsom doet iets wat verder gaat dan louter aanwezigheid opbouwen, verder dan repetities verzamelen op vreemde podia. Hayes zag het scherper worden toen hij Newsom ontmoette op de CPAC Ideas Conference—dezelfde conferentie waar Klein ook aanwezig was. Newsom is sneller geworden, gevatter, zichtbaar geoefend. Maar dat is het minst interessante aan hem.
+
+Het meest interessante is wat hij probeert te zeggen over Amerika.
+
+Democraten hebben sinds Obama een structureel probleem met een bepaald register in de politieke taal: het register van de nationale eenheid, van een gedeeld moreel kompas dat mensen samenbindt ondanks hun verschillen. Bill Clinton beheerste het, als arme jongen uit Arkansas die Rhodes Scholar werd, als de man van de Nieuwe Zuiden. Obama was er de meester van. Zijn toespraak op de Democratische Conventie van 2004—er is geen blauw Amerika, er is geen rood Amerika, er is één Verenigd Staten van Amerika—definieerde een generatie.
+
+Maar precies omdat Obama zo goed was in dat register, heeft hij het ook onbruikbaar gemaakt voor ieder die na hem komt.
+
+"Als Obama zelf het niet kon realiseren," zei Hayes, "als wat het Obama-tijdperk uiteindelijk opleverde Donald Trump was, de verdeeldheid, de ontbinding van het gedeelde morele en democratische kader—dan wordt er spreken zoals Obama sprak in 2004 naïef. Dan gelooft niemand je meer."
+
+En toch doet Newsom iets vreemds. Hij probeert twee tegengestelde ideeën tegelijk vast te houden. Aan de ene kant: ik ben jullie vechter, ik ben hard en ik ga door het stof niet. Aan de andere kant: we kunnen eerlijk en openlijk met elkaar van mening verschillen en toch de relatie in stand houden. Hij gaat praten met Charlie Kirk. Met Michael Savage. Met Ben Shapiro. Hij loopt de leeuwenkuil in—niet om te capituleren, maar om te debatteren.
+
+Klein had het niet eerder in die termen gedacht, maar Hayes legde het bloot: Newsom maakt niet het argument dat onze verschillen kunnen verdwijnen. Hij maakt het argument dat onze gevechten *productief* kunnen zijn. Dat het conflict zelf de relatie niet hoeft te vernietigen. Dat je een brawler kunt zijn én een gesprekspartner.
+
+"Het is een heel Ezra Klein-achtige benadering," zei Hayes met een glimlach.
+
+Of het werkt, is een andere vraag. Hayes is er niet zeker van dat Newsom de synthese al gevonden heeft—hij weet zelfs niet zeker of die synthese te maken valt. Het moment waarop Newsoms retoriek het meest hol klinkt, is als hij begint te spreken over de noodzaak om "de bres te herstellen"—een bijbelse formulering. Het klinkt mooi. Maar je *voelt* niet hoe hij van plan is die bres te dichten. De woorden zweefden, los van enig concreet mechanisme. En dat maakt precies duidelijk hoe moeilijk het is: de taal van verzoening is besmet, maar de leegte die zij achterlaat, is nog niet gevuld.
+
+---
+
+En dan is er Spencer Pratt.
+
+Als tegenwicht, als waarschuwing, als het verhaal dat alle andere verhalen in dit gesprek comprimeert tot zijn meest confronterende conclusie.
+
+Pratt—voormalig realityster, bekendheid van The Hills, nu kandidaat voor burgemeester van Los Angeles—voerde een campagne die op X onweerstaanbaar leek. Zijn advertenties gingen viraal. Zijn clips werden eindeloos gedeeld. Als je vijf minuten op het platform zat, zag je hem. Er waren mensen die werkelijk geloofden dat hij de tweede ronde zou halen. Misschien zelfs meer.
+
+Maar toen de stemmen werden geteld, deed Pratt het slechter dan Donald Trump in Los Angeles. Een stad die Trump verfoeide, stemde relatief meer op Trump dan op Spencer Pratt.
+
+Hayes pauzeert even bij wat dit betekent. "Ik ben blij dat we het erover hebben, want als je echt online was, leek het zo'n succesvolle campagne—attentioneel gezien."
+
+Maar attentie is niet het hele verhaal. Dat is precies de les.
+
+Er is iets bijzonders aan X onder Elon Musk, zegt Hayes, iets wat het onderscheidt van hoe Twitter ooit functioneerde en ook van hoe andere platforms nu werken. X is een hermetisch afgesloten broeikas geworden. Een platform dat zo ver naar één kant is doorgeschoten—naar hard-rechts, naar het complotdenken, naar de eigen mythologie—dat het de werkelijkheid daarbuiten niet meer kan zien. Als je er niet voortdurend in zit, als je er af en toe instapt, is je eerste reactie: jullie zijn gek.
+
+Hayes herinnert zich precies hetzelfde gevoel toen Twitter nog gedomineerd werd door progressieven en liberalen. Ook toen overtuigde de echo-kamer zijn bewoners van ideeën die politiek dodelijk waren. Wie in die omgeving normale, gematigde opvattingen had, werd gezien als politiek verdacht. Niet omdat de ideeën fout waren, maar omdat de kamer ze zo had vervormd.
+
+Nu is die rol omgedraaid.
+
+"JD Vance zit daar," zegt Hayes. "Al hun medewerkers zitten daar. Ze overtuigen zichzelf van dingen. Terwijl liberalen en democraten en linksen verspreid en gebroken zijn over verschillende platforms."
+
+En daarin—en dit is de paradox die Hayes pas laat in het gesprek volledig articuleerde—schuilt een voordeel voor democraten richting 2028. Niet het nadeel, het voordeel. Want terwijl de rechterkant zich opsluit in een platform dat steeds verder van de realiteit afdrijft, zijn democraten gedwongen om te opereren in een meer gefragmenteerde, minder gecurateerde media-omgeving. Ze kunnen zich geen hermetische zekerheden veroorloven. Ze worden geconfronteerd met meer wrijving.
+
+Twitter was vroeger een vloek voor links, zegt Hayes. "Het geeft je het gevoel dat je heel machtig bent. En dan betaal je de prijs."
+
+De Spencer Pratt-campagne is het bewijs in het uiterste. Een man die X zo goed begreep, zo perfect ingespeeld was op de algoritmes van dat platform, zo viraal ging in die omgeving—maar die buiten het scherm van Los Angeles nauwelijks bestond. Er was geen reden waarom hij burgemeester zou moeten worden. Er was geen project, geen visie, geen politiek verhaal dat standhield buiten de grenzen van het platform. Er was alleen aandacht.
+
+En aandacht, zo blijkt, is niet genoeg.
+
+---
+
+Hier eindigt het gesprek, maar niet de vraag.
+
+Wat Hayes en Klein die middag in kaart brachten—in de zijbogen van een gesprek over Graham Platner, James Talarico, Jon Ossoff en Spencer Pratt—is iets wat de komende jaren de Amerikaanse politiek zal bepalen. Aandacht is werkzaam op manieren die niemand goed begrijpt. Ze stroomt via kanalen die tien jaar geleden niet bestonden. Ze maakt onbekenden groot en laat gevestigde namen verdwijnen. Ze reageert op iets wat we als samenleving voelen maar zelden kunnen benoemen: een diepgaand wantrouwen in instituties, in journalisten, in de gevestigde partijstructuren.
+
+Maar aandacht is ook vluchtig. Ze is manipuleerbaar. Ze wordt vervormd door algoritmes die optimaliseren voor woede en verbazing, niet voor werkelijkheid of waarheid. En ze is niet overdraagbaar: wat werkt op X werkt niet in Maine, wat werkt in een Instagramvideo van Jon Ossoff werkt niet op de vloer van de Senaat.
+
+De kandidaten die dit begrijpen—die aandacht kunnen opbouwen *en* iets hebben om over te regeren, die de digitale wereld kunnen bespelen *en* de echte wereld daarna kunnen bedienen—zijn de kandidaten die de toekomst zullen bepalen. De rest, de Spencer Pratts, zullen herinnerd worden als curiosa: als bewijs dat het nieuwe systeem net zo goed charlatans produceert als helden.
+
+Hayes sloot af met drie boeken. Ben Lerners nieuwste roman, *Topography*, dat voor hem een bijzondere lading had na zijn 25-jarig reünie in Brown, waar hij zijn vrouw Kate had ontmoet. *The Godfather* van Mario Puzo, dat hij tot zijn verbazing nooit eerder had gelezen—"ongelooflijk goed, op een manier die je pas begrijpt als je de film kent, en die je tegelijk doet begrijpen waarom de film een meesterwerk is." En een roman die hij halverwege had: *Alan Opts Out* van Courtney Maum, over een reclameman uit Greenwich die besluit in het speelhuisje achter zijn huis te gaan wonen—een scherpe, grappige blik op een man die uit zijn eigen leven stapt.
+
+Boeken, zei Hayes er niet bij, maar het lag erin opgesloten: als tegenwicht. Als ruimte buiten de algoritmes. Als de plek waar aandacht nog iets anders kan betekenen dan een cijfer op een dashboard.
+
+De vraag die het gesprek achterlaat, hangt in de lucht als rook die niet wil optrekken: in een democratie die draait op aandacht, wie leert haar dan sturen zonder haar te verliezen? En wat kost het, als niemand het antwoord vindt?
