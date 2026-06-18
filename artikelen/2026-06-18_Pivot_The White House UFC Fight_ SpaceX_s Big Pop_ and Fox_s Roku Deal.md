@@ -1,0 +1,240 @@
+<!--
+podcast_name: Pivot
+guid: de5399a4-c1b3-11f0-b75b-f31d4a72bd86
+-->
+
+# Bloed op het Gazon: Spektakel, Macht en de Ziel van Amerika
+
+*In de zomer van 2026 convergeerden drie werelden die zelden samenkomen — sport, politiek en Silicon Valley — op het gazon van het Witte Huis. Wat volgde was minder een sportevenement dan een inktvlek: een moment dat iets wezenlijks blootlegde over waar Amerika zich bevond, en over de strijd om te bepalen wat het kon worden.*
+
+---
+
+Het was een zondagavond die niemand snel zou vergeten, al was het voor geheel verschillende redenen. Terwijl Jalen Brunson en zijn New York Knicks de basketbalwereld op zijn kop zetten en honderdduizenden New Yorkers de straat op dreven in een golf van collectieve euforie, speelde zich op anderhalve tijdzone naar het zuiden een ander schouwspel af — een dat een veel bitterder smaak naliet.
+
+President Donald Trump vierde zijn tachtigste verjaardag op een manier die vrijwel niemand had kunnen verzinnen: ringside bij de UFC Freedom Cup, een vechtgala georganiseerd op het gazon van het Witte Huis zelf, met de verlichte pilaren van het gebouw als decor. Dana White, de vluchtige en altijd controversiële CEO van de Ultimate Fighting Championship, had zijn grootste productie ooit neergezet. En de gastenlijst las als een power-index van het nieuwe Amerika.
+
+Mark Zuckerberg zat in de eerste rijen — geen verbazing, want zijn toenemende fascinatie met vechtsporten is inmiddels een van de best gedocumenteerde persoonlijkheidstransformaties in Silicon Valley. Joe Rogan was er, kabinetsleden en senatoren, onder wie een opvallend opgetogen Lindsey Graham. En Paramount-CEO David Ellison had zijn plaatsje gevonden in het publiek, terwijl het evenement exclusief via Paramount Plus werd uitgezonden — achter een betaalmuur. Niets zegt *voor het volk* als een abonnement van veertien dollar negenenvijftig.
+
+Het had een triomf kunnen zijn. Een statement. Een televisie-evenement dat een heel ander Amerika aansprak dan de gala-diners en symfonieconcerten die het Witte Huis traditioneel sierde. Maar toen greep een vechter de microfoon en maakte een rauwe, racistische opmerking over Michelle Obama — een uitval die paste in een jarenlange, obsessieve campagne van rechts om de voormalige First Lady te beschimpen.
+
+Kara Swisher, die de beelden later bekeek, was direct: "Ze waren allemaal zo geobsedeerd met haar. En geen man die iets deed. Dát is wat het is."
+
+Dana White verklaarde achteraf aan *Time Magazine*: "Iedereen kent mijn standpunt over vrije meningsuiting, maar ik haat dit soort onzin." Voor Swisher schoot dat tekort. "Je hoeft de vrije meningsuiting niet te verdedigen, Dana. Zeg gewoon dat dit vreselijk is."
+
+Scott Galloway zag het anders — of liever: hij zag meer lagen. Hij was het eens dat het incident beschamend was, maar weigerde het evenement als geheel te reduceren tot die ene uitval. Er speelde iets groters, vond hij. Er was een groot deel van Amerika dat zich al jaren buitengesloten voelde van de culturele instellingen — van de kunst, de literatuur, de opera — en dat nu eindelijk zijn moment had. "Decennia lang moesten UFC-fans toekijken hoe presidenten dichters en cellisten en operazangers uitnodigden. Nu is het omgekeerd." Turnabout is fair play, zo luidt het in het Amerikaans.
+
+Maar het echte probleem, zo schreef Monica Hesse in *The Washington Post* in een analyse die Galloway prees als scherp en eerlijk, was niet het gevecht op het gazon. Hesse, zelf een liefhebber van MMA, legde de vinger op de diepere tegenstrijdigheid: *de tonaal incoherente emulsie van patriottisme en bloeddorst, van geschiedenis en koopwaar.* Een evenement dat claimde voor het volk te zijn, maar dat achter een betaalmuur werd weggestopt. Goedkope plaatsen die ver van het Witte Huis bleven. Ringmeisjes in glimmende sterren-en-strepenoutfits. Matrozen die dansten op YMCA. Trucks en Bud Light en *loud we trust.* "Breng mij uw vermoeide, uw armen, uw massa's verlangend naar vrijheid," parafraseerde Hesse droogjes, "en een reclame voor een pick-up."
+
+Galloway zag er iets wezenlijks in over de positie van de Democraten — iets dat hem al langer dwarszat. "Als progressieven de grens niet handhaven, doen de fascisten het. En als Democraten geen enkele symboliek of rolmodellen kunnen bieden die kracht en dienst als mannelijkheid uitdragen, dan vullen Republikeinen dat gat met geweld en misogynie. En dat is precies wat er gebeurt."
+
+Swisher wilde dat niet zomaar laten passeren. Ze wees naar de Knicks. Naar Jalen Brunson, die vrijwillig een fortuin inleverde — tientallen miljoenen dollars aan salaris — zodat het team hem heen kon bouwen. Naar Carl Anthony Towns, wiens moeder hem had bezield en wiens aanwezigheid bij de wintitels een menselijker gezicht gaf aan wat topsport kan zijn. Naar de straatfeesten in Manhattan, waar mannen van alle komaf huilden en omhelsden en schreeuwden — niet van woede, maar van vreugde. "Als je een versie van mannelijkheid zoekt, is dit die versie. Sportief, verbindend. Het deed meer voor de mannelijke eenzaamheidsepidemie dan welk gala ook."
+
+Galloway gaf het toe. De Knicks waren beter. Het Wereldkampioenschap voetbal was beter — met zijn diverse menigtes, zijn veelheid aan nationaliteiten en verhalen. Nederland versloeg Japan in een memorabele wedstrijd. En Galloway, die met zijn zonen had gekeken, had ontdekt dat hij een onverwachte sentimentalist was geworden: als Schotland de kwartfinale haalde, nam hij zijn kinderen mee naar Boston.
+
+Maar politiek gezien, zo bracht hij in, had het UFC-gala één functie die niet te onderschatten viel: afleiding. Het had het nieuws beziggehouden. En er was nieuws dat afleiden verdiende — of liever: nieuws dat de aandacht wel had verdiend maar nu ondergesneeuwd dreigde te raken. Trump had namelijk een memorandum van begrip getekend in een diplomatiek dossier dat Galloway omschreef als iemand die een Ferrari wilde en met een Camry naar buiten liep — die hij ook nog te duur had betaald. Waarover hij geen rijbewijs had.
+
+"Als er die avond geen UFC-gala was geweest, hadden de media zich veel harder gefocust op dat memo. Iets met veel grotere gevolgen voor de wereld."
+
+---
+
+Terwijl het stof van het Witte Huis-gala nog neerdaalde, kwamen elders de grote mediafusies in een stroomversnelling. Het Amerikaanse ministerie van Justitie gaf groen licht voor de megafusie tussen Paramount en Warner Bros. Discovery — een deal ter waarde van ruwweg honderdtien miljard dollar. Het oordeel van de DOJ: de transactie zou de concurrentie voor consumenten vermoedelijk niet schaden.
+
+Wat opviel, was hoe die conclusie tot stand was gekomen. Ervaren DOJ-juristen, die de fusie maandenlang hadden bestudeerd, waren er niet eens aan toegekomen hun bevindingen voor te leggen. Ze leken te neigen naar het aanbevelen van een rechtszaak om de deal te blokkeren — twee van de grootste studio's van Hollywood samenvoegen zou de concurrentie schaden, was hun analyse. Maar het onderzoek werd stilgelegd voordat die aanbeveling überhaupt de tabel bereikte. Met David Ellison aan de ene kant en de politieke realiteit van het Trump-tijdperk aan de andere kant leek de uitkomst bij voorbaat vastgesteld.
+
+Ellison — erfgenaam van Oracle-miljardair Larry Ellison en nu de man die Paramount zou gaan besturen — bevestigde dat de fusie op schema lag voor september. Die deadline was niet willekeurig: daarna zou een zogenaamde *ticking fee* in werking treden, een contractuele bepaling die de overname met elke dag duurder maakte. Tijd was geld, letterlijk.
+
+De weg was echter nog niet vrij. Procureurs-generaal van verschillende staten, onder wie die van Californië, bestudeerden de deal nog. En Europese toezichthouders hadden hun oordeel nog niet geveld. Of zij de fusie konden vertragen — laat staan blokkeren — was de vraag. Maar Swisher had haar bedenkingen en ze sprak ze uit: "De fix was erin. Met de Ellisons en Trump is dat duidelijk."
+
+En ondertussen bewoog er meer. Fox had zojuist Roku overgenomen — een deal die de mediasector op zijn grondvesten deed trillen. Fusies kwamen snel en hard. Swisher vroeg of Galloway bezorgd was over wat dit voor consumenten betekende — hij had eerder gewaarschuwd voor hogere prijzen bij Netflix. Nu, met al deze consolidatie, wat dacht hij?
+
+Dat antwoord zou moeten wachten. Maar de vraag hing in de lucht zoals zoveel vragen die zomer: wie betaalt uiteindelijk de rekening voor al dit spektakel?
+
+De economen die Galloway raadpleegde, waren eensgezind: van een echte monopoliepositie was nauwelijks sprake. Het gecombineerde kijkcijfer van de gefuseerde mediagigant zou YouTube nog altijd niet evenaren, en de omzet bleef ver verwijderd van wat de grote techbedrijven genereerden. "Je kunt ze beschuldigen van te veel betalen," zei Galloway, "maar een valide economisch argument om de fusie te blokkeren, was er simpelweg niet." Een oordeel waartoe hij zelf ook was moeten komen—eerder had hij zich nog zorgen gemaakt over de consolidatie van media, maar de realiteit van het concurrentielandschap had hem van gedachten doen veranderen.
+
+Swisher had echter een ander soort huivering gevoeld toen ze het nieuws las—niet over de fusie zelf, maar over een naam die plotseling de ronde deed: Mark Thompson, voormalig topman van The New York Times en eerder van de BBC, zou worden overwogen als de man die CBS News moest leiden. "Het was alsof het pas volledig tot me doordrong," zei ze. "De Ellisons op CNN." Ze had het geweten, natuurlijk, het was al maanden publiek—maar die ene naam crystalliseerde wat het in de praktijk zou betekenen.
+
+Want Swisher zou er niet bij zijn. Ze had het al vaker gezegd, maar hier herhaalde ze het met de zelfverzekerdheid van iemand die haar beslissing allang heeft genomen: ze verliet CNN zodra dat mogelijk was. Haar contract liep tot het einde van het jaar, en ze hoopte vroeg te worden vrijgesteld—niet uit boosheid, maar uit een fundamenteel gebrek aan vertrouwen in de nieuwe eigenaren. "Ik wil niet werken voor de Ellisons en ik wil niet werken voor hun handpicked minions, omdat ik denk dat ze incompetent zijn," zei ze onomwonden. "Ik vertrouw hen niet. Dat is alles."
+
+Het was geen nieuw patroon voor Swisher. Ze had eerder Murdoch verlaten. Ze had een carrière gebouwd op weigeren te blijven waar ze niet wilde zijn, op de overtuiging dat het alternatief altijd bestond. "Niemand geeft er echt om," gaf ze toe, "maar het zegt iets." Galloway probeerde haar te verleiden met een scenario: een contractuele garantie over redactionele onafhankelijkheid, een duidelijke baas boven haar, bescherming tegen de aandeelhouders. Ze wuifde het weg. "Ik denk niet dat ze dat zouden doen. En zelfs als ze dat deden, niet op de manier waarop ze zich nu gedragen." Ze verwees naar de turbulentie rondom veteraanjournalisten die openlijk weigerden te vertrekken—alsof hun aanwezigheid op zichzelf een schild kon vormen. Swisher geloofde niet in die symboliek. "Ik heb niet die macht."
+
+Wat ze wel had, was een platform. "We zijn televisie," zei Galloway, "maar dan met veel betere economics." Swisher was het roerend eens. Waarom je hoofd buigen voor aandeelhouders wier beslissingen je niet vertrouwt, als de technologie om je heen precies die afhankelijkheid overbodig heeft gemaakt?
+
+---
+
+En dan was daar plotseling die aankondiging: Fox Corporation kocht Roku voor tweeëntwintig miljard dollar.
+
+Het was een zin die je even moest laten bezinken. Rupert Murdochs erfenis, het bedrijf dat hij had gebouwd op nieuws en sport en de culturele reflexen van conservatief Amerika, betaalde tweeëntwintig miljard dollar voor het apparaatje dat op de televisies van honderd miljoen huishoudens wereldwijd was geplakt. Het kleine donkere kastje. De goedkope dongle. Roku.
+
+Voor wie Roku niet kent: het is een platform dat de chaos van de streamingwereld ordent. Geen eigen content, geen eigen abonnementen in de traditionele zin—Roku is de laag eronder, de digitale afstandsbediening die toegang biedt tot Netflix, YouTube, Disney Plus, Tubi en tientallen andere diensten. En terwijl je door al die content navigeert, verzamelt Roku data. Informatie over wat je kijkt, hoe lang, wanneer je afhaakt, welke advertenties je passeert. Eerstepartijedata, verzameld over honderd miljoen huishoudens, is in het advertentietijdperk goud.
+
+Dat was precies wat Fox begreep. "In het moment dat ik het las, dacht ik: dit heeft industriële logica," zei Galloway. "Alles klopt."
+
+Fox had jarenlang gespeeld met de vraag hoe het kon overleven in een wereld die van lineaire televisie wegbewoog. De zenders die het bezat—Fox News, Fox Sports—genereerden nog altijd enorme kijkcijfers en advertentie-inkomsten, maar de structurele trend was onmiskenbaar. Jongere kijkers sneden de kabel door. Adverteerders volgden het publiek. En Fox, dat zijn entertainmentdivisie jaren eerder al aan Disney had verkocht, had geen grote streamingdienst opgebouwd om de klap op te vangen.
+
+Wat het wél had: Tubi. De gratis, advertentieondersteunde streamingdienst die Fox in 2020 voor een half miljard dollar had overgenomen. Destijds had Fox daarvoor zijn aandelenpakket in Roku van de hand gedaan—op 58 dollar per aandeel. Nu, zes jaar later, kocht het Roku terug. Voor 160 dollar per aandeel.
+
+"Ze verkochten hun aandelen voor 58 dollar om Tubi te financieren," zei Galloway, "en nu kopen ze het terug voor 160." Hij kon er een zekere bewondering niet bij onderdrukken. "Dit is een bedrijf dat een grote, gedurfde weddenschap plaatst, terwijl het erkent dat zijn kernactiviteiten structureel krimpen. Dat vind ik slim."
+
+De deal gaf Fox directe toegang tot iets wat kabel nooit had geboden: een directe kijkersrelatie. Bij kabel stond altijd een tussenpartij tussen de zender en de consument—de kabelmij die de data beheerde, de rekening stuurde, het contact onderhield. Roku elimineerde die tussenpersoon. Fox zou weten wie er keek, wat er werd gekeken, en hoe advertenties presteerden. In combinatie met Tubi's advertentiemodel en Fox's live content—nieuws en sport, de twee categorieën die mensen nog altijd live kijken—ontstond iets wat op een moderne versie van een kabelimperium leek, maar dan gebouwd op de architectuur van het streamingtijdperk.
+
+De gecombineerde onderneming zou de derde grootste speler worden in Amerikaans televisiekijken naar kijktijdaandeel, achter alleen YouTube en Netflix. Fox projecteerde vierhonderd miljoen dollar aan kostensynergieën op jaarbasis. Roku-oprichter Anthony Wood—een ingenieur die het bedrijf in 2002 had opgericht nadat hij bij Netflix had gewerkt en aanvankelijk een streamingbox voor hen had gebouwd voordat Reed Hastings besloot het af te splitsen—zou als bestuurslid toetreden tot Fox, met Fox-aandeelhouders die 73 procent van de gecombineerde onderneming zouden bezitten.
+
+"Anthony heeft het goed gedaan," zei Swisher. "Hij kan niet veel groter worden, dus dit is het moment." Ze had altijd sympathie gehad voor Roku—het was het soort product dat werkte zonder opsmuk, dat zijn nut bewees in de gewone huiskamer. In haar appartement in Brooklyn had ze zelf een Roku liggen, nog niet aangesloten, gekocht om de kabelrekening te vermijden.
+
+Galloway zette de cijfers op tafel: Roku's totale netto-omzet bedroeg 4,7 miljard dollar, vijftien procent hoger dan het jaar ervoor. Platformomzet—de advertenties en licenties die het hart van het businessmodel vormen—was gegroeid naar 4,1 miljard, achttien procent groei. De brutowinst lag op twee miljard dollar. En voor het eerst in zijn bestaan had Roku in 2024 een GAAP-winstgevend jaar geboekt—de boekhoudkundige standaard waarbij alle kosten worden meegenomen, niet alleen de operationele. In het vierde kwartaal alleen al had het bedrijf tachtig miljoen dollar nettowinst gerapporteerd.
+
+"Het heeft dat omslagpunt bereikt," zei Galloway. Roku was geen groeibedrijf meer dat met investeerdersgeld de toekomst kocht—het was een winstgevende onderneming geworden, en op precies dat moment besloot Fox toe te slaan.
+
+De bredere context was die van een advertentiemarkt in transitie. Twintig jaar lang hadden abonnementsdiensten zoals Netflix terrein gewonnen op advertentieondersteunde lineaire televisie. Maar in 2024 was die beweging gestagneerd. Het aandeel bleef hangen rond vijftig-vijftig. Mensen hadden een limiet bereikt aan wat ze bereid waren te betalen voor abonnementen—de zogenaamde subscription fatigue—en gratis diensten met advertenties wonnen weer aan aantrekkingskracht. Tubi profiteerde ervan. Roku profiteerde ervan. En nu, als gecombineerde entiteit, konden ze samen dat tij berijden.
+
+Galloway wees nog op iets anders, iets dat de waarde van het deal ook voor kleinere spelers illustreerde. Zijn eigen mediabedrijf had twee maanden eerder een kanaal op Roku gelanceerd—Pivot en zijn andere programma's, geherformateerd voor het platform. De directe inkomsten waren nog bescheiden, honderd- tot driehonderdduizend dollar op jaarbasis misschien. Maar de strategische logica was helder: wie ooit een mediabedrijf wilde verkopen of laten waarderen, deed er goed aan om meerdere distributiepunten te hebben, diverse inkomstenstromen, en abonnements- én advertentieomzet naast elkaar. "Wat je wilt zeggen tegen een potentiële investeerder," legde hij uit, "is: kijk naar al deze verschillende distributiepunten en inkomstentypes die een duurzamer bedrijf creëren."
+
+Het was, in een notendop, de logica achter de Roku-deal zelf. Fox kocht geen technologiebedrijf. Het kocht duurzaamheid—in een industrie die er alles aan deed om die te vinden.
+
+Anjali Su, de CEO van Tubi—Fox's gratis, advertentie-ondersteunde streamingdienst—verdient in dat rijtje een aparte vermelding. De voormalige topvrouw van Vimeo heeft Tubi's gebruikersbasis uitgebouwd tot honderd miljoen mensen en er de meest bekeken gratis streamingdienst van Amerika van gemaakt. Het platform is een eigenzinnige verzameling van alles wat je elders niet vindt, en juist daarin schuilt zijn kracht. Su en Wood zijn geen erfgenamen van een dynastiek imperium. Ze zijn de uitzondering op de regel die Murdoch zelf lijkt te bevestigen: in een bedrijf dat draait op aangeboren privilege, is het opvallend hoe scherp het uitvoerende talent is dat hij jarenlang om zich heen heeft verzameld. Peter Chernin, een andere oud-topper van Fox, past in datzelfde plaatje—iemand die zijn positie verdiende met inzicht, niet met genealogie.
+
+Maar terwijl de mediasector zich herschikt rond nieuwe allianties en verouderde kabelcontracten, voltrok zich aan de andere kant van het economische universum iets van een heel andere orde.
+
+---
+
+SpaceX ging naar de beurs. En de wereld keek toe.
+
+Het was een moment dat al jaren in de lucht hing, uitgesteld, ontkend, omfluisterd in de gangen van Wall Street—totdat het er opeens gewoon was. Op de eerste handelsdag wisselden meer dan vijfhonderd miljoen aandelen van eigenaar. Het aandeel sloot bijna twintig procent boven de uitgifteprijs. Precies twintig procent, zoals iemand het had voorspeld—Scott Galloway had gezegd dat de banken de pop zouden engineeren op ongeveer dat niveau, niet meer. Het werd negentien-punt-iets. Toeval, of vakmanschap van de hoogste orde?
+
+Op het moment van opname stond het aandeel op 177 dollar, wat het bedrijf een marktkapitalisatie gaf van 2,32 biljoen dollar. Elon Musk—wiens netto vermogen al in de mythische regionen zweefde—passeerde als gevolg van de beursintroductie de grens van één biljoen dollar persoonlijk bezit. De wereld had zijn eerste biljonair.
+
+De cijfers alleen al waren duizelingwekkend. Maar wat Galloway fascineerde, was niet de omvang. Het was de architectuur.
+
+"We hebben nog nooit zo'n geëngineerde, gemanipuleerde schaarste gezien," zei hij. Er was tientallen miljarden aan vraag naar dit aandeel—meer dan voor welke beursgang ooit. En toch vlotte SpaceX slechts vijf procent van zijn aandelen. Andere bedrijven geven bij een beursgang doorgaans tien procent of meer vrij. Door de combinatie van ongekende vraag en uiterst beperkt aanbod creëerden de banken en Musk samen een bijna perfecte drukketel. De prijs kon vrijwel alleen omhoog.
+
+Toch punctureerde de dagen erna Galloway's eigen theorie gedeeltelijk. Want het aandeel steeg nog eens elf procent. Dat was geen gemanipuleerde pop meer—dat was de markt die zei: wij geloven erin.
+
+Gina Rinehart, de rijkste vrouw van Australië, kocht een belang van meer dan een miljard dollar. Cathie Wood's ARK Investment stak meer dan vijfhonderd miljoen in het fonds. En de venture-financiering voor Amerikaanse ruimtevaartbedrijven—SpaceX niet meegerekend—sprong in 2025 van 2,5 miljard naar 7,5 miljard dollar. De sector bewoog als een springvloed.
+
+Galloway wilde de prestatie niet wegwimpelen. "Ik wil nooit iemand zijn die succes demoniseert," zei hij. Er zijn in Texas veertien nieuwe miljardairs die niemand kent. Mensen die geld zullen weggeven, nieuwe bedrijven zullen starten, hun omgeving zullen veranderen. Er is iets onweerlegbaar Amerikaans aan dit soort liquiditeitsgebeurtenissen—de energie die vrijkomt, de golven die uitdijen ver voorbij Silicon Valley of Houston. De toestroom van alumni-donaties aan universiteiten als Berkeley en de University of Texas stijgt altijd in de kielzog van grote beursgangen. Dat is geen sentiment. Dat is patroon.
+
+En toch.
+
+Er was een maar, en Galloway kon het niet verzwijgen. Want achter de triomf school een verhaal dat zelden verteld werd bij de champagne op Wall Street: SpaceX had de Amerikaanse belastingbetaler nooit mogen vergeten.
+
+In 2008 stond het bedrijf aan de rand van de afgrond. Drie raketten waren achtereenvolgens mislukt. Het geld raakte op. Wat het redde, was niet Musk's privéfortuin alleen—het was een NASA-contract, een overheidsinjector die het bedrijf in staat stelde te overleven tot het zichzelf kon bedruipen. Tesla profiteerde op vergelijkbare wijze van federale subsidies en belastingvoordelen. mRNA-technologie, de ruggengraat van de Covid-vaccins, was decennia lang gevoed door overheidsgeld. Het laadnetwerk voor elektrische voertuigen langs Amerikaanse highways—opnieuw de overheid.
+
+"De beste durfkapitalist ter wereld," zei Galloway droog, "is Uncle Sam."
+
+De ironie was snijdend: terwijl SpaceX naar de beurs ging met een waardering van meer dan twee biljoen dollar, sneed de Trump-administratie in NASA's budget met meer dan twintig procent. De instelling die het bedrijf ooit voor de ondergang behoedde, werd nu kaalgesnoeid door dezelfde politieke krachten die Musk's onderneming de hemel in prezen.
+
+Maar het werkelijk grote debat was breder dan budgetlijnen of beurswaarderingen. Het ging over macht.
+
+Kara Swisher had weinig geduld voor de filantropische optimisme. "Als je naar de statistieken kijkt," zei ze, "geloof ik niet dat ze goed gaan doen. Ik denk niet dat deze klasse van mensen filantropisch is. Ik denk dat ze op zoek blijven naar meer geld, meer macht, meer consolidatie." De rijke echtgenotes—Mackenzie Scott, Melinda French Gates—hadden zich oneindig beter gekweten dan hun voormalige mannen. Dat patroon was geen toeval.
+
+Galloway nuanceerde. Bij grote liquiditeitsgebeurtenissen stijgt lokale filantropie altijd—niet vanwege de miljardairs zelf, maar vanwege de duizenden mensen die plotseling twintig miljoen hebben en twee miljoen weggeven aan de voedselbank. De universiteiten zien het aankomen en verhogen hun donatiedoelen al. Dat is reëel, meetbaar, niet sentimenteel.
+
+Maar Swisher bleef bij haar punt. En haar punt was scherper dan het eerste leek.
+
+Elon Musk, zei ze, kan waarschijnlijk bepalen wie de volgende president van Amerika wordt. Hij gaf honderden miljoenen uit aan politieke beïnvloeding en had aantoonbaar invloed op de verkiezingen. Wat als hij besluit twee-en-een-half procent van zijn netto vermogen—vijfentwintig miljard dollar, honderd keer wat hij vorige keer spendeerde—in de volgende verkiezingscyclus te pompen?
+
+Galloway gaf Musk krediet voor één ding dat onderbelicht bleef: Starlink. Het satellietnetwerk had Rusland in een ernstig nadeel gebracht in Oekraïne. Musk had de dienst uitgeschakeld voor Russische operaties. Dat was consequent, dapper en had een militaire impact die moeilijk te overschatten was.
+
+"Maar," voegde Galloway eraan toe, "stel dat hij morgen van gedachten verandert?"
+
+Precies dat, zei Swisher. Precies dat.
+
+En daarin lag de kern van het ongemak. Niet Musk als persoon, niet SpaceX als bedrijf, maar het beginsel. Dat de vraag of een satellietnetwerk Oekraïne bereikt of niet, afhangt van de stemming van één man zonder democratisch mandaat, zonder electorale verantwoording, zonder institutioneel tegenwicht. Een privéburger die meer geopolitieke slagkracht heeft dan de meeste nationale regeringen.
+
+"Mag die macht bij een privépersoon liggen die geen enkele overheids- of electorale controle kent?" vroeg Galloway. Hij beantwoordde zijn eigen vraag. "Nee. Dat mag niet."
+
+Het was niet de enige angst. Want Musk is tenminste zichtbaar. Swisher dacht aan de anderen—de minder bekende miljardairs die nooit een persbericht halen, maar wel grote bedragen schuiven naar politieke bewegingen en lobbygroepen die weinig te maken hebben met voedselbanken of universiteiten. Citizens United, de uitspraak van het Hooggerechtshof die politieke campagnebijdragen door bedrijven en superrijken vrijwel onbeperkt maakte, had de sluizen opengezet. En nu stond er water in de kelder.
+
+"Ik hoop dat ze filantropisch zijn," zei Swisher ten slotte. "Dat is wat ik hoop."
+
+Het klonk niet als overtuiging. Het klonk als gebed.
+
+Er is misschien geen land op aarde dat niet zou willen ruilen met Amerika als het gaat om dit soort problemen—de capaciteit om bedrijven te bouwen die ruimteschepen lanceren, die markten herdefiniëren, die biljonairs voortbrengen. Dat is echt. Dat verdient erkenning. Maar de concentratie van economische macht die dergelijke successen voortbrengt, is niet neutraal. Geld is nooit alleen geld. Het is invloed, richting, agenda. En als dat geld zich in handen bevindt van te weinig mensen, zonder voldoende tegenwicht, wordt de vraag niet meer hoe rijkdom wordt gecreëerd—maar wat ermee wordt gedaan zodra het er is.
+
+Die vraag lag als een steen midden in de euforie van de beursdag.
+
+De aanval op Anthropic kwam op een vrijdagmiddag, snel en zonder waarschuwing.
+
+Het bedrijf had negentig minuten. Negentig minuten om zijn krachtigste modellen — Claude en Fable, de publieke versie — offline te halen op bevel van de Amerikaanse regering, die een nationale veiligheidsdreiging aanvoerde. Het bevel was meedogenloos in zijn reikwijdte: geen enkele buitenlandse medewerker mocht toegang hebben tot de systemen, inclusief de eigen niet-Amerikaanse werknemers van Anthropic, van wie er velen hoge posities bekleedden. Geen uitzonderingen. Geen overgangsperiode. Negentig minuten.
+
+De aanleiding, zo ging het verhaal, was een gesprek tussen Andy Jassy — de topman van Amazon, dat miljarden in Anthropic had geïnvesteerd — en ambtenaren in Washington. Jassy zou hebben gemeld dat onderzoekers binnen zijn bedrijf Claude hadden weten te bewegen informatie te verstrekken die bruikbaar was bij cyberaanvallen. Dat was genoeg. Het Witte Huis greep in.
+
+Kara Swisher trapte er niet in. "Ze wachtten gewoon op een excuus," zei ze. "De eerste de beste aanleiding, en ze sprongen erop." Ze wees op het voor de hand liggende: elk groot taalmodel vertoonde vergelijkbare kwetsbaarheden. De zogeheten jailbreaks waarvoor Anthropic werd gestraft, waren geen exclusief Anthropic-probleem. Ze waren een sectorbreed fenomeen. Maar alleen Anthropic werd offline gehaald.
+
+Het patroon was niet moeilijk te herkennen voor wie het wilde zien. Dario Amodei, de oprichter van Anthropic, was in Silicon Valley-kringen bekend als de man die nee had gezegd. Nee tegen zelfhelende wapensystemen. Nee tegen het uithollen van privacywaarborgen. Terwijl andere tech-leiders de kaartjes hadden gekocht voor de ceremoniële neerknieling in Mar-a-Lago, had Amodei zijn eigen koers gevaren. Hij stond niet op de lijst van uitverkorenen. En in de nieuwe machtsverhoudingen van het Amerikaanse tech-ecosysteem gold dat als een overtreding.
+
+Scott Galloway zag de logica, maar hield zijn oordeel in twee handen. "Ik heb gemengde gevoelens," bekende hij. "Ik zou eigenlijk blij moeten zijn. De gedachte dat de overheid snel en daadkrachtig ingrijpt bij AI-dreigingen — dat is overdue. Dat applaudisseer ik." Maar, voegde hij er onmiddellijk aan toe, de vraag was niet óf er ingegrepen moest worden. De vraag was door wie, en waarom. "Ik vertrouw deze mensen niet. Ik weet niet of ze oprecht bezorgd zijn over de veiligheid van de samenleving, of dat dit politiek gemotiveerd is — dat ze proberen één bedrijf te ruïneren omdat ze donoren bij de concurrent hebben zitten."
+
+Die donoren — niemand noemde de naam hardop, maar iedereen begreep naar wie werd verwezen — hadden belangen bij Anthropics directe concurrenten. De timing van de interventie, de scherpte ervan, de weigering om onderscheid te maken tussen Anthropics modellen en die van anderen: het rook naar iets anders dan nationale veiligheid.
+
+Maar de gevolgen reikten verder dan Silicon Valley. Politiek strateeg en geopolitiek analist Ian Bremmer, die Galloway net had gesproken voor een aflevering over Iran, vertelde hem dat de afsluiting van Anthropic op de G7-top een groter gespreksonderwerp was geweest dan de overeenkomst over Iran. Dat detail was veelzeggend. Bedrijven in Europa, overheden bij de NAVO, defensiedepartementen in bevriende landen — allemaal hadden ze Anthropic's technologie diep geïntegreerd in hun systemen. Scenario-planning, energiebeheer, medische infrastructuur. En nu had één man in Washington, op grond van criteria die niemand kende, die technologie uitgeschakeld.
+
+"Het betekent dat de Amerikaanse overheid een killswitch heeft voor AI," zei Galloway. "En dat wanneer iemand boos is op een bedrijf, hij gewoon de stekker eruit trekt." Voor een Europese NAVO-bondgenoot was dat geen abstracte beleidsoverwering. Dat was een fundamentele vraag over technologische soevereiniteit. Als Anthropic's systemen de ziekenhuisinfrastructuur in een Europese stad ondersteunden en Washington besloot op een vrijdagmiddag dat het bedrijf offline moest, wie kon dat dan tegenhouden?
+
+David Sachs, de AI-adviseur van het Witte Huis die de situatie publiekelijk verdedigde, overtuigde de twee hosts niet. Galloway liet zich niet in op hoffelijke omschrijvingen: "Zijn excuses zijn pompeus en ongeloofwaardig. Je voelt de hand van anderen hier. Dit is een Silicon Valley-vete die zich bedient van de taal van de nationale veiligheid."
+
+Intussen had Anthropic een delegatie naar Washington gestuurd om te onderhandelen. Het bedrijf bevond zich in een kafkaëske positie: het moest pleiten voor zijn eigen bestaansrecht bij de instantie die het zojuist had proberen te wurgen, terwijl zijn argument — dat alle concurrerende modellen dezelfde kwetsbaarheden vertoonden — politiek onwelkom was.
+
+En alsof dat nog niet genoeg was, kampte het bedrijf tegelijkertijd met een civiele rechtszaak. Consumenten hadden Anthropic aangeklaagd wegens het oververkopen van gebruiksrechten bij zijn tweehonderd dollar per maand-abonnement. Klanten beweerden dat het bedrijf had beloofd meer te leveren dan het in de praktijk waarmaktte. Twee fronten tegelijk: de staat van buiten, klanten van binnenuit.
+
+Het narratief rond OpenAI was niet minder turbulent. Een coalitie van staatsadvocaten-generaal — de hoogste juridische ambtenaren van meerdere Amerikaanse staten — had een onderzoek geopend en het bedrijf een dagvaarding uitgevaardigd. Onderzoekers wilden documenten zien die betrekking hadden op OpenAI's activiteiten en hun impact op gebruikers, specifiek minderjarigen en ouderen, de omgang met gezondheidsdata en het interne beleid van het bedrijf. Florida was al verder gegaan: de staat had een rechtszaak ingediend tegen OpenAI en Sam Altman persoonlijk, met de beschuldiging dat ze bewust een onveilig product hadden uitgebracht.
+
+Swisher trok de lijnen samen. "Het merk AI heeft zoveel klappen gekregen," zei ze, "dat het begint te lijken op iemand die te veel klappen op zijn hoofd heeft gehad en daarna rare dingen begint te roepen." De vergelijking was onelegant, maar raak. Van energieverbruik tot gevaarlijke gezondheidsadviezen tot de bescherming van kwetsbare gebruikers — de aanklachten stapelden zich op. En ouders, zo merkte ze op, begonnen echt boos te worden. Niet op abstracte wijze, maar met de boosheid van mensen die concrete schade zien bij mensen van wie ze houden.
+
+Galloway zag de grotere geopolitieke beweging al aankomen. De interventie bij Anthropic, de dreiging van rechtszaken, de publieke weerstand — het zou allemaal één kant op bewegen. "Ik zou er niet van staan te kijken als Trump morgen besluit dat Amerikaanse bedrijven geen Chinese open-weight modellen meer mogen gebruiken." Open-weight modellen — AI-systemen waarbij de onderliggende code openbaar beschikbaar is, zodat iedereen ze kan downloaden, aanpassen en inzetten — waren een groeiende kracht in de sector. DeepSeek uit China had de wereld eerder dat jaar opgeschrikt met prestaties die rivaliseerden met de beste Amerikaanse systemen, voor een fractie van de kosten. Als Washington die modellen buiten de deur kon houden, beschermde het daarmee de marktpositie van zijn eigen bedrijven.
+
+Het creëerde een vreemde situatie. Bedrijven als Mistral uit Frankrijk — technologisch iets minder geavanceerd, maar buiten het bereik van Amerikaanse politieke druk — konden plotseling aantrekkelijker worden voor internationale klanten die garanties wilden dat hun AI-leverancier morgen nog beschikbaar zou zijn. Technologie werd buitenlandse politiek. En buitenlandse politiek werd bedrijfsstrategie.
+
+Wat ontbrak, betoogde Galloway, was structuur. Niet de willekeurige beslissingen van een enkeling na een telefoontje, maar een institutioneel kader. Een bipartijdige toetsingscommissie, bemand door economen, filosofen, ingenieurs en juristen. Een vaste procedure — dertig, zestig, negentig dagen — waarbij elk nieuw model gecontroleerd werd voordat het de markt opging. Vergelijkbaar met de manier waarop geneesmiddelen worden getest, zij het met een tijdlijn die paste bij de snelheid van de technologie. "Bedrijven willen weten welke regels er gelden," zei hij. "Ze willen niet bang hoeven zijn dat ze naar een UFC-gevecht moeten of dat hun nieuwste model zomaar uitgeschakeld wordt."
+
+Zekerheid, zo luidde zijn argument, was economisch gezien beter dan chaos. Investeerders, internationale partners, klanten: ze wilden kunnen plannen. Het huidige klimaat — waarbij de toekomst van een bedrijf kon afhangen van een gesprek dat achter gesloten deuren plaatsvond tussen een CEO en een ambtenaar — was het tegenovergestelde van zekerheid.
+
+Maar zekerheid vereiste vertrouwen. En vertrouwen was precies wat er ontbrak.
+
+Maar het was niet allemaal verloren die avond. Ergens tussen de bokshandschoenen en de presidentiële speeches glipte er iets echts door: Meta demonstreerde een nieuwe brillentechnologie die blinde veteranen helpt navigeren. De bril leest de omgeving, beschrijft wat er voor je staat, geeft richting aan mensen voor wie de wereld al decennia lang donker is. Swisher gaf toe dat ze het moeilijk vond om dit weg te wuiven. "Ik geef het een lot," zei ze. "Dit was een poging die werd aangedreven door Dina Powell, die ze net hadden aangenomen. Ik geef er niet om of je er PR uit haalt—als het mensen helpt, is het goed." Het initiatief was de inspanning waard, en voor mensen met een visuele beperking was het geen pr-truuk maar een tastbare verbetering van hun dagelijks leven. Maar de timing verslond het. Het goede nieuws belandde in de maag van het spektakel. De brillen voor blinde veteranen verdwenen in de ruis van een vecht-spectakel in het Witte Huis, overspoeld door de schreeuwerige boodschappen van de avond. "Alles wat Trump aanraakt," zei Swisher, "verandert in stront. En dat is precies wat er hier ook is gebeurd."
+
+Ze zweeg even. "Mijn vader was veteraan. Ik heb veel familieleden die hebben gediend. Ik had zelf veteraan willen worden—ik zou op dit moment een admiraal zijn die op het punt staat door Trump ontslagen te worden. Maar ik voel me echt slecht dat iets goeds op deze manier is meegesleurd."
+
+Galloway, die zelden snel is met complimenten voor Silicon Valley, knikte. Dana White zit ook in de Raad van Bestuur van Meta, merkte hij op. Alles is met alles verweven.
+
+---
+
+Het Verenigd Koninkrijk bood die week een contrast dat scherper was dan verwacht. Premier Keir Starmer kondigde aan dat TikTok, Instagram, YouTube, Snapchat, Facebook en X het gebruik voor jongeren onder de zestien jaar volledig verbieden—de strengste socialemediawet ter wereld, strenger nog dan de Australische wetgeving die de golf had gestart. Swisher noemde het haar win van de week, en ze meende het.
+
+"Ik heb een kind van vijftien in huis," zei ze. "En het meest angstaanjagende, meest schadelijke element in ons huishouden is het gebruik van sociale media door dat kind. Mensen zeggen: dat is een kwestie van opvoeden. Maar ze betalen hun ov met hun telefoon. Als je ze zegt geen sociale media te gebruiken, worden ze geïsoleerd van hun vrienden en raken ze nog depressiever. Dit moet een collectief verbod zijn. Dat is precies wat de premier hier heeft gedaan."
+
+De wet treedt in de lente van 2027 in werking. Nachtelijke gebruiksverboden en limieten op eindeloos scrollen worden overwogen. De verantwoordelijkheid ligt bij de platforms, niet bij kinderen of ouders—een cruciale verschuiving in de logica van aansprakelijkheid. Bedrijven die zich niet houden aan de regels riskeren boetes tot vijftig miljoen pond. Groot-Britannië heeft al eerder bewezen dat digitale regulering werkt: de Online Safety Act heeft het bezoek aan pornosites met een derde verminderd en het percentage kinderen dat online leeftijdsverificaties tegenkomt verhoogd van dertig naar zevenenveertig procent. Spanje, Griekenland, Slovenië en Frankrijk volgen hetzelfde pad. De Australische wet van december 2025 heeft een mondiale cascade in gang gezet.
+
+De cijfers achter het besluit zijn vernietigend: een week offline van sociale media vermindert angstklachten met zestien procent, depressiesymptomen met vijfentwintig procent, en slapeloosheid met vijftien procent. Eén week. "Dit is niet alleen een overwinning voor de geestelijke gezondheid van tieners," zei Swisher. "Dit is een overwinning voor de democratie. Hoe meer tijd je op sociale media doorbrengt, hoe minder je in de democratie gelooft."
+
+Galloway knikte. De platforms gaan beweren dat het niet werkt, dat handhaving onmogelijk is, dat ze het probleem niet kunnen oplossen. Dat is hun vaste tactiek. Maar de eigenlijke vraag—beschadigen jullie mensen met onveilige producten—stellen ze zichzelf nooit. "Wacht je totdat McDonald's besluit dat friet ongezond is en er vrijwillig mee stopt?" vroeg Galloway. "Je wacht op een voedselveiligheidsdienst. Op een toezichthouder. Op iemand die niet in dienst is van het bedrijf."
+
+Swisher: "True. Maar kijk naar de kosten van obesitas. We blijven dit onszelf aandoen."
+
+Galloway: "Het kapitalistische systeem is ontworpen voor bedrijven die meedogenloos concurreren, geen rekening houden met externe schade en het beste product willen maken dat de hoogste marge oplevert. Dat werkt—mits je regulerende instanties hebt die voorkomen dat opioïden kleine steden verwoesten. We kunnen hopen dat de technologieleiders in Silicon Valley, gehuld in gefluisterde bewondering voor hun eigen zelfbewustzijn, opeens bezorgd worden over de schade die hun producten aanrichten. We hebben een bordeel gebouwd. Het bordeel werkt. Maar je hebt een agent nodig."
+
+Hij zei het zonder aarzeling. Swisher vroeg of ze hem mocht citeren. "We have built a whorehouse and the whorehouse works," herhaalde hij. Het klonk als een boektitel.
+
+Galloway had de week doorgebracht in Noord-Europa—Stockholm en Amsterdam—en was er met een inzicht teruggekomen dat hij als zijn fail van de week presenteerde, al was het eigenlijk meer een aanklacht dan een persoonlijk falen. De fail was van Amerika. De fail was de hardnekkige, winstgevende mythe dat je niet tegelijkertijd miljardairs en een sterk sociaal vangnet kunt hebben.
+
+"Zweden heeft de bevolking van North Carolina," zei hij. "En heeft Spotify, Klarna, King en Ericsson voortgebracht. Het heeft de industriële productiviteit van Duitsland, de innovatiekracht van Silicon Valley en het sociale beleid van Bernie Sanders. De economie groeit met twee en een half procent."
+
+Amsterdam is het epicentrum van datacenters in Europa geworden. ASML—het Nederlandse bedrijf dat de machines bouwt waarmee halfgeleiders worden gefabriceerd, de gereedschappen achter het gereedschap van de chipindustrie—is er gevestigd. Ook de Nederlandse economie groeit met twee en een half procent. De welvaart is zichtbaar, tastbaar, verspreid.
+
+Galloway sprak met de oprichters en medewerkers van Spotify. Ze hadden allemaal in Silicon Valley gewerkt. Ze zijn allemaal teruggekeerd naar Stockholm. Ze betalen er hogere belastingen. Ze hebben er geen bezwaar tegen. "Ze vertrouwen erop dat de overheid hun geld goed besteedt," zei hij. "Ze vertrouwen erop dat hun kind met een beperking wordt verzorgd. Dat ze veilig naar hun werk kunnen fietsen. Ik heb in Stockholm geen enkele dakloze gezien—en ja, dat is niet representatief voor het hele land, en ja, ze hebben problemen met immigratie en stijgende huizenprijzen die welvaart volgen. Maar Amerika heeft zijn eigen bevolking ervan overtuigd dat ongelijkheid en miljardairs en unicorns een verwoestend gebrek aan een sociaal vangnet vereisen. Dat is een leugen. Nederland en Zweden bewijzen het tegendeel, elke dag opnieuw."
+
+Swisher herkende het argument. Ze had hetzelfde gedacht tijdens een bezoek aan Korea. "Universele zorg voor iedereen. Ze zijn gezonder. Het is zo vreemd."
+
+Galloway: "Ze vertrouwen elkaar. Ze vertrouwen hun instellingen. Ze trekken buitenlandse investeringen aan omdat iedereen weet dat ze niet worden opgelicht door een corrupt systeem." Hij wees op een recente veroordeling in Noorwegen—een lid van de koninklijke familie die gewoon was berecht, als een gewone burger. "In Amerika," zei hij, "gelooft niemand meer dat dat mogelijk is."
+
+Swisher was het eens. Prince Andrew werd beschermd, maar uiteindelijk uit zijn titels gezet. De miljardairs op dat eiland waren nooit echt aansprakelijk gesteld. "Hij zal een grotere prijs betalen dan wie dan ook van die eilandbewoners," zei ze. "Dat is waar."
+
+De aflevering sloot af met een fragment uit Swishers gesprek met Peter Chernin, de legendarische mediaproducent achter de hitserie Backrooms—een man die decennia lang aan de top stond van Fox en Hollywood. In zijn studio's joegen executives die week achter YouTubers aan, alsof de volgende grote filmfranchise schuil ging in een abonneelijst. Chernin weigerde de logica te volgen. "Elke vergadering in Hollywood de afgelopen tien dagen ging over: zoek me mijn YouTuber," zei hij. "Dat is niet slim. Het is niet anders dan zeggen: zoek me een sequel van iets anders. We hebben drie jaar aan dit project gewerkt. Een jaar om het te vinden. Lang om het script te schrijven. Een jaar productie. Het gaat er niet om dat je op een YouTuber wedt. Het gaat erom dat je wedt op een heel specifiek stuk content en een heel specifiek talent."
+
+Het was een les over geduld in een industrie die vergeten was hoe dat werkt.
+
+En zo eindigde de week zoals hij was begonnen: vol ruis, vol spektakel, vol krachten die probeerden de aandacht naar zich toe te trekken terwijl het echte verhaal zich elders afspeelde. Een vrouw in het Witte Huis die was beledigd. Blinde veteranen met nieuwe brillen die de wereld voor het eerst in jaren konden lezen. Tieners in Groot-Brittannië die straks zonder eindeloos scrollen naar bed gaan. Zweedse ingenieurs die op de fiets naar een kantoor rijden dat ze zelf hebben gebouwd, in een land dat hun kinderen opvangt als zij dat niet kunnen.
+
+Het grote verhaal van dit tijdperk is niet wie er vecht in een octagon in het Witte Huis, en ook niet welk platform de meeste gebruikers heeft of welke CEO het hoogste bod heeft afgeslagen. Het grote verhaal is de vraag of democratieën in staat zijn hun burgers te beschermen tegen de producten die hen het meest beschadigen—en of de mensen die het meeste verdienen aan die producten ooit bereid zullen zijn de rekening mee te betalen.
+
+Zweden en Nederland zeggen van wel. Amerika aarzelt nog. En in de tussentijd gaat het bordeel gewoon door.
