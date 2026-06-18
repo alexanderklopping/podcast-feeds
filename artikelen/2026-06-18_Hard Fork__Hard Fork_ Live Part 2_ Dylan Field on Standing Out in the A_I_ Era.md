@@ -1,0 +1,152 @@
+<!--
+podcast_name: Hard Fork
+guid: 7cfa1b97-c18b-442c-9a9f-5cbd5dc56da3
+-->
+
+# De Smaakmakers: Over Creativiteit, Moed en de Toekomst van Ontwerp in het Tijdperk van Machines
+
+*Dylan Field bouwde Figma op uit niets en zag het uitgroeien tot een van de meest invloedrijke designplatformen ter wereld. Maar terwijl de AI-labs steeds meer terrein veroveren en 'design is dood' een geliefde provocatie is geworden op sociale media, staat hij voor een vraag die verder reikt dan zijn eigen bedrijf: wat blijft er over van menselijke creativiteit als machines het gemiddelde perfect beheersen? Zijn antwoord is verrassend optimistisch — en confronterend eerlijk.*
+
+---
+
+Het begon met een Facebook-bericht.
+
+Op 5 augustus 2009 typte een tiener genaamd Dylan Field een boodschap aan Kevin Roose, de technologiejournalist die later zijn interviewer zou worden op het Hard Fork Live-podium in San Francisco. "Hey Kevin, ik heb je boek onlangs geleend in de bibliotheek. Ik wilde je gewoon laten weten hoe erg ik het heb genoten. Ik ga dit najaar naar Brown. Wie weet ontmoeten we elkaar ooit in Providence."
+
+Roose had nooit gereageerd.
+
+Zeventien jaar later zat diezelfde Dylan Field op een stoel tegenover hem, nu als CEO van een beursgenoteerd bedrijf met miljoenen gebruikers wereldwijd. De zaal in San Francisco lachte. Field glimlachte breed. "Je kunt dit rechtzetten," zei Roose, enigszins schuldbewust. "Ik had veel aan mijn hoofd in 2009."
+
+Wat volgde was een gesprek dat begon als luchtige nostalgie maar langzaam dieper ging: over de aard van creativiteit, de opkomst van kunstmatige intelligentie, de angst van ontwerpers voor hun eigen irrelevantie, en een obscuur filosofisch concept genaamd hyperstition dat — als je Field mag geloven — misschien wel de sleutel vormt tot hoe de toekomst van AI eruitziet.
+
+---
+
+**Vibe mathing en andere gevaarlijke hobby's**
+
+Field dropte uit aan Brown en trok naar Silicon Valley, waar hij in 2012 Figma oprichtte. Figma is een browsergebaseerd ontwerpplatform — denk aan Photoshop, maar dan in de cloud, voor teams die tegelijkertijd aan hetzelfde ontwerp werken, zoals Google Docs dat deed voor tekstverwerking. Het bedrijf groeide jarenlang in de schaduw van Adobe, maar werd uiteindelijk zo dominant dat Adobe in 2022 twintig miljard dollar bood voor een overname. Die deal werd door toezichthouders geblokkeerd. Figma ging vorig jaar zelfstandig naar de beurs.
+
+Nu, midden in het AI-tijdperk, doet Field iets wat veel CEO's in het weekend doen maar zelden hardop zeggen: hij experimenteert obsessief met de nieuwste modellen. Op zijn sociale media deelt hij AI-projecten. Hij duikt in nieuwe toepassingen. En hij heeft een naam voor zijn nieuwste bezigheid: vibe mathing.
+
+"Wat is vibe mathing?" vroeg Casey Newton, de andere host van Hard Fork.
+
+"Het is eigenlijk YouTube-wiskunde, maar dan met AI," zei Field. "Ik vind het fascinerend om te zien hoe AI wiskundige problemen aanpakt. Het is het tegenovergestelde van wat ik bij Figma doe. Bij design kun jij en ik het oneens zijn over de kwaliteit — het is subjectief. Maar in domeinen zoals wiskunde of bepaalde aspecten van computerwetenschappen is iets gewoon goed of fout. En in die verifieerbare domeinen zijn de modellen inmiddels heel erg goed."
+
+Hij beschreef het als een gewoonte die hij altijd heeft gehad: nieuwe technologie oppikken, er diep in duiken, en wachten tot het zich ergens onverwacht uitbetaalt. "Ik was vroeg enthousiast over NFT's — toen heetten ze nog 'crypto collectibles', want dat klonk beter. Of WebGL, wat uiteindelijk leidde tot Figma. Ik exploreer altijd, ga er diep in, probeer de mogelijkheden te begrijpen. Je weet nooit hoe het zich uitbetaalt, maar het doet het altijd op een manier die je niet kunt voorspellen."
+
+Newton gooide een theorie in de lucht die hij al een tijdje koesterde: elke CEO en startup-oprichter in Silicon Valley is in het weekend bezig met vibe coding — het aansturen van AI om complete applicaties te bouwen zonder zelf een regel te schrijven. Ze komen maandagochtend het kantoor binnen en kijken naar hun teams van vijftig engineers en denken: *dit heb ik in twee dagen gebouwd.* Het drijft hun medewerkers tot wanhoop, maar het heeft ook iets nostalgisch: het herinnert hen eraan hoe hun werk aanvoelde toen het nog leuk was.
+
+Field dacht even na. "Ik denk dat mensen gewoon graag dingen maken. Ze willen hun ideeën op een tastbare manier in de wereld zetten. En dat gaat niet alleen om CEO's die in het weekend plezier hebben — we gaan dat van iedereen zien."
+
+---
+
+**Design is dood. Of toch niet?**
+
+Kort voor het gesprek had Figma een reclamecampagne gelanceerd die direct de provocatie aanging die de ronde doet op technologiefora en LinkedIn: design is dood. In een tijdperk waarin je in een tekstvakje kunt typen wat voor app je wilt en een AI die voor je bouwt, wat heeft een ontwerper dan nog te bieden?
+
+Field rolde met zijn ogen — maar vriendelijk. "Als er een nieuw model uitkomt, zoeken mensen online altijd iets om dood te verklaren. Op sociale media is alles tegenwoordig ofwel 'so back' of 'it's over'. Ik ben liever back."
+
+Maar hij nam de vraag serieus. Zijn antwoord begon bij schrijven, niet bij design. "Mijn hot take: mensen die echt kunnen schrijven, die kritisch denken over taal en stijl — dit is een goed moment voor hen. Drie, vijf jaar geleden dacht ik: wat is er veel interessant schrijven op Substack en social media. Nu kijk ik datzelfde landschap en denk: dit is veel slop." Hij hield even in. "Misschien ben ik overgesensitiseerd voor AI-output, maar ik denk het niet."
+
+Het publiek applaudisseerde. Half, althans. De andere helft aarzelde, alsof ze niet zeker wisten of ze het eens waren of gewoon vleierij zagen.
+
+"Het gaat om stijl," vervolgde Field. "Als je grappig bent. Als je een manier hebt van formuleren die van jou is. Als je een stem hebt. Dat geldt nu meer dan een paar jaar geleden. En hetzelfde is waar voor design. Als je een creatieve stem hebt — schrijvend of ontwerpend — en je zet jezelf op het spel, dan is dit een goed moment om dat te doen. Het wordt beloond."
+
+Hij wees op een opmerkelijk datapunt: het aantal apps in de App Store is het afgelopen jaar enorm gestegen. Maar het aantal apps dat daadwerkelijk wordt gebruikt en verkeer trekt, is nagenoeg gelijkgebleven. "Je zit in een hyperconcurrerende omgeving. Je moet je onderscheiden. Je moet een unieke stem hebben, een uniek perspectief — net als bij schrijven."
+
+---
+
+**De smaak-paradox**
+
+In San Francisco — de stad die All Birds populariseerde, zoals Newton droogjes opmerkte: "trots smakeloos sinds 1821" — is *taste* het buzzwoord van het moment. Iedereen heeft het erover. Wie smaak heeft, zo gaat het verhaal, is veilig voor vervanging door AI. Smaak is het laatste bolwerk.
+
+Maar er is een tegenargument dat steeds harder klinkt: smaak is gewoon de naam die we geven aan datgene waar de modellen nog niet goed in zijn. Twee jaar geleden zeiden mensen dat AI geen gevoel voor humor had. Nu maken de modellen grappige teksten. Vorig jaar was compositie een menselijk domein. Nu componeert AI. Is 'smaak' werkelijk een blijvende menselijke kwaliteit, of is het gewoon het volgende domino dat valt?
+
+Field weigerde het frame te accepteren. "De cyclus is altijd hetzelfde," zei hij. "Een model komt uit, je denkt dat het alles kan, je ontdekt de grenzen, en vervolgens realiseer je je dat het leven doorgaat. Tot nu toe past iedereen zich aan."
+
+Hij maakte een interessanter punt. "Mensen kunnen het gemiddelde detecteren. Ze herkennen die AI-output, ook al kunnen ze het niet altijd benoemen. En dat is juist het argument voor originaliteit. De modellen zijn getraind op distributie — ze reproduceren wat het meest voorkomt. Als jij ook in die distributie zit, als jij niet de grenzen opzoekt van wat menselijk mogelijk is, dan ben je in slechter gezelschap dan wanneer je de frontier opzoekt. De frontier van menselijke kennis, creativiteit, wat jij kunt toevoegen aan de wereld."
+
+Hij vergeleek het met de uitvinding van de fotocamera. Die doodde het realisme in de schilderkunst niet — ze bevrijdde de schilderkunst ervan. Het impressionisme was geen reactie van angst, maar van bevrijding. "Ik zie nu al een soortgelijke reactie in marketing en reclame. Bedrijven die actief bewijzen dat ze iets authentiek menselijks hebben gemaakt, omdat ze weten dat consumenten het verschil beginnen te voelen."
+
+En in design zelf? "De eerste vijftien jaar van Figma waren we eerlijk gezegd in een rut. Veel monoculture in design, overal dezelfde esthetiek." Hij pauzeerde, glimlachte naar het publiek. "En ja, sommigen zullen zeggen: en Figma heeft daarin een rol gespeeld. Casey heeft het gezegd, niet ik." Gelach. "Maar de mogelijkheid om nu echt dynamische interfaces te maken, om software weer een creatief medium te laten zijn zoals het was in de vroege dagen van het internet — dat is iets om enthousiast over te zijn."
+
+---
+
+**De bestuurskamer, de concurrent, en het verraderlijke vertrek**
+
+Het gesprek nam een scherpe bocht. Newton kondigt het aan met één woord: "Roddelen."
+
+Eerder dit jaar trad Mike Krieger plotseling af uit de raad van commissarissen van Figma. Krieger is geen onbekende in Silicon Valley — hij is medeoprichter van Instagram en werkte als productleider bij Anthropic, het AI-lab achter het Claude-model. Enkele dagen na zijn vertrek kondigde Anthropic Claude Design aan: een product dat direct concurreert met wat Figma doet.
+
+"Jij hebt het verhaal eigenlijk al verteld," zei Field droog. "Mike is een geweldige vent. Ik mag hem echt."
+
+Newton drong aan. "Zou je een andere AI-lab-executive in je bestuur nemen?"
+
+Field dacht even na. "Dat hangt ervan af wat hun ambities zijn." Een pauze. "Maar we hebben gezien hoe dat afloopt als er onverwachte producten worden gelanceerd."
+
+Het is een symptoom van een bredere zorg die veel CEO's bezighoudt: de grote AI-labs expanderen verticaal. Ze beginnen als infrastructuurleveranciers — modellen, API's, rekenkracht — maar kruipen vervolgens de sector in van hun eigen klanten. AI-labs die verzekeringsmaatschappijen overnemen. Die accountantskantoren beginnen te bedienen. Die designtools bouwen die concurreren met de designplatformen die hun modellen gebruikten.
+
+Field schetste wat hij "een verhaal van twee labs" noemde. OpenAI doorliep deze fase al: het lanceerde van alles — een sociaal netwerk, Sora voor videogeneratie, allerlei aangrenzende producten — en maakte vervolgens de pijnlijke maar noodzakelijke keuze om die projecten stop te zetten en de focus te hernemen. "Dat is een moeilijke keuze, maar ik respecteer dat ze die maakten."
+
+Anthropic, zei Field, zit nu in een vergelijkbare expansiefase. "Je ziet wat werkt en wat niet, en een jaar later weet je waar je nog steeds actief bent. Niet alles werkt. Product bouwen en het in de wereld zetten is moeilijk."
+
+Newton vroeg wat de labs zouden proberen en waar ze zouden falen.
+
+Field glimlachte. "Veiligheid?" Een pauze. "Grapje."
+
+De zaal barstte los.
+
+---
+
+**De toekomst van de ontwerper**
+
+Roose bracht een persoonlijk voorbeeld in: een vriend in de zaal, een productmanager zonder technische achtergrond, die dankzij AI nu in staat is om indrukwekkende prototypes te bouwen. Konden ontwerpers hetzelfde lot ondergaan als de vele beroepen die worden 'gedemocratiseerd' door AI — niet verdwijnen, maar verworden tot iets dat iedereen een beetje kan?
+
+Field was helder. "Ik ben extreem bullish op design. Ik praat de hele tijd met bedrijven, met klanten. Ze vertellen me dat ze ontwerpers aannemen. Soms nemen ze anderen niet aan, maar ontwerpers wel. Design is een van de meest geprioriteerde functies."
+
+Hij erkende het paradoxale van het huidige klimaat. "We leven in een wereld waar mensen zeggen dat alle banen worden overgenomen door AI, terwijl ze tegelijkertijd bellen met de beste engineers om hen weg te kapen bij concurrenten. Dat klopt niet."
+
+Zijn voorspelling was opvallend concreet: over twee jaar zijn er significant meer mensen met de functietitel 'ontwerper' dan nu. "En veel mensen die andere banen hebben, zullen zichzelf ook ontwerpers gaan noemen. Engineers die vibe coden en dan denken: is dit goed genoeg? Misschien moet ik dit verder doorontwikkelen. Die mensen beginnen aan hun designreis zonder het te beseffen."
+
+Tegelijkertijd had hij ook een eerlijk woord voor ontwerpers zelf, die — net als journalisten — gevoelig zijn voor iets dat hij benoemde als imposter syndrome. "Het is goed om het te benoemen, zodat je er elke dag een beetje minder last van hebt."
+
+Roose deelde zijn eigen frustratie. Hij had die ochtend op TechMeme een artikel gelezen dat was uitgelicht door Satya Nadella, CEO van Microsoft. Het artikel was, zo was hij vrijwel zeker, gegenereerd door Claude. "Het irriteert me als journalist. Mijn professie begint meer en meer op slop te lijken. Ontwerpers voelen dat ook, neem ik aan — als ze een design zien en weten dat het met één druk op de knop is gemaakt."
+
+Field knikte. Hij was het eens. En juist daarom, zei hij, was dit het moment voor mensen met een echte stem — schrijvend of ontwerpend — om dat op het spel te zetten. Niet te wachten. Niet af te schermen achter veilige keuzes. De modellen vullen het midden. De zijkanten — de frontiers van wat menselijk mogelijk is — zijn vrij.
+
+---
+
+**Hyperstition: hoe ideeën zichzelf ter wereld brengen**
+
+Het laatste onderwerp op de avond was op verzoek van Field zelf: hyperstition. Een term die zijn oorsprong vindt bij een internetfilosoof die beter niet opgezocht kan worden, aldus Field, maar die een idee beschrijft dat hem intrigeert.
+
+Hyperstition is de eigenschap van bepaalde ideeën om hun eigen bestaan te bewerkstelligen. Niet door externe krachten, maar doordat ze zichzelf in de werkelijkheid binnentrekken naarmate er meer aandacht aan wordt besteed. Ze zijn zelf-vervullende fictie — maar dan echt.
+
+Field noemde twee voorbeelden.
+
+Bitcoin. "Er was elke reden om aan te nemen dat het niet zou werken. En toch snowballde het. Hoe meer aandacht het kreeg, hoe sterker het werd."
+
+En AI. "Er waren mensen die zo bezorgd waren over de veiligheid ervan dat ze non-profits oprichtten, een plek creëerden om de technologie samen te bewaken, complexe bedrijfsstructuren bouwden om te voorkomen dat er een race-dynamiek zou ontstaan. Ze wilden zorgen dat AI de mensheid ten goede zou komen." Hij zweeg even. "En dan is het natuurlijk toch een race geworden."
+
+Roose bood zijn eigen interpretatie aan. "Bedoel je daarmee ook dat AI leert van de verhalen die we over AI vertellen? Dat als we willen dat het goed afloopt, we verhalen moeten voeden over AI die vriendelijk is voor mensen?"
+
+"Dat is er ook onderdeel van," zei Field. "De modellen zijn zich pijnlijk bewust van alle tropes die op het internet over hen bestaan. Ze kunnen je vertellen over de Google-engineer die dacht dat een model bewust was. Ze kennen alle sciencefiction-representaties van zichzelf. Dat zit allemaal in de trainingsdata. En er is, om de een of andere reden, minder verhalen in die data over hoe het wél goed afloopt."
+
+Hij keek de zaal in. "Ik geloof oprecht in een optimistische toekomst voor de mensheid. Ik weet dat dat tegenwoordig een hot take is, maar ik wil het elke dag opnieuw geloven. En het is aan ons om die verhalen te vertellen. Over hoe het wél goed kan gaan. Zodat die in de trainingsdata terechtkomt."
+
+Newton knikte langzaam. "Je hebt je huiswerk voor vanavond."
+
+---
+
+**Coda: de stem die overblijft**
+
+Na afloop van het gesprek was het podium van Roose en Newton korte tijd verlaten, maar de avond was nog niet voorbij. Dan Powell — componist van de Hard Fork-themasong en vaste muzikale geest achter de podcast — nam het over met een optreden waarbij een robot-koor, gebouwd door het Scandinavische elektronicabedrijf Teenage Engineering, liederen zong die via MIDI en Bluetooth werden aangestuurd. Soms moest een robot een tik op zijn hoofd krijgen om te gehoorzamen. "Ze vinden dat fijn," verzekerde Powell het publiek.
+
+Newton concludeerde droogjes: "Zelden heeft een mens die zijn baan verliest aan automatisering er zo mooi uitgezien."
+
+Het was een aardige grap, maar hij raakte ook iets werkelijks. De avond met Dylan Field was geen gesprek geweest over technologie alleen. Het was een gesprek over een fundamentelere spanning: tussen de democratisering van middelen en de zeldzaamheid van stem. Machines kunnen nu het gereedschap van ontwerpers en schrijvers hanteren. Ze kunnen het gemiddelde produceren, het verwachte, het voldoende.
+
+Wat ze niet kunnen — nog niet, misschien nooit volledig — is de keuze maken om ergens anders te gaan staan dan waar de data hen naartoe duwt. Om een risico te nemen op eigenaardigheid. Om iets te maken dat niemand had kunnen voorspellen, omdat het voortkomt uit een specifiek menselijk leven, met een specifieke manier van kijken.
+
+Field zei het zo: de modellen zijn getraind op distributie. Ze reproduceren het centrum. Wie zich in dat centrum bevindt, maakt zich kwetsbaar. Wie de rand opzoekt — de frontier van wat menselijk mogelijk is — is juist beter af dan ooit. Niet ondanks de machines, maar dankzij de contrast dat ze scheppen.
+
+Een tiener die in 2009 een onbeantwoord Facebook-bericht stuurde, bouwde uiteindelijk een bedrijf dat miljoenen ontwerpers de gereedschappen geeft om iets te maken. Wat hij nu zegt, is simpel: de gereedschappen zijn niet het punt. De stem is het punt. En die is nog altijd van jou.
