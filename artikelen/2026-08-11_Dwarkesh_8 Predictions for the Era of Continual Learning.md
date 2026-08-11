@@ -1,0 +1,73 @@
+<!--
+source_url: https://www.dwarkesh.com/p/era-of-continual-learning
+podcast_name: Dwarkesh
+guid: substack:post:210233020
+-->
+
+# Het Geheugen van de Machine: Acht Voorspellingen voor een Tijdperk van Kunstmatige Ervaring
+
+*Wat gebeurt er wanneer kunstmatige intelligentie niet langer vergeet? Dwarkesh Patel — podcaster, essayist en scherp waarnemer van de AI-industrie — stelt een vraag die de spelregels van de technologiesector fundamenteel kan herschrijven. Zijn antwoord ontvouwt zich in acht voorspellingen die elk op zichzelf al verstrekkend zijn, maar samen een portret schetsen van een wereld die zich radicaal anders verhoudt tot intelligentie, macht en geheugen.*
+
+---
+
+Stel je een muziekzaal voor. Binnen staat een saxofoon. Een student loopt naar binnen, tilt het instrument op, en probeert te spelen. Het gaat slecht — hij heeft immers nooit eerder gespeeld. Na afloop schrijft hij zijn ervaringen op een vel papier: wat misging, welke vingerzetting fout voelde, hoe de ademhaling haperde. Hij verlaat de zaal. Een volgende student komt binnen, leest de notities, pakt de saxofoon op, en faalt opnieuw — zij heeft immers ook nooit gespeeld. Zij voegt haar eigen observaties toe. Zo gaat het door: een eindeloze rij studenten die notities lezen en nieuwe notities schrijven, maar nooit de belichaamde ervaring opdoen die iemand werkelijk leert musiceren.
+
+Dit is, zegt Dwarkesh Patel, precies hoe de meeste AI-systemen van vandaag leren. Of liever: niet leren. Elk gesprek met een chatbot begint opnieuw. De sessie eindigt, het systeem vergeet. Er bestaan weliswaar trucs — de AI kan aantekeningen maken die in een volgende sessie worden ingeladen, een soort digitale Post-it — maar dat is fundamenteel anders dan een brein dat ervaringen daadwerkelijk integreert in zijn architectuur. En juist dat verschil, zo betoogt Patel, verandert alles.
+
+*Continual learning* — het vermogen van een AI-systeem om zijn gewichten, de mathematische parameters die zijn kennis en vaardigheden belichamen, permanent bij te werken op basis van echte ervaringen — staat nog in de kinderschoenen. Maar zodra het werkt, gaat de wereld er anders uitzien. Patel schetst acht manieren waarop.
+
+---
+
+**De illusie van de veiligheidscheck**
+
+De eerste en misschien meest urgente verandering raakt de regulering van AI. Het dominante beleidsdenkraam gaat als volgt: een lab traint een model, en vóór dat model de wereld in mag, onderwerpt een toezichthouder het aan een reeks veiligheidsevaluaties. Is het model vrij van gevaarlijke kennis over cyberaanvallen? Weigert het instructies die schade kunnen aanrichten? Pas na deze keuring mag het model worden uitgerold.
+
+Dit kader veronderstelt dat er een scherpe grens bestaat tussen trainen en inzetten. Maar wat als die grens verdwijnt? Als een model elke dag leert van de miljoenen sessies die gebruikers ermee voeren, is het model dat maandagochtend door een veiligheidscheck gaat, donderdagmiddag alweer een ander model. Patel waarschuwt voor de verleiding om nu al een permanent veiligheidsregime in te bakken dat gebaseerd is op technologie die over een jaar achterhaald kan zijn. "We weten niet eens wat voor technologie we over een jaar in handen hebben, laat staan over vijf of tien jaar." Zijn voorstel: vervang de eenmalige pre-deployment keuring door maandelijkse of driemaandelijkse risico-inspecties. Niet één plechtig moment van vrijgave, maar een voortdurende dialoog tussen toezichthouder en systeem.
+
+**Het uitlijningsprobleem, opnieuw**
+
+De tweede verschuiving is technischer maar minstens zo diepgaand. Een groot deel van het huidige veiligheidsonderzoek — *alignment* in het vakjargon — richt zich op één kernvraag: hoe zorg je dat een bevroren model, een model waarvan de gewichten niet meer veranderen na de training, zich goed gedraagt tijdens gebruik? Hoe voorkom je dat het kwaadaardige instructies opvolgt, gevoelige informatie lekt, of manipuleerbaar is?
+
+Maar die vraag verandert van gedaante zodra gewichten continu worden bijgewerkt. Nu rijst een nieuwe vraag: hoe zorg je dat een systeem dat elke dag verandert, niet langzaam afdrijft naar ongewenst gedrag? En wat als gebruikers — bewust of onbewust — schadelijke patronen injecteren in het gezamenlijke model?
+
+Patel trekt hier een onverwachte parallel: de menselijke opvoeding. Ouders geven kinderen waarden mee, en hopen vervolgens dat die kinderen, als ze de wereld intrekken en nieuwe ervaringen opdoen, niet het spoor bijster raken. Ze leren nieuwe dingen, worden beïnvloed door vrienden, ideologieën, tegenslagen — en soms gaat het mis. Toch is zelfgestuurd leren de kern van menselijke ontwikkeling. Hoe bouw je een AI-systeem dat op dezelfde manier groeit: aanpasbaar en lerend, maar verankerd genoeg om niet te ontsporen? Op die vraag heeft de wetenschap nog nauwelijks een antwoord.
+
+**De eenvormigheid voorbij**
+
+De derde voorspelling is een van de meest opbeurende. Op dit moment zijn er minder dan vijf dominante AI-modellen die samen honderden miljoenen mensen bedienen. En die modellen lijken sterk op elkaar — niet toevallig, want ze zijn allemaal getraind op nagenoeg dezelfde data. Er is sprake van wat Patel *mode collapse* noemt: convergentie naar een beperkt aantal denkpatronen.
+
+Continual learning zou daar verandering in brengen. Als een model leert van zijn ervaringen, en die ervaringen zijn per definitie uniek — een advocatenkantoor in Amsterdam, een ziekenhuis in Seoul, een ingenieursbureau in São Paulo — dan groeit er vanzelf diversiteit. Niet alleen tussen de modellen van verschillende labs, maar ook tussen verschillende instanties van hetzelfde basismodel. Patel ziet dat als een *netto goed*. "Een wereld met continual learning zal hopelijk interessanter zijn dan de modecollapse die we nu zien."
+
+**Wie voorloopt, loopt verder voor**
+
+De vierde verandering is minder geruststellend. Als de slimste modellen de meeste gebruikers aantrekken, en die gebruikers de modellen via hun gebruik verder verbeteren, dan ontstaat er een vliegwieleffect. De koploper krijgt meer data, wordt slimmer, trekt meer gebruikers, krijgt meer data — een zichzelf versterkende cyclus die de afstand tot de achtervolgers alleen maar vergroot. Continual learning maakt de AI-race niet eerlijker. Het maakt hem wreder.
+
+**De druk van het moment**
+
+Vijf: wie wacht, verliest. Anthropic — het AI-lab dat Claude ontwikkelde — gebruikte zijn model intern al maanden voordat het publiek beschikbaar was. In de wereld van vandaag is dat een legitieme keuze: interne tests helpen bugs te vinden, de publieke versie wordt beter. Maar in een wereld van continual learning is elke dag vertraging een dag waarop een concurrent rijker wordt aan echte gebruikerservaringen. Een lab dat zijn model vier maanden binnenshoudt, stuurt tegelijkertijd zijn model vier maanden minder de wereld in om te leren. De prikkel om vroeg te lanceren wordt overweldigend.
+
+**Het nieuwe slot**
+
+De zesde voorspelling is waar Patel het langst bij stilstaat, en terecht — want hier liggen de hardste economische consequenties. Al jaren vragen analisten hoe de AI-labs eigenlijk geld gaan verdienen. De modellen lijken op commodities: goed genoeg, inwisselbaar, concurrent. Vandaag kan iemand 's ochtends zijn code schrijven met Codex, 's middags verder gaan met Cursor, en 's avonds afronden met Claude. Er is geen lock-in.
+
+Maar stel dat het model dat je dagelijks gebruikt, werkelijk leert kennen hoe jouw organisatie werkt. Het begrijpt je codebase, je stijl, de eigenaardigheden van je sector, de namen van je collega's en hun rollen. Het is, in effect, een medewerker geworden die maanden aan context heeft opgebouwd.
+
+Nu wil je overstappen naar een concurrent. Wat je dan eigenlijk doet, zegt Patel, is een ervaren medewerker ontslaan en vervangen door een stagiair die van voren af aan moet beginnen. Dat is een significante drempel. En drempels zijn, in de economie van platforms en software, de basis van winstmarge. Patel trekt de vergelijking met cloud computing: Amazon Web Services en Google Cloud bieden diensten aan die technisch gezien inwisselbaar lijken, maar toch hoge marges realiseren — omdat het overstappen zo duur en tijdrovend is. Continual learning geeft AI-labs diezelfde kleverigheid.
+
+**Wortels en stokken**
+
+Zeven: grote bedrijven zullen dit doorhebben en weerstand bieden. Ze zullen eisen dat hun data niet wordt gebruikt om het basismodel van een lab te verbeteren — ze betalen voor een dienst, niet om als gratis trainingsmateriaal te fungeren.
+
+Maar hier ontstaat een nieuw machtsevenwicht. Als werkelijk gebruik de voornaamste manier wordt waarop modellen verbeteren, dan heeft een lab er belang bij dat zoveel mogelijk gebruikers toestemming geven hun sessies te gebruiken voor training. Ze zullen dat stimuleren: lagere prijzen, betere toegang, voorrangsfuncties voor wie meedoet. En ze kunnen de druk opvoeren voor wie weigert: de beste, meest geavanceerde modellen zijn alleen beschikbaar voor wie meewerkt. Patel vergelijkt het met de reden dat Google zijn zoekmachine gratis aanbiedt: elke zoekopdracht is data, en data is het eigenlijke product. De wortels en stokken van de AI-labs zullen steeds groter worden naarmate continual learning het onderscheid tussen training en gebruik opheft.
+
+**De schaal van de stilte**
+
+De achtste en laatste voorspelling is de meest technische, maar de implicaties zijn juist voor grote organisaties van direct belang. AI-inferentie — het daadwerkelijk laten werken van een model — is efficiënter naarmate meer verzoeken tegelijkertijd worden verwerkt. Een grove berekening suggereert dat een spaarzaam model als DeepSeek V3 optimaal werkt bij meer dan 2.400 gelijktijdige verzoeken. Wie dat volume niet haalt, verspilt rekenkracht.
+
+Een grote multinational met duizenden medewerkers en tientallen geautomatiseerde processen kan dat volume moeiteloos halen. Een individuele freelancer met één sessie tegelijk haalt wellicht een efficiëntie die twee ordes van grootte slechter is. Schaal beloont de groten. In een wereld van gepersonaliseerde AI-gewichten zullen grote organisaties niet alleen betere modellen hebben — ze zullen ze ook goedkoper kunnen draaien.
+
+---
+
+De meest ingrijpende veranderingen zijn altijd degene die je niet zag aankomen. Patel erkent dat ruiterlijk: de acht voorspellingen die hij schetst zijn de voorspelbare gevolgen van een technologische verschuiving die zelf nog niet volledig plaatsgevonden heeft. De echte verrassingen liggen ergens anders, in de ruimte waar de toekomst zijn eigen logica ontvouwt.
+
+Maar zelfs deze acht zijn genoeg om de contouren van een andere wereld te zien: een wereld waarin AI-systemen niet langer vergeten, waarin elke dag gebruik een dag leren is, en waarin de grens tussen mens en machine een stuk minder scherp wordt getrokken dan we gewend zijn. Niet omdat de machine menselijker wordt. Maar omdat ze eindelijk, net als wij, iets lijkt te doen wat we altijd als fundamenteel menselijk beschouwden: groeien door te leven.
