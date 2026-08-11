@@ -1,12 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>@yuanunpackschina - Podcast Artikelen</title>
+    <title>Yuan (Yuanpu Huang) - Podcast Artikelen</title>
     <link>https://alexanderklopping.github.io/podcast-feeds/instagram-yuanunpackschina.xml</link>
     <description>Transcripties van Instagram-video's van @yuanunpackschina.</description>
     <language>nl</language>
-    <lastBuildDate>Tue, 11 Aug 2026 10:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:53:51 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/instagram-yuanunpackschina.xml" rel="self" type="application/rss+xml"/>
-
+    <item>
+      <title>The war in Ukraine</title>
+      <link>https://www.instagram.com/reel/Db3KHgESVt6/</link>
+      <description>The war in Ukraine
+didn’t just reshape Europe.</description>
+      <pubDate>Mon, 10 Aug 2026 13:52:26 +0000</pubDate>
+      <guid isPermaLink="false">instagram:yuanunpackschina:Db3KHgESVt6</guid>
+      <dc:creator>@yuanunpackschina</dc:creator>
+      <content:encoded><![CDATA[<h1>The war in Ukraine</h1>
+<p>The war in Ukraine<br>
+didn’t just reshape Europe.</p>
+<p>It also changed<br>
+the geopolitical environment<br>
+around Xinjiang.</p>
+<p>As Russia’s influence<br>
+in Central Asia weakened,<br>
+China deepened ties<br>
+with the region<br>
+and invested more<br>
+in western China.</p>
+<p>For Xinjiang,<br>
+the next big question<br>
+may no longer be geopolitics.</p>
+<p>It may be water.</p>
+<p>#Xinjiang<br>
+#Geopolitics<br>
+#CentralAsia<br>
+#ChinaExplained<br>
+#YuanUnpacksChina</p>
+<h2>Transcript</h2>
+<p>Most people don't know this. The war in Ukraine may have indirectly accelerated Xinjiang's development. Since 2022, the geopolitical balance in Central Asia has shifted. Russia's influence has weakened, while China has built deeper ties with Central Asian countries. One example is the China-Kyukistan-Westphakistan Railway, which is now under construction. At the same time, China has been putting more resources into Xinjiang. In my view, Xinjiang's development depends on three big conditions. Internal stability, geopolitics, and water. The first two have improved significantly. Water may be the next big challenge. Here is something interesting. Xinjiang's current party chief, Chen Xiaogian, spent many years working in China's water system, including leading the Yellow River Conservancy Commission. Xinjiang is already putting more emphasis on bait water allocation and more efficient news. So I will be watching what happens next. But there is a big question, why is China putting so much effort into developing Xinjiang? I will unpack that in my next video. I'm Yuan, helping global minds access the real China. Check my webpage for insights, journeys and business access. Thank you.</p>]]></content:encoded>
+    </item>
   </channel>
 </rss>
