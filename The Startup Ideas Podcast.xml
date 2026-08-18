@@ -5,8 +5,181 @@
     <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml</link>
     <description>Artikelen gegenereerd van The Startup Ideas Podcast podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Tue, 18 Aug 2026 02:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 02:36:05 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>De medewerker die nooit naar huis gaat</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml#2026-08-18_The Startup Ideas Podcast_How to use Claude Code better than 99_ of People</link>
+      <description>Dit is het verhaal van een gereedschap dat pas werkelijk krachtig wordt wanneer je het niet behandelt als een slim chatvenster, maar als een nieuwe collega. Niet een collega die zelfstandig de koers van een bedrijf bepaalt, maar wel een die kan lezen, onthouden, voorbereiden, bouwen, controleren ...</description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-08-18_The Startup Ideas Podcast_How to use Claude Code better than 99_ of People</guid>
+      <content:encoded><![CDATA[<h1>De medewerker die nooit naar huis gaat</h1>
+<p>Dit is het verhaal van een gereedschap dat pas werkelijk krachtig wordt wanneer je het niet behandelt als een slim chatvenster, maar als een nieuwe collega. Niet een collega die zelfstandig de koers van een bedrijf bepaalt, maar wel een die kan lezen, onthouden, voorbereiden, bouwen, controleren en iedere ochtend opnieuw kan beginnen. De belofte is groot. De discipline die ervoor nodig is, is opvallend alledaags.</p>
+<p>De maker van deze werkwijze begon met een waarschuwing die bijna als een excuus klonk. „This episode might feel a little boring at times,” zei hij. Er zouden mappen komen. Instructiebestanden. Beoordelingslijsten. Terugkerende taken. Geen spectaculaire robot die in één nacht een miljardenbedrijf opricht.</p>
+<p>Maar juist daar, in die ogenschijnlijk saaie voorbereiding, zat volgens hem de echte voorsprong. Hij bood de methode gratis aan, als onderdeel van een cursus over Claude Code, en beloofde „all the prompts and all the sauce” weg te geven. Anthropic, het bedrijf achter Claude, sponsorde de aflevering. Toch ging het betoog niet over een wondermiddel dat je moest kopen. Het ging over een ongemakkelijke waarheid: de meeste mensen gebruiken een buitengewoon krachtig systeem alsof het een veredelde tekstgenerator is.</p>
+<p>Ze openen een leeg venster en typen: <em>Maak de app beter.</em> Of: <em>Maak dit opvallender.</em> Of, nog vager: <em>Voeg AI toe.</em></p>
+<p>Daarna wachten ze af.</p>
+<p>Soms levert dat iets bruikbaars op. Vaker begint dan pas het echte werk: uitzoeken welke bestanden zijn veranderd, waarom het systeem bepaalde aannames deed, welke onderdelen ongemerkt zijn geraakt en of er ergens in de technische fundering een balk is doorgezaagd.</p>
+<p>Dat is geen probleem van intelligentie. Het is een probleem van leidinggeven.</p>
+<p>Stel je voor dat er op maandagochtend een nieuwe medewerker op kantoor verschijnt. Je geeft hem geen bureau, geen toegang tot de klantgesprekken, geen uitleg over het product en geen overzicht van de risico’s. Je vertelt hem niet wie er betaalt, wat er op het spel staat of welke fouten je je niet kunt veroorloven.</p>
+<p>Dan zeg je: „Maak het bedrijf beter.”</p>
+<p>Geen verstandige oprichter zou dat doen. Maar zo behandelen veel mensen Claude Code wel.</p>
+<p>Claude Code kan een projectmap lezen, code aanpassen, tests uitvoeren, een toepassing openen en door een gebruikersstroom klikken alsof het een klant is. Juist daarom vraagt het om structuur. Een briljante medewerker zonder context, grenzen en duidelijke opdrachten is niet productief; hij is onvoorspelbaar. De vraag is dus niet welke magische opdracht je moet typen. De vraag is eenvoudiger: wat heeft een goede medewerker nodig om goed werk te leveren?</p>
+<p>Het antwoord bestaat uit negen onderdelen: een werkplek, geheugen, een briefing, heldere opdrachten, ogen, beoordeling, routines, bevoegdheden en ten slotte herhaalbare vaardigheden, koppelingen en automatische controles. Samen vormen zij geen kunstje, maar een werksysteem. Claude krijgt een plaats om te werken, context om het bedrijf te begrijpen, een manier om plannen te maken, een beperkte taak, een mogelijkheid om het resultaat te zien, een kwaliteitslat en grenzen waar het niet overheen mag.</p>
+<p>Dan voelt het minder als een gesprek met een machine en meer als een operationele laag onder het bedrijf.</p>
+<p>De praktijk begint in een projectmap.</p>
+<p>In software heet zo’n map vaak een <em>repository</em>, doorgaans afgekort tot <em>repo</em>: de plek waar broncode, documentatie en technische geschiedenis bijeenkomen. In de bureaubladapp van Claude Code kies je die map als werkomgeving. Het scherm oogt vriendelijker dan een terminal vol commando’s, maar de betekenis is dezelfde. Dit is het kantoor van de digitale medewerker.</p>
+<p>Voor een demonstratie koos de maker een idee uit een weinig glamoureuze, maar lucratieve markt: medische en cosmetische klinieken, in de Verenigde Staten bekend als <em>med spas</em>. Iemand vult ’s avonds een formulier in. Stuurt via Instagram een vraag over een behandeling. Belt na sluitingstijd om prijzen te horen. Aan de andere kant blijft het stil.</p>
+<p>De volgende ochtend heeft die potentiële klant misschien al bij een concurrent geboekt.</p>
+<p>In die stilte zat het productidee: software die gemiste aanvragen opvangt en onmiddellijk opvolgt. De koper is de eigenaar of bedrijfsleider van zo’n kliniek. Het probleem is scherp omlijnd: inkomende aanvragen worden koud doordat het team te laat reageert. De belofte nog scherper: „Respond to every missed lead before they book somewhere else.”</p>
+<p>Reageer op iedere gemiste potentiële klant voordat die elders reserveert.</p>
+<p>Een goede projectmap bevat daarom niet alleen code. Zij legt ook uit waarom die code bestaat.</p>
+<p>In `/app` staat het product zelf: pagina’s, formulieren, logica en de zichtbare onderdelen van de toepassing. In `/context` leeft het zakelijke geheugen: marktinzichten, genomen besluiten, lessen en samenvattingen. In `/customers` komen verkoopgesprekken, ondersteuningsnotities, bezwaren en vooral de letterlijke taal van klanten terecht.</p>
+<p>Verder zijn er `/specs`, met beschrijvingen van wat gebouwd moet worden; `/demos`, voor demonstratiestromen, Loom-scripts en schermafbeeldingen; en `/routines`, voor de terugkerende opdrachten die Claude op vaste momenten uitvoert.</p>
+<p>In de hoofdmap liggen drie bescheiden tekstbestanden. `CLAUDE.md` is het medewerkershandboek: zo werken we hier, dit vinden we belangrijk, hier liggen de grenzen. `roadmap.md` legt vast wat nu telt. Niet alles wat ooit mogelijk is, maar de actuele koers. `review.md` bevat de kwaliteitslat waarlangs werk wordt gelegd voordat het verder mag.</p>
+<p>Markdown-bestanden, aangeduid met `.md`, zijn gewone leesbare tekstbestanden met lichte opmaak. Juist dat maakt ze geschikt: een mens kan ze snel aanpassen en Claude kan ze goed verwerken.</p>
+<p>De eerste opdracht aan Claude hoeft niet ingewikkeld te zijn:</p>
+<p>> “Help me set up this repo as an AI employee workspace. Create or update `CLAUDE.md`, `roadmap.md`, `review.md`, `/context`, `/customers`, `/specs`, `/demos`, `/routines`.”</p>
+<p>Daarna volgt de zakelijke context:</p>
+<p>> “Product: missed-lead response for med spas. Buyer: med spa owner and operator. Pain: inbound leads are going cold when the team replies too late. Promise: Respond to every missed lead before they book somewhere else. Current goal: build a simple landing page and demo flow.”</p>
+<p>En dan volgt de cruciale zin:</p>
+<p>> “Before writing, ask me for any missing context that would materially change the setup and keep the first version simple.”</p>
+<p>Die instructie geeft Claude toestemming om niet te doen alsof het alles al weet. Het mag vragen stellen. Gaat het om een schermdemonstratie of om echte berichten? Richt de eerste versie zich op zelfstandige klinieken of ketens? Moeten ingevulde formulieren werkelijk worden opgeslagen? Komen aanvragen vooral binnen via telefoon, via formulieren of via sociale media?</p>
+<p>„I’ll ask you a few high-leverage questions first,” kan Claude dan antwoorden. „The answers change how I structure the demo flow and the customer spec folder. Everything else I’ll fill with sensible defaults and keep v1.”</p>
+<p>Dat is geen vertraging. Dat is inwerken.</p>
+<p>Zonder geheugen begint iedere taak in een vacuüm. Dan moet Claude telkens opnieuw gokken wie de klant is, welk probleem urgent is en welke zijpaden bewust buiten beeld moeten blijven. Een goed ingerichte projectmap is geen administratieve last; zij is het voorlopige brein van het bedrijf.</p>
+<p>Maar een medewerker heeft meer nodig dan een kantoor en een geheugen. Hij moet weten hoe hij geacht wordt te werken.</p>
+<p>Wie een junior ontwikkelaar aanneemt, zegt niet alleen welk resultaat er aan het eind van de week moet liggen. Je legt uit dat je kleine, controleerbare wijzigingen wilt. Dat grote aanpassingen eerst worden besproken. Dat bestaande stijlregels tellen. Dat tests worden uitgevoerd. Dat een overdracht niet eindigt met het woord <em>klaar</em>, maar met een overzicht: dit veranderde ik, dit heb ik getest, hier zit nog onzekerheid, hier moet een mens kijken.</p>
+<p>Daarom kan de volgende vraag aan Claude luiden:</p>
+<p>> “How do you optimize a `CLAUDE.md` file so it actually feels more like an AI employee?”</p>
+<p>Het antwoord hoort niet in een vluchtig chatgesprek te blijven hangen. Het moet in het handboek terechtkomen. Daarin staat bijvoorbeeld dat de toepassing klinieken helpt sneller te reageren op gemiste aanvragen; dat de koper een eigenaar of bedrijfsleider is; dat de belofte draait om het terugwinnen van potentiële klanten voordat zij naar een concurrent verdwijnen.</p>
+<p>Ook staat er een kwaliteitsnorm: de landingspagina moet binnen vijf seconden duidelijk maken wat zij biedt. De demonstratiestroom moet werken op een groot scherm én op een telefoon. De tekst moet klinken als de klant, niet als de maker.</p>
+<p>Dat laatste verschil is groter dan het lijkt. Veel jonge producten praten over hun technologie. Hun klanten denken aan een overvolle receptie, omzet die weglekt en een bericht dat te lang onbeantwoord bleef. De sterkste tekst begint niet bij wat het systeem kan. Hij begint bij wat de koper vreest.</p>
+<p>`roadmap.md` beschermt vervolgens tegen de natuurlijke neiging van zowel mens als model om elk logisch vervolg meteen mee te nemen. Voor de komende week kan daarin staan: bouw een eenvoudige demonstratie die laat zien hoe een kliniek gemiste aanvragen terugwint. Richt je op een landingspagina, een wachtlijstformulier, een demonstratiestroom en Loom-video’s voor tien eigenaren.</p>
+<p>Maar de belangrijkste regels staan vaak onder één kopje: buiten reikwijdte.</p>
+<p>Geen betalingen. Geen koppeling met een klantbeheersysteem. Geen beheerdersomgeving. Geen rechtenstructuur voor meerdere gebruikers.</p>
+<p>Zonder die grenzen groeit een eenvoudig formulier als vanzelf uit tot gebruikersaccounts, databases, facturering en abonnementen. Aan het einde is er veel gebouwd, maar weinig geleerd. Een eerste versie is geen verkleind bedrijf. Het is het kleinste mogelijke experiment dat antwoord geeft op een serieuze vraag: vindt iemand dit probleem belangrijk genoeg om er tijd, aandacht of geld aan te besteden?</p>
+<p>`review.md` bewaakt dat snelheid niet wordt verward met kwaliteit. Daarin staan vragen als: past deze wijziging bij de actuele koers? Is zij klein genoeg om goed te beoordelen? Werkt de belangrijkste gebruikersstroom nog? Zijn fouten in formulieren begrijpelijk afgehandeld? Zijn er risico’s rond betalingen of echte klantgegevens? Is er onnodige ingewikkeldheid toegevoegd?</p>
+<p>Voor een landingspagina komen daar andere vragen bij. Begrijpt een bezoeker het aanbod binnen vijf seconden? Is de oproep tot actie zichtbaar? Spreekt de tekst de juiste koper aan? Gebruikt de pagina de woorden die klanten zelf bezigen?</p>
+<p>Zo voorkom je wat de maker „AI slop” noemde: gladde, technisch correcte uitvoer zonder werkelijk nut. In het Nederlands: digitale brij die er af uitziet, maar niemand vooruithelpt.</p>
+<p>De keuze van het model doet ertoe, maar is niet beslissend. Voor een eerste verkenning van een taak gaf hij soms de voorkeur aan Fable boven Opus. Toch vatte hij zijn punt samen in een zin die de kern van de hele methode raakt: „The beauty about Opus 4.8 or Fable 5, with the right MD files, the right structure, and the right brain, is that it does such a good job. But it does need these guardrails.”</p>
+<p>Sterke modellen worden beter wanneer de organisatie om hen heen beter is.</p>
+<p>Pas daarna volgt de briefing: eerst plannen, dan veranderen.</p>
+<p>Wie een belangrijk project aan een mens geeft, gooit het niet over de schutting en hoopt op begrip. Je bespreekt wat je probeert te bereiken, welke beperkingen gelden, waar het risico zit en wanneer het resultaat goed genoeg is. In Claude Code heet die fase <em>plan mode</em>. De essentie is eenvoudig: Claude leest eerst de context, onderzoekt het project en laat zien hoe het de opdracht wil aanpakken voordat het bestanden wijzigt.</p>
+<p>Voor het wachtlijstformulier luidt de opdracht:</p>
+<p>> “Use plan mode. I want to add a waitlist form to the landing page. First inspect the current app, the `CLAUDE.md`, the `roadmap.md`, and `review.md`.”</p>
+<p>Daarna:</p>
+<p>> “Then give me the files that need to change, the smallest clean implementation, the user experience, the risks, how we will verify it, and what you are intentionally leaving out for the first version. Wait for my approval before editing.”</p>
+<p>Daarmee verandert de verhouding. De oprichter krijgt iets terug waarop hij kan reageren. Misschien stelt Claude voor om alleen de voorkant te bouwen, omdat het product voorlopig een demonstratie is. Dan kan de oprichter zeggen: prima, nog geen opslag van gegevens. Of: verbind het met Supabase, een dienst die onder meer een database kan leveren, want ik wil echte aanmeldingen bewaren. Of: vraag uitsluitend naar naam, e-mailadres en bedrijfsnaam. Raak geen inloggen, betalingen of database aan.</p>
+<p>Het plan hoeft niet volmaakt te zijn. Het moet de juiste vragen zichtbaar maken.</p>
+<p>In dit geval stelt Claude wellicht Next.js en TypeScript voor. Voor de kliniekeigenaar achter het scherm zijn dat irrelevante namen; voor het team zijn ze praktische bouwstenen. Next.js helpt bij het maken van webtoepassingen. TypeScript dwingt ontwikkelaars om nauwkeuriger vast te leggen welke gegevens een programma verwacht, zodat fouten eerder aan het licht komen.</p>
+<p>Op het scherm blijft uiteindelijk weinig over: een belofte, een formulier en een bevestiging.</p>
+<p>Dan verschijnt de knop: <em>Accept</em>.</p>
+<p>Het is een klein moment, bijna banaal. Maar het is een keerpunt. Tot dat moment heeft Claude alleen gekeken en voorgesteld. Vanaf dat moment mag het handelen. De gebruiker klikt op accepteren, en de digitale medewerker verandert bestanden.</p>
+<p>Dat is waarom de oude timmermanswijsheid hier nog steeds geldt: twee keer meten, één keer zagen.</p>
+<p>Na goedkeuring volgt het ticket: een kleine, heldere opdracht met een zichtbare finishlijn.</p>
+<p>Een ticket is niet heroïsch. Het is concreet. „Voeg een wachtlijstformulier toe aan de landingspagina. Vraag om naam, e-mailadres en bedrijfsnaam. Toon na verzending een eenvoudige bevestiging. Houd de vormgeving in lijn met de bestaande merkstijl.”</p>
+<p>Daarin zitten taak, reikwijdte, gewenste ervaring en grens.</p>
+<p>Vergelijk dat met: <em>Maak de app beter.</em> Of: <em>Maak dit viraal.</em> Of: <em>Bouw alles.</em></p>
+<p>Zodra de opdracht vaag wordt, moet Claude gokken wat telt. En zodra het gokt, verandert het werk van de oprichter. Hij leidt niet langer een medewerker; hij ruimt de aannames van die medewerker op.</p>
+<p>Een gericht ticket kan ook luiden:</p>
+<p>> “Create a pricing page using the existing design system and keep it consistent with the homepage.”</p>
+<p>Of:</p>
+<p>> “Fix the onboarding redirect bug after email verification.”</p>
+<p>Of:</p>
+<p>> “Turn these five customer objections into a sharper landing page section.”</p>
+<p>Na het plan volgt een tweede instructie, even belangrijk als de eerste:</p>
+<p>> “Implement the approved plan as one focused change. Keep the change small enough that I can review it in the diff view. After editing, run the relevant checks, open up the app in the desktop preview, summarize what’s changed, tell me what you tested, and tell me what still needs human review.”</p>
+<p>De <em>diff view</em> is de verschillenweergave: een overzicht van wat er vóór en na de wijziging in de bestanden staat. Welke regels kwamen erbij? Welke verdwenen? Welke bestanden zijn geraakt? In de bureaubladapp kun je die wijzigingen openen, opmerkingen achterlaten en Claude vragen iets opnieuw te doen.</p>
+<p>De omvang van de taak doet ertoe omdat een kleine wijziging bestuurbaar blijft. Als Claude een formulier moest toevoegen en ineens de navigatie, toegangscontrole en databasestructuur heeft veranderd, is dat geen teken van initiatief. Het is een reden om stil te vallen.</p>
+<p>Eén helder ticket tegelijk. Eén taak, één finishlijn, één wijziging die een mens werkelijk kan beoordelen.</p>
+<p>Maar zelfs een nette verschillenweergave vertelt nog niet of een klant begrijpt wat er op het scherm gebeurt. Daarvoor zijn ogen nodig.</p>
+<p>„The eyes: underrated.”</p>
+<p>Die korte zin was misschien de scherpste samenvatting van de hele demonstratie. Ogen betekenen niet alleen dat Claude een voorvertoning kan openen. Ze betekenen dat het zijn eigen werk moet beleven zoals een klant dat beleeft. Een goede medewerker voert een taak niet uit en loopt vervolgens weg. Hij opent het product. Hij klikt door de stroom. Hij probeert iets verkeerd te doen. Hij leest foutmeldingen. Hij bekijkt technische logboeken. Hij zoekt de randvoorwaarde op die niemand in de vergadering had genoemd.</p>
+<p>De lus is eenvoudig: bouwen, starten, gebruiken, testen, verbeteren.</p>
+<p>Een landingspagina kan technisch foutloos laden en toch verwarrend zijn. Een formulier kan gegevens verzenden en toch ongemakkelijk voelen. Een knop kan bestaan, maar zo weinig opvallen dat niemand erop klikt. Een kop kan precies uitleggen wat het product doet en toch de angst van de koper missen.</p>
+<p>Daarom luidt de inspectieopdracht:</p>
+<p>> “Start the app and inspect the waitlist flow. Open the landing page in desktop preview. Check the experience from the perspective of a med spa owner seeing this for the first time. Then verify the implementation. Tell me what the buyer understands in the first five seconds, what feels confusing or low trust, whether the waitlist form works, and what happens after submission. Make one focused change to improve the highest-impact issue.”</p>
+<p>Claude opent de pagina. De landingspagina verschijnt. Een bezoeker ziet de belofte, het formulier, de knop.</p>
+<p>Dan kiest Claude niet voor de comfortabele route. Het begint waar echte gebruikers vaak beginnen: met een fout.</p>
+<p>> “Empty submit first: click Join the Waitlist with nothing filled.”</p>
+<p>De knop wordt ingedrukt zonder dat een veld is ingevuld. Verschijnt er een foutmelding? Is die duidelijk? Staat zij bij het juiste veld? Daarna vult Claude gegevens in en verzendt het formulier opnieuw. De succesmelding verschijnt. Het systeem controleert of er werkelijk een record is opgeslagen, als die koppeling al bestaat. Het leest de technische foutmeldingen en het netwerkverkeer na.</p>
+<p>Dan volgt de belangrijkere ontdekking.</p>
+<p>Niet de code blijkt de grootste belemmering. De grootste belemmering is vertrouwen.</p>
+<p>> “The highest-impact issue: The page asks a cold med spa owner to hand over their email with no reassurance about what the waitlist is or whether they’ll get spam. This is the single biggest friction point on the action. Add expectation-setting microcopy at the CTA.”</p>
+<p>Een onbekende kliniekeigenaar wordt gevraagd een e-mailadres achter te laten, maar krijgt niet te horen wat de wachtlijst inhoudt, wanneer hij iets ontvangt of of zijn inbox straks volloopt met ongevraagde berichten.</p>
+<p>De oplossing is klein: een regel onder de knop. <em>Ontvang een korte demonstratie en vroege toegang. Geen spam.</em></p>
+<p>Maar de betekenis is groter. Claude heeft niet alleen vastgesteld dat het formulier werkt. Het heeft onderzocht waarom iemand misschien niet wil klikken. Dat is het verschil tussen software die draait en een product dat overtuigt.</p>
+<p>Naarmate Claude sneller bouwt, verschuift de flessenhals. Niet productiecapaciteit vormt dan het grootste probleem, maar oordeel. Loste het systeem het juiste probleem op? Veranderde het de juiste bestanden? Schiep het een vreemde randvoorwaarde? Maakte het de ervaring helderder?</p>
+<p>Daarom is beoordeling geen laatste formaliteit. Zij is het mechanisme dat snelheid bruikbaar houdt.</p>
+<p>De eerste laag is menselijk. Open de verschillenweergave. Bekijk de aangeraakte bestanden. Leg ze naast het ticket en het goedgekeurde plan. Vraag: zit hier iets verrassends tussen?</p>
+<p>Verrassingen zijn vaak de plek waar risico woont. Een formulier dat opeens wijzigingen veroorzaakt in de databasestructuur verdient aandacht. Een kleine tekstaanpassing die de hele route door de toepassing herschrijft eveneens. Niet iedere onverwachte verandering is verkeerd. Maar iedere onverwachte verandering verdient uitleg.</p>
+<p>De tweede laag is Claude dat zijn eigen werk langs de afgesproken kwaliteitslat legt:</p>
+<p>> “Use `review.md` as the standard. Review the current changes for production issues, broken edge cases, and confusing user flows. Separate issues into must fix, should fix, and okay to ship. Focus on bugs, user confusion, security risks, unnecessary complexity, files changed outside the scope of the ticket, and anything that violates the roadmap.”</p>
+<p>Die driedeling — moet worden opgelost, zou moeten worden opgelost, kan worden uitgebracht — geeft taal aan nuance. Niet ieder onvolmaakt detail hoeft een uitgave tegen te houden. Maar een beveiligingslek, een fout in betalingen of een gebruiker die in een kapotte stroom terechtkomt, mag nooit als cosmetisch worden afgedaan.</p>
+<p>Voor een gewone controle kan `/review` genoeg zijn. Maar bij werk met hogere inzet — toegangscontrole, betalingen, gevoelige gegevens of een grote nieuwe functie — is een zwaardere beoordeling verstandig:</p>
+<p>> “Launch a remote ultra review session for this repository.”</p>
+<p>Zo’n uitgebreide beoordelingssessie vervangt geen menselijk oordeel. Zij vormt een extra verdedigingslinie.</p>
+<p>Daarna verschuift Claude van reagerende assistent naar proactieve medewerker. Dat gebeurt met routines: terugkerende taken die niet wachten tot iemand er expliciet om vraagt.</p>
+<p>Ieder bedrijf kent werk dat zelden op een podium belandt. Iemand moet klantnotities lezen. Iemand moet zien welke klachten terugkomen. Iemand moet openstaande kwesties ordenen en benoemen welk probleem vandaag het meeste aandacht verdient.</p>
+<p>Het is saai werk. Precies daarom blijft het vaak liggen.</p>
+<p>De eerste routine moet niet zijn: zet vannacht zelfstandig nieuwe code in productie. Begin gecontroleerd:</p>
+<p>> “Every weekday morning at 7 a.m., read `/customers` and `/context`, open GitHub issues if it’s connected, and then create or update `/context/morning-brief.md` with the top customer pain point from the latest notes, one product risk, one recommended build task for today, and one question I should ask customers today. Don’t edit production code, don’t open a pull request, and keep it under 500 words.”</p>
+<p>GitHub is een platform waar softwareteams code, wijzigingen en foutmeldingen organiseren. Deze routine leest dus klantfeedback en openstaande problemen, en zet die om in een heldere ochtendbriefing.</p>
+<p>Daarna kan een tweede routine op vrijdagmiddag draaien:</p>
+<p>> “Every Friday at 3 p.m., review open issues and recent customer notes, group issues or identify duplicates, suggest the single highest-leverage fix for the week, and post the summary to `/context/weekly-ops.md`. Do not edit code.”</p>
+<p>Vijf losse klachten kunnen dan één patroon blijken te zijn. Misschien worstelen klanten allemaal met dezelfde stap in de eerste gebruikerservaring. Misschien gebruiken zij steeds hetzelfde woord voor een frustratie die het team nog niet als probleem had herkend.</p>
+<p>De routine wordt een soort stafchef. Niet degene die beslist, maar degene die de rommel ordent en zichtbaar maakt waar aandacht het meeste oplevert.</p>
+<p>De kringloop sluit wanneer nieuwe wijzigingsvoorstellen ook langs die kwaliteitslat gaan. Een <em>pull request</em> is een voorstel om wijzigingen op te nemen in de gezamenlijke codebasis. De instructie kan luiden:</p>
+<p>> “When a pull request opens, review it using `review.md`. Leave comments only on issues that could create bugs, broken user flows, security problems, or confusing behavior, and then post a short summary with what looks good, what needs attention, and whether this is ready for human review.”</p>
+<p>Dat is de nachtploeg waar mensen over spreken wanneer ze zeggen dat Claude vierentwintig uur per dag werkt. Niet een systeem dat zonder toezicht een bedrijf bestuurt, maar een systeem dat feedback ordent, patronen zichtbaar maakt, risico’s naar boven haalt en de volgende nuttige stap steeds iets scherper formuleert.</p>
+<p>Zodra die basis staat, kan werk parallel lopen.</p>
+<p>In de bureaubladapp kunnen afzonderlijke sessies naast elkaar bestaan. Dankzij gescheiden werkomgevingen — in technische kring <em>worktree isolation</em> genoemd — lopen wijzigingen niet door elkaar heen alsof vijf mensen tegelijk dezelfde muur proberen te verplaatsen.</p>
+<p>Stel dat er op een ochtend drie problemen wachten.</p>
+<p>De eerste is technisch: na e-mailverificatie belandt een nieuwe gebruiker op de verkeerde pagina. De tweede gaat over producthelderheid: de openingssectie van de landingspagina is te vaag; een kliniekeigenaar begrijpt niet binnen vijf seconden waarom het product relevant is. De derde is commercieel: klantnotities liggen verspreid, maar niemand heeft ze omgezet in een demonstratie die de werkelijke bezwaren wegneemt.</p>
+<p>In de oude werkwijze behandelt een oprichter die zaken na elkaar. Eerst de fout oplossen. Dan de tekst herschrijven. Daarna de demonstratie voorbereiden.</p>
+<p>In de nieuwe werkwijze krijgt ieder spoor een eigen sessie, dezelfde projectcontext en een heldere overdracht.</p>
+<p>Voor de foutmelding luidt de opdracht bijvoorbeeld:</p>
+<p>> “Work on the onboarding redirect bug after email verification. Use the project context files before you propose a fix. Start by explaining what you think is causing the bug and which files you need to inspect. After I approve the plan, implement the smallest clean fix. When you’re done, give me the root cause, the files you changed, the checks or tests you ran, what I should review in the diff, and anything that feels uncertain.”</p>
+<p>Voor de landingspagina:</p>
+<p>> “Improve the landing page hero so a med spa owner understands the value in five seconds. Use `CLAUDE.md`, `roadmap.md`, `review.md`, and the latest customer notes. Keep the change focused on the hero section unless a small supporting change is necessary. When you’re done, give me the before and after copy, the customer language you used, what changed in the preview, and why the new version is clearer.”</p>
+<p>En voor de verkoopdemonstratie:</p>
+<p>> “Read the latest customer notes and turn them into a short demo script for the missed-lead responder. Use the customer’s actual language where possible. The demo should show the pain, the product moment, and the payoff. When you’re done, give me the demo script, the objection it addresses, and what I should review before recording.”</p>
+<p>Dat zijn geen algemene wensen. Het zijn overdrachten die je letterlijk kunt kopiëren. Iedere sessie krijgt een duidelijke taak, dezelfde bedrijfscontext en een specifiek format voor de terugkoppeling.</p>
+<p>Het doel is niet dat kunstmatige intelligentie werk in alle richtingen spuit. Het doel is dat je aan het eind van de dag drie kleine pakketten ontvangt die je kunt inspecteren, accepteren, aanpassen of afwijzen.</p>
+<p>Meer autonomie zonder grenzen is geen schaalbaarheid. Het is roekeloosheid.</p>
+<p>Daarom moeten bevoegdheden expliciet worden verdeeld in drie groepen: veilige handelingen, handelingen waarvoor eerst toestemming nodig is en handelingen die bij de mens blijven.</p>
+<p>Veilige handelingen mag Claude zelfstandig uitvoeren: bestanden lezen, code onderzoeken, plannen voorstellen, lokale tests draaien, een kleine functietak aanpassen, documentatie bijwerken en een concept voor een wijzigingsvoorstel maken.</p>
+<p>Voor andere handelingen moet het eerst toestemming vragen: nieuwe afhankelijkheden installeren, de structuur van een database aanpassen, toegangscontrole aanraken, betalingslogica wijzigen of bestanden verwijderen.</p>
+<p>En dan zijn er de beslissingen die mens-gedreven blijven: een uitrol naar de productieomgeving, besluiten over klantgegevens, factureringskeuzes en beveiligingsgevoelige wijzigingen.</p>
+<p>„Going YOLO mode is a bit too risky,” waarschuwde de maker. De gedachte dat je alles kunt toestaan en snelheid vanzelf de fouten compenseert, is geen moed. „Thinking about permissions as a strategy” is volgens hem de enige volwassen benadering.</p>
+<p>Dat managementmodel is eenvoudig: geef ruimte én grenzen. Begin voorzichtig. Gebruik de planningsfase bij grotere veranderingen. Beoordeel handmatig terwijl je het systeem leert kennen. Geef pas meer vrijheid wanneer het geheugen van de projectmap, de beoordelingslijst en de afbakening van taken sterk genoeg zijn.</p>
+<p>De laatste laag maakt Claude minder algemeen en meer eigen aan het bedrijf: vaardigheden, koppelingen en automatische controles.</p>
+<p>Een vaardigheid is een herhaalbare manier van werken. Als je merkt dat je steeds opnieuw dezelfde opdracht typt, is het waarschijnlijk geen losse vraag meer. Dan is het tijd om die werkwijze vast te leggen.</p>
+<p>Voor de kliniektoepassing kan er bijvoorbeeld een vaste analyse van de landingspagina bestaan. Iedere keer dat Claude die uitvoert, bekijkt het de pagina als een kliniekeigenaar: begrijpt deze persoon de belofte binnen vijf seconden? Welke tekst blijft vaag? Welke signalen van vertrouwen ontbreken? Is de oproep tot actie zichtbaar? Wat is de ene verbetering met de grootste impact?</p>
+<p>Een tweede vaardigheid analyseert klantnotities. Zij haalt letterlijke formuleringen uit gesprekken, herkent terugkerende bezwaren en zoekt kooptriggers: de momenten waarop iemand laat merken waarom hij juist nu in beweging wil komen.</p>
+<p>Dan bouwt Claude niet alleen vanuit de mening van de oprichter, maar vanuit de taal van de markt. Diezelfde vaardigheid kan later helpen bij advertenties, e-mails en verkoopmateriaal.</p>
+<p>Een derde vaardigheid maakt een demoscript. Neem de huidige productstaat en de nieuwste klantnotities; zet ze om in drie delen: hier is de pijn, hier is het productmoment, hier is de opbrengst.</p>
+<p>Koppelingen doen iets anders. Zij geven Claude gecontroleerde toegang tot bronnen buiten de projectmap: GitHub, Linear, Google Drive, Slack en vergelijkbare systemen. Linear is een hulpmiddel waarmee teams hun taken en productwerk bijhouden. Een koppeling is in wezen een beveiligde verbinding tussen Claude en een bron van bedrijfsinformatie.</p>
+<p>Automatische controles vormen de derde categorie. In technische taal heten ze vaak <em>hooks</em>. Na een codewijziging kan zo’n controle de opmaak herstellen. Vóór een samenvatting van een wijzigingsvoorstel kan het eerst tests afdwingen. En voordat een wijziging wordt samengevoegd of uitgebracht, kunnen precies die controles draaien die voor dit project onmisbaar zijn.</p>
+<p>Vaardigheden maken werk herhaalbaar. Koppelingen maken context rijker. Automatische controles maken uitvoering veiliger.</p>
+<p>Samen met de actuele koers, de kwaliteitsnormen, klantnotities en routines vormen ze iets dat een concurrent niet zomaar kopieert. Het basismodel is voor velen beschikbaar. Maar de verzamelde context, de feedbacklussen, de gewoonten en de discipline zijn eigen werk. Daar ontstaat het verdedigbare voordeel.</p>
+<p>Wie deze aanpak wil proberen, hoeft er geen groot veranderprogramma van te maken. Het kan in zeven uur, zeventig minuten, zeven dagen of eenendertig dagen, afhankelijk van ervaring, tijd en de rest van het leven. Maar een week biedt een bruikbaar ritme.</p>
+<p>Op de eerste dag richt je het brein van de projectmap in: `CLAUDE.md`, `roadmap.md`, `review.md`, `/context`, `/customers` en de overige mappen. Je schrijft op wie de klant is, welk probleem centraal staat, wat het huidige doel is en wanneer iets als afgerond geldt.</p>
+<p>Op de tweede dag gebruik je de planningsfase. Kies één kleine producttaak en laat Claude eerst de projectmap onderzoeken. De opbrengst is nog geen code, maar een plan: bestanden, risico’s en controlestappen.</p>
+<p>Op de derde dag bouw je één zichtbare verbetering: een wachtlijstformulier, een prijspagina, een demonstratiestroom of een oplossing voor een fout in de eerste gebruikerservaring. Klein genoeg om te beoordelen, echt genoeg om aan een klant te laten zien.</p>
+<p>Op de vierde dag gebruik je de kijk- en testlus. Laat Claude de toepassing openen, door de stroom klikken, de mobiele versie controleren en de grootste bron van verwarring aanpakken.</p>
+<p>Op de vijfde dag beoordeel je het werk. Open de verschillenweergave. Lees wat er veranderde. Laat Claude het resultaat langs `review.md` leggen. Gebruik bij serieuze veranderingen, zoals betalingen of toegangscontrole, een zwaardere beoordeling.</p>
+<p>Op de zesde dag stuur je het resultaat naar tien mensen die er mogelijk om geven. Verstuur de Loom-video, de demonstratie of de landingspagina. Maar laat hun antwoorden niet verdwijnen in een inbox of in je geheugen. Zet ze in `/customers`, waar zij de volgende briefing en productbeslissing kunnen beïnvloeden.</p>
+<p>Op de zevende dag stel je de eerste routine in. Begin met de ochtendbriefing. Laat Claude klantnotities en openstaande kwesties lezen en één nuttige bouwtaak aanbevelen.</p>
+<p>Dan sluit de lus.</p>
+<p>Klantfeedback gaat naar `/customers`. Productrichting naar `roadmap.md`. Werkstijl naar `CLAUDE.md`. Kwaliteitsnormen naar `review.md`. Kleine taken beginnen met een plan. Wijzigingen gaan door voorvertoning en beoordeling. Terugkerend werk wordt een routine.</p>
+<p>Dat is de medewerker die nooit naar huis gaat.</p>
+<p>Niet omdat hij alle verantwoordelijkheden van een bedrijf kan dragen. Niet omdat menselijk oordeel overbodig wordt. Eerder het tegenovergestelde: deze werkwijze maakt zichtbaar waar dat oordeel onmisbaar blijft — bij richting, prioriteit, risico, gevoelige gegevens, geld en vooral bij de vraag wat klanten werkelijk waardevol vinden.</p>
+<p>Maar zij verkleint wel de afstand tussen weten en doen. Het product, de feedback, de documenten, de demonstraties, de beoordelingen en het terugkerende werk leven in één operationele kringloop. Die kringloop wordt nooit perfect. Hij moet worden gevoed, aangescherpt en bewaakt.</p>
+<p>Wie eenmaal zo bouwt, ziet het oude chatvenster moeilijk nog als vanzelfsprekend. Een systeem dat af en toe een antwoord geeft, voelt dan plotseling klein.</p>
+<p>De interessantere vraag wordt: welke medewerker zou je aannemen als hij nooit moe werd, alles kon lezen, iedere ochtend een briefing kon schrijven, iedere wijziging kon controleren — en alleen nog moest leren hoe jouw bedrijf werkt?</p>]]></content:encoded>
+    </item>
     <item>
       <title>De fabriek achter het werk</title>
       <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml#2026-08-13_The Startup Ideas Podcast_How to Build an AI-Native Company in 2026</link>
