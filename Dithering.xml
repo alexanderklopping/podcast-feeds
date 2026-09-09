@@ -5,8 +5,136 @@
     <link>https://alexanderklopping.github.io/podcast-feeds/Dithering.xml</link>
     <description>Artikelen gegenereerd van Dithering podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:02:47 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/Dithering.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Heftrucks in de Machinekamer</title>
+      <link>https://dithering.passport.online/member/episode/agents-and-forklifts?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImRpdGhlcmluZy5wYXNzcG9ydC5vbmxpbmUiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJkaXRoZXJpbmcucGFzc3BvcnQub25saW5lIiwiYXpwIjoiQ1lIQ3laV295UmhacDFiUEpIMmlYVSIsImVudCI6eyJ1cmkiOlsiaHR0cHM6Ly9kaXRoZXJpbmcucGFzc3BvcnQub25saW5lL21lbWJlci9lcGlzb2RlL2FnZW50cy1hbmQtZm9ya2xpZnRzIl19LCJleHAiOjE3OTE1MjQ5NzIsImlhdCI6MTc4ODkzMjk3MiwiaXNzIjoiaHR0cHM6Ly9hcHAucGFzc3BvcnQub25saW5lL29hdXRoIiwic2NvcGUiOiJmZWVkOnJlYWQgYXJ0aWNsZTpyZWFkIGFzc2V0OnJlYWQgY2F0ZWdvcnk6cmVhZCBlbnRpdGxlbWVudHMgcG9kY2FzdCByc3MiLCJzdWIiOiJhZWE5YzllZS0wNjcxLTRhYWMtOTNjMC0zMzRkNTc2NWJlNTEiLCJ1c2UiOiJhY2Nlc3MifQ.BtA5e06GDQkIr939DtQknQ-g4OgAjjoThp3Bum0E-vI-aaSqMMjZ4V6ba4SRZ-5RfuYLRvx--AgPGV1DlnM6zOM6FmQH5ToUJoHJwWcAXlN7Zql_5TckmVuTWYAuca2Ps9Klv7QDaApVUREc79xfOKTPmed9uSkAE6sw7P_nx2e8iigSsJsij_tE8x74DT0qN-1EuevbhLKRzd43C9ueUBvHP1OoPbZbnTsvvecwaJki0opBUpYS4YRGagoUCot6xqIGhVF8k5i9JRWsGlEZcZtubqQPcAYnn1NJ2PR_JSrfYpkzlestZ1_c_B7ao7Ms2ljNej2yzpBt-0NK1j6-dw</link>
+      <description>Toen Ben Thompson die maandag om 11.36 uur een bericht stuurde, verwachtte John Gruber een link. Het was Labor Day in de Verenigde Staten, een dag waarop de wereld even leek stil te staan en Ben juist vaak iets interessants uit de digitale stroom viste. In plaats daarvan stond er één zakelijke me...</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-09_Dithering_Agents and Forklifts</guid>
+      <content:encoded><![CDATA[<h1>Heftrucks in de Machinekamer</h1>
+<p>Toen Ben Thompson die maandag om 11.36 uur een bericht stuurde, verwachtte John Gruber een link. Het was Labor Day in de Verenigde Staten, een dag waarop de wereld even leek stil te staan en Ben juist vaak iets interessants uit de digitale stroom viste. In plaats daarvan stond er één zakelijke mededeling op Johns scherm: tijd om Dithering op te nemen. Een paar minuten later begon een gesprek dat ogenschijnlijk over bots ging, maar in werkelijkheid over iets groters: het moment waarop software niet langer antwoord geeft, maar namens je begint te handelen.</p>
+<p>Voor John Gruber, schrijver van Daring Fireball en al jaren een nauwlettend chroniqueur van Apple, hoorde een bericht van Ben bij het weekritme. Meestal kwam het iets na half twaalf ’s ochtends aan Johns kant van de wereld. Ben, de strateeg achter Stratechery, liep daarbij vaak een minuut of twee achter. John meestal nog wat langer.</p>
+<p>„Dus je vertelt de hele wereld dat ik altijd te laat ben?” vroeg Ben zodra de opname liep.</p>
+<p>John lachte. Hij was die ochtend al op geweest, had wat gewerkt — of, zoals hij het zelf noemde, wat <em>gefutzd</em>: bestanden geopend, zinnen verplaatst, half afgemaakte dingen opnieuw bekeken. Toen hij Bens naam op zijn telefoon zag oplichten, dacht hij aan een opvallend artikel of een scherp inzicht dat de rest van zijn dag zou bepalen.</p>
+<p>Maar Ben had andere plannen.</p>
+<p>De week ervoor waren grote AI-diensten tijdelijk uitgevallen. Iemand had gegrapt dat kunstmatige intelligentie op een dag Dithering zou schrijven. Nu klonk die grap als een projectplan.</p>
+<p>„We krijgen binnenkort een Dithering-bot,” zei Ben. De gedeelde Apple Notitie waarin zij jarenlang links hadden verzameld, kon met pensioen. „Ik heb grote plannen.”</p>
+<p>Hij zag het al voor zich: een systeem dat artikelen verzamelde, onderzoek bijhield, ideeën sorteerde, terugkerende taken afhandelde. Daaromheen wilde hij een eigen harnas bouwen van scripts en daemons — kleine programma’s die op de achtergrond blijven werken, ook als niemand naar het scherm kijkt. Niet één pratende assistent in een browservenster, maar een reeks gespecialiseerde digitale medewerkers, ieder actief in een ander deel van zijn leven.</p>
+<p>„Je begrijpt waarom dit zo verslavend is,” zei Ben. „Zodra je bepaalde dingen ontgrendelt, denk je: ik kan nog zevenenveertig andere dingen doen. Ik moet mijn hele eigen systeem bouwen, met scripts en daemons die niet ín die bot zitten. Een raamwerk met meerdere bots, over alle domeinen waarin ik werk.”</p>
+<p>Hij hoorde zichzelf bijna versnellen.</p>
+<p>„Waarom niet? Alles kan ineens. Maak je maar klaar, John. Ik trek je het water in, of je nou wilt of niet. Volgende aflevering hebben we een Dithering-bot.”</p>
+<p>Dat was de roes van het moment. Niet dat een computer een keurige alinea kon schrijven; dat kunstje was al snel gewoon geworden. De belofte zat in de volgende stap: software die onthoudt, bestanden ordent, schermen leest, taken afmaakt en daarna zelf ziet wat er nog moet gebeuren.</p>
+<p>Ben wist dat die euforie ook gevaarlijk kon zijn. „Mensen raken een beetje los van de werkelijkheid,” zei hij. De mogelijkheden leken zich met iedere geopende deur te vermenigvuldigen. Wie eenmaal zag dat een systeem een voorraadkast kon catalogiseren, dacht onvermijdelijk aan agenda’s, facturen, reisplannen, klantenbestanden, softwareprojecten — aan het hele rommelige landschap van een mensenleven.</p>
+<p>John wilde die woorden meteen preciezer maken. Geen bots, eigenlijk. Agenten.</p>
+<p>Een chatbot voert een gesprek. Hij kan overtuigend klinken, maar blijft in wezen aan de andere kant van het venster zitten. Een agent krijgt gereedschap: een plek om informatie vast te leggen, toegang tot programma’s en, als de gebruiker dat toestaat, de mogelijkheid om iets uit te voeren. Hij zegt niet alleen dat een afspraak in de agenda moet. Hij kan die afspraak ook inplannen.</p>
+<p>John zag de aantrekkingskracht. Maar hij bleef op afstand staan. Hij wilde geen onzichtbare kracht die plotseling door zijn bestanden begon te schuiven of namens hem besluiten nam. Een zorgvuldige assistent die losse invallen, notities en onafgemaakte taken kon vasthouden, was iets anders. Mensen die nooit de discipline hadden gehad voor een perfect systeem van lijstjes en mappen, konden die discipline misschien krijgen zonder haar zelf te hoeven opbrengen.</p>
+<p>Een paar jaar eerder had een vriend John verteld dat hij voor elk onderwerp één lang ChatGPT-gesprek bijhield. Projecten, afspraken, namen, losse gedachten: alles verdween in een enkele draad.</p>
+<p>John had hem meteen gecorrigeerd.</p>
+<p>„Nee,” zei hij. „Je gaat dingen kwijtraken. Dit werkt niet.”</p>
+<p>Een gesprek was geen archiefkast. Het had geen vaste planken, geen betrouwbaar register, geen duidelijke plek waar je maanden later terugvond wat je ooit had opgeslagen. Maar die grens begon te schuiven. Een agent die zelf kon noteren, ordenen en terughalen, maakte duidelijk waarom OpenAI ChatGPT steeds nadrukkelijker vóór de gebruiker wilde plaatsen. Het voelde nog jong, rafelig en onvolwassen. Maar de functie was werkelijk.</p>
+<p>En daarmee kwam Apple in beeld.</p>
+<p>Die week draaide niet om software. Het was geen WWDC, de jaarlijkse juniconferentie waarop Apple zijn toekomst voor ontwikkelaars ontvouwt. Dit was de week van iPhones en Apple Watches: aluminium, glas, lenzen, polsen. John verwachtte geen Siri-nieuws. Toch maakte juist dat zwijgen de spanning zichtbaar.</p>
+<p>„De telefoons zullen geweldig zijn,” zei hij. „Maar Siri is eindelijk gekomen waar de rest al was — en ik denk dat het heel snel weer heel, heel ver achter zal liggen.”</p>
+<p>Ben protesteerde niet. Hij begreep Johns terughoudendheid, maar zag daarin ook een opening. Hij wilde niet dat John vanaf de wal bleef kijken.</p>
+<p>„We moeten alleen een haakje in je krijgen, John,” zei hij. „Zodra je het eenmaal doorhebt, gaat alles open.”</p>
+<p>Daarna begon hij over vissen.</p>
+<p>Hij ging geregeld het water op met zijn vader, zijn zoon en een vaste groep vrienden. Ben bestuurde vaak een van de boten. Zijn vader wilde dan weten waar de andere vissers heen voeren. Misschien hadden zij beet. Misschien lag daar de juiste plek.</p>
+<p>Ben had een hekel aan die gedachte.</p>
+<p>Voor hem lag het plezier juist in het zoeken. De wind lezen. De bodem van het meer begrijpen. Weten waar onder water een richel liep, waar vissen zich bij elkaar zouden verzamelen. Niet een andere boot volgen, maar zelf ontdekken waar het water veranderde.</p>
+<p>„Dit ben ik met jou,” zei hij tegen John. „Ik ben aan het vissen. Ik werp aas uit. Ik vind die richel wel. En dan gaat het bij jou helemaal los.”</p>
+<p>Zijn eigen beet kwam onverwacht, via een huisinventaris-app.</p>
+<p>Het begon als een alledaags probleem: weten wat er in laden, kasten, bergingen en opslagruimtes lag. Geen groot visioen over de toekomst van werk, maar een poging om grip te krijgen op spullen. Toen de app eenmaal werkte, zag Ben opeens mogelijkheden in alle richtingen.</p>
+<p>„Ineens denk je: er zijn hier een gaziljoen dingen mogelijk.”</p>
+<p>John herkende het patroon, al keek hij er met meer afstand naar. Hij voelde zich niet oud, zei hij. Maar ook niet jong.</p>
+<p>„Niet om mezelf op de sofa van een therapeut te leggen,” voegde hij eraan toe, „maar ik merk dat ik dit, toen ik jong was, waarschijnlijk twintig uur per dag had gebruikt.”</p>
+<p>Dat was niet alleen een kwestie van leeftijd. John en Ben hadden vóór de AI-golf jarenlang hun eigen digitale werkplaatsen gebouwd. Mensen die werken met tekstbestanden, scripts en automatisering ontwikkelen in de loop der tijd een eigen gereedschapskist. Elke sneltoets bespaart een irritatie. Elke map heeft een geschiedenis. Elk script herstelt een klein ongemak dat anderen als onvermijdelijk zijn gaan beschouwen.</p>
+<p>„We deden een deel van dit AI-werk al voor onszelf,” zei John, „zonder dat het AI heette.”</p>
+<p>Ben had aanvankelijk hetzelfde ervaren. Hij gebruikte AI om bestaande scripts iets beter te maken. Maar zijn systeem was al zo verfijnd dat de eerste vraag bijna verlammend werd: wat valt er nog te verbeteren?</p>
+<p>Pas later zag hij de grotere opening. Niet: hoe maak ik mijn oude gereedschap sneller? Maar: welk werk doe ik nog met de hand, alleen omdat ik nooit de moeite heb genomen er een script voor te schrijven?</p>
+<p>Sinds juni, toen Apple zijn nieuwe Siri-plannen had aangekondigd, leek de tijd plotseling veel sneller te lopen. John herinnerde zich de middag waarop hij een bèta op een reserve-iPhone installeerde. De telefoon lag op tafel. Siri zou zijn gegevens indexeren. Er gebeurde weinig zichtbaar. Een belofte draaide ergens op de achtergrond, nog zonder duidelijke vorm.</p>
+<p>Die middag voelde inmiddels als een gebeurtenis uit een ander seizoen. In werkelijkheid waren er slechts enkele maanden verstreken.</p>
+<p>Siri zelf was nauwelijks opgeschoten. Apple werkte toe naar een bredere introductie, terwijl OpenAI en Anthropic hun systemen in hoog tempo verder duwden. John zag de afstand tussen de belofte en de voorhoede groeien.</p>
+<p>Ben draaide de redenering om. Voor wie was die afstand eigenlijk belangrijk?</p>
+<p>„Het deel van de ijsberg onder water is veel groter,” zei hij, „dan de groep mensen die ook maar enig idee heeft wat agenten van OpenAI en Anthropic nu kunnen.”</p>
+<p>Hij kende die onderwaterwereld inmiddels goed. Zijn huisinventaris-app was aanvankelijk alleen logisch geweest omdat hij iemand had die fysiek door zijn huis kon lopen, kastjes kon openen en spullen kon vastleggen. Je partner vragen om de zolder, de voorraadkast en iedere keukenla systematisch te catalogiseren was geen productiviteitsplan.</p>
+<p>„Dat is de weg naar de verdoemenis,” zei Ben.</p>
+<p>Zelf alles invoeren was nauwelijks aantrekkelijker. „Je moet iemand betalen om dit te doen.”</p>
+<p>De man die Ben hielp, was een praktisch ingestelde manusje-van-alles. Hij hield ervan om dingen op te hangen, te repareren, te ordenen en af te vinken. Niet bijzonder technisch, wel altijd in beweging. Hij was alleenstaand. En juist hij raakte, tot Bens verrassing, volledig gegrepen door het systeem.</p>
+<p>Hij praatte er voortdurend mee. Hij vroeg om nieuwe functies. Hij zocht manieren om meer van zijn werk bij te houden. Niet omdat hij onder de indruk was van een technische demonstratie, maar omdat hij merkte dat hij zijn werk beter kon doen.</p>
+<p>„Hij is er helemaal door het dolle heen,” zei Ben.</p>
+<p>Dat beeld maakte meer indruk op hem dan welke spectaculaire productlancering ook. John en Ben zaten de hele dag achter computers en hadden hun werkmethodes al jarenlang aangescherpt. Hun winst kon daardoor betrekkelijk klein zijn. Maar iemand die tot dan toe werkte met losse tekstdocumenten en Apple Notities, kon in één sprong een heel tijdperk overslaan.</p>
+<p>Geen jaren meer investeren in eigen scripts, zorgvuldig onderhouden mappen en geïmproviseerde noodverbanden. Meteen naar een assistent die dingen onthoudt, opvolgt en uitvoert.</p>
+<p>Dat kon levens veranderen.</p>
+<p>En toch bleef online een luidruchtige groep volhouden dat de vooruitgang niet werkelijk was. Sommige bezwaren waren redelijk: energieverbruik, machtsconcentratie, banenverlies, de haast waarmee technologiebedrijven nieuwe afhankelijkheden bouwden. Maar onder die kritiek zat vaak iets hardnekkigers. Alsof de hele ontwikkeling slechts bestond uit opgeblazen demo’s, beurskoersen en marketingtaal.</p>
+<p>Opvallend vaak kwam dat geluid uit de traditionele online Apple-gemeenschap. John vond dat geen geruststellend teken.</p>
+<p>Ben haalde een softwareontwikkelaar aan die hij online had gezien, vermoedelijk op Mastodon. De man gebruikte de nieuwe systemen dagelijks en was de theoretische discussie moe.</p>
+<p>„Het is alsof je ruzie maakt met iemand in een Amazon-magazijn,” zei Ben, „waar ze net heftrucks hebben gekregen. Die werknemer tilde vroeger dozen met de hand uit de stellingen. Nu gebruikt hij elke dag een heftruck. En jij staat daar te beweren dat heftrucks niet bestaan.”</p>
+<p>De ontwikkelaar zelf had het scherper gezegd: „Ik gebruik het. Het verandert mijn werk. Deze werknemer gebruikt het nu al maanden, elke dag, en zijn dagelijkse werk is op heel tastbare manieren enorm verbeterd. En dan voer je een debat met hem waarin jij zegt dat de heftrucks niet bestaan.”</p>
+<p>Je kon twisten over de milieuschade van die heftrucks. Je kon vragen wat er gebeurde met de mensen die vroeger de dozen tilden. Dat waren reële vragen. Maar ontkennen dat de machines door het magazijn reden, was iets anders.</p>
+<p>„Dat is een beetje een discussie met iemand die gelooft dat de aarde plat is,” zei John.</p>
+<p>Ook het woord <em>zeepbel</em> werd vaak gebruikt alsof het de techniek zelf kon wegverklaren. Ben maakte een onderscheid dat in het rumoer gemakkelijk verloren ging. Een zeepbel is een financieel verschijnsel: verwachtingen en waarderingen raken los van wat bedrijven werkelijk kunnen waarmaken. De internethausse van eind jaren negentig was een zeepbel. Dat betekende niet dat het internet niet bestond. Het betekende evenmin dat het internet de samenleving niet fundamenteel zou veranderen.</p>
+<p>AI kon financieel oververhit zijn en technisch toch echt.</p>
+<p>De scepsis had bovendien een begrijpelijke oorsprong. In december van het jaar ervoor waren agenten vaak ronduit slecht. Vooral aan de zakelijke kant klonk het woord overal: „agents, agents, agents.” Verkoopteams zetten het op elke dia. Bestuurders herhaalden het in elk gesprek. Maar de systemen zelf konden meestal niet leveren. Ze vergaten hun instructie. Ze verzonnen stappen die niet bestonden. Ze liepen vast en praatten zich er vervolgens uit met het zelfvertrouwen van iemand die de verkeerde deur heeft geopend en alsnog beweert op de juiste verdieping te zijn.</p>
+<p>„Het was verschrikkelijk,” zei Ben. De industrie had, door zoveel te beloven voordat ze iets bruikbaars had, „de grond verzilt”.</p>
+<p>Wie in december zo’n agent had geprobeerd en daarna was afgehaakt, had daar alle reden toe gehad. De term was groter geworden dan de techniek.</p>
+<p>Toen veranderde er iets.</p>
+<p>„Alsof er een schakelaar werd omgezet,” zei Ben. „Ineens werkte het.”</p>
+<p>Niet foutloos. Niet zonder toezicht. Maar vaak genoeg om het verschil te voelen tussen een truc en een hulpmiddel. Agenten werden beter, sneller en bruikbaarder. Ze hielpen zelfs mee om nieuwe software te schrijven. Eerst waren ze niet in staat een taak betrouwbaar af te maken. Toen begonnen ze dat, soms bijna onverwacht, wel te doen.</p>
+<p>De wedstrijd was begonnen.</p>
+<p>En in een wedstrijd is de verleiding om te vroeg te lanceren bijna onweerstaanbaar. Ben hoefde maar terug te denken aan 2022, toen Google Bard mensen die wilden dat kaas beter aan een pizzabodem bleef plakken, had aangeraden lijm te gebruiken.</p>
+<p>Technisch gezien was het antwoord niet volledig onlogisch: lijm laat dingen aan elkaar hechten. In een keuken was het natuurlijk bizar.</p>
+<p>„Het is waar,” zei Ben. „En het is ongelooflijk grappig.”</p>
+<p>Die pizza met lijm bleef als een vlek aan generatieve AI kleven. Jaren later haalden critici het voorbeeld nog aan alsof elk modern systeem, zodra je om kookadvies vroeg, je rechtstreeks naar de knutsellijm verwees. Ze bleven hangen bij het moment waarop de techniek faalde, terwijl de techniek zelf verder was gegaan.</p>
+<p>Daar lag tegelijk Apples zwakte en zijn mogelijke redding.</p>
+<p>Apple op zijn best brengt technologie niet uit als experiment, maar als gereedschap. Als Siri pas het jaar erop een werkelijk bruikbare assistent werd, dan was dat voor de kleine groep aan de voorrand pijnlijk laat. Maar voor de veel grotere groep daarachter hoefde het niet doorslaggevend te zijn — mits het product bij aankomst betrouwbaar werkte.</p>
+<p>„Dat is precies de kritiek op twee jaar geleden,” zei Ben. „Apple raakte meegesleept door de koorts en kondigde iets aan dat nog niet mogelijk was.”</p>
+<p>Niet traagheid was het probleem geweest, maar ongeduld.</p>
+<p>John trok de blik vervolgens weg van Siri en naar iets dat al veel langer onder Apples glanzende oppervlak lag. Een oude laag van de Mac, zelden onderwerp van een productvideo, werd in het tijdperk van agenten plotseling strategisch.</p>
+<p>Toegankelijkheidsfuncties maken een computer bruikbaar voor mensen met een beperking. Ze vertellen bijvoorbeeld welke knop op een scherm staat, welk veld actief is en wat een klik zal doen. Voor een agent vormen die functies een plattegrond: een manier om niet alleen pixels te zien, maar te begrijpen welke handelingen een programma toelaat.</p>
+<p>Daar kwam Apples traditie van scriptbare programma’s bij. AppleScript en vergelijkbare hulpmiddelen maakten het mogelijk om toepassingen opdrachten te geven en met elkaar te laten samenwerken. John had daar op Daring Fireball jarenlang voor gepleit, ook al schreef de gemiddelde Mac-gebruiker nooit zelf een script.</p>
+<p>Dat hoefde ook niet, vond hij. Mensen konden profiteren van gereedschap dat anderen hadden gemaakt.</p>
+<p>Nu kreeg dat woord — anderen — een nieuwe betekenis.</p>
+<p>„Raad eens wie er nu ook scripts kunnen schrijven?” vroeg John.</p>
+<p>Het was een zeldzaam moment waarop een lang gekoesterde overtuiging ineens een nieuwe, grotere toepassing kreeg. Scriptbaarheid had jarenlang iets marginaals gehad: een voorziening voor liefhebbers, systeembeheerders en mensen die hun computer eigenhandig wilden verbouwen. Maar als agenten scripts konden maken en toegankelijkheidsinformatie konden lezen, veranderde die oude infrastructuur van een nichefunctie in een fundament.</p>
+<p>Ben had dat voor het eerst werkelijk gevoeld toen een agent zich aan zijn Synology waagde.</p>
+<p>Een Synology is een netwerkopslagapparaat: een kleine digitale voorraadkamer voor bestanden, foto’s en reservekopieën. Zo’n kastje staat meestal ergens uit het zicht, op een plank of in een meterkast. De beheeromgeving is functioneel, maar zelden elegant. Menu’s lopen in elkaar over. Instellingen dragen namen die alleen begrijpelijk zijn voor wie ze al kent.</p>
+<p>De agent bood aan het werk over te nemen.</p>
+<p>„Ik kan het doen, als je wilt.”</p>
+<p>Ben keek naar zijn scherm.</p>
+<p>„Oké,” zei hij. „Laat maar zien.”</p>
+<p>De Synology-interface sprong open. De agent las het scherm. De cursor bewoog. Menu’s gingen open en dicht. Het tempo was laag, bijna pijnlijk laag. Alsof iemand met dikke handschoenen aan aan de andere kant van een raam een computer bediende.</p>
+<p>Maar hij deed het.</p>
+<p>Hij vond de juiste instelling. Hij voerde de juiste handeling uit. Hij verdwaalde niet. Hij verzon geen extra stap. Hij rapporteerde niet dat het werk klaar was terwijl de taak nog half openstond.</p>
+<p>„Het ging langzaam,” zei Ben. „Maar hij deed het perfect. Hij deed het goed.”</p>
+<p>Dat was het moment waarop de discussie voor hem verschoof. Niet een gelikte presentatie op een podium. Niet een chatbot die in fraaie zinnen een antwoord formuleerde. Een systeem dat zich door een onvriendelijke, gewone beheeromgeving bewoog en precies uitkwam waar het moest zijn.</p>
+<p>Nieuwe systemen, zoals Astra, deden inmiddels iets vergelijkbaars op bovenmenselijke snelheid.</p>
+<p>„Het is echt niet normaal,” zei Ben. „Absoluut niet normaal.”</p>
+<p>Daar lag de volgende strijd: niet meer in de vraag of een model een zin kon afmaken, maar in de machinekamer. Bestanden. Rechten. Wachtwoorden. Programma’s. Schermen. Geheugen. Toegang tot de knoppen waarmee software werkelijk beweegt.</p>
+<p>Op een Mac verschenen die grenzen als kleine vensters. Mag deze app je bestanden openen? Mag hij het scherm bedienen? Mag hij andere programma’s aansturen? Voor een mens waren die vragen een noodzakelijke bescherming. Voor een agent die namens die mens een reeks handelingen moest uitvoeren, waren ze poortwachters die bij iedere deur opnieuw om legitimatie vroegen.</p>
+<p>Ben wilde daarom een aparte AI-modus: een Mac die nadrukkelijk voor agentwerk bestemd was, zonder scherm en toetsenbord, ergens in een hoek draaiend. Een computer die niet klaarstond voor een mens, maar voor taken. Geen toestemmingsvenster dat midden in een proces opdook. Geen workflow die stilviel omdat iemand op afstand nog op ‘Sta toe’ moest klikken.</p>
+<p>Zelfs zonder zo’n voorziening verzamelde Ben al oude Macs voor afzonderlijke toepassingen. Juist omdat de toegankelijkheidslaag gaten kon dichten tussen verouderde interfaces, losse systemen en onwillige software, zag hij de Mac niet als een reliek uit het vorige computertijdperk. Hij zag hem als een mogelijke werkplaats voor het volgende.</p>
+<p>Toen kwam een detail ter sprake dat bijna komisch klonk, maar een harde grens blootlegde. Apple stond op een Mac slechts twee virtuele macOS-machines toe. Een virtuele machine is een afgeschermde computer binnen een computer: met een eigen bureaublad, eigen bestanden en eigen risico’s. Voor agenten zouden zulke omgevingen ideaal zijn. Elke taak in een aparte ruimte. Elke fout begrensd. Elke assistent met zijn eigen werkbank.</p>
+<p>Ben wilde er geen twee.</p>
+<p>Hij wilde er tientallen.</p>
+<p>„Ik zou veel betalen voor één Mac met enorm veel geheugen,” zei hij, „waarop ik een heleboel macOS-instanties kan draaien.”</p>
+<p>John keek op.</p>
+<p>„Maar je mag er maar twee draaien?”</p>
+<p>„Ja.”</p>
+<p>John zag de commerciële logica al voor zich.</p>
+<p>„Dus Apple denkt: koop gewoon meer Macs.”</p>
+<p>Ben liet een stilte vallen.</p>
+<p>„Maar nee,” zei hij. „Precies niet.”</p>
+<p>Dat was geen beperking van toevallige aard; het was een ontwerpkeuze — en dus ook een plafond.</p>
+<p>In die twee virtuele machines zat de vorm van het komende probleem. Een agent was niet langer een pratende demo in een browservenster. Hij had geheugen nodig. Opslag. Programma’s die hij mocht gebruiken. Schermen die hij kon lezen. En soms een eigen, afgesloten plek waarin hij veilig fouten kon maken.</p>
+<p>Hij had een machinekamer nodig.</p>
+<p>Apple bezat daarvan al opmerkelijk veel: de nauwe samenhang tussen hardware en software, de Mac als stabiele werkplek, toegankelijkheidsfuncties die een interface leesbaar maken, en een oude scripttraditie die programma’s met elkaar laat samenwerken. Jarenlang waren dat voorzieningen voor een minderheid geweest. In het nieuwe tijdperk konden zij de fundering worden onder een ander soort computergebruik.</p>
+<p>Ben hoefde John niet langer vanaf de boot te wenken. De richel lag inmiddels bloot.</p>
+<p>„Die toegankelijkheidslaag is een echte verdedigingswal,” zei hij. „Dit is absoluut het platform voor dit soort agenten.”</p>
+<p>John, die die laag jarenlang had verdedigd toen vrijwel niemand ernaar keek, kreeg zijn punt.</p>
+<p>„Goed gezien,” zei Ben. „Punt voor jou.”</p>]]></content:encoded>
+    </item>
     <item>
       <title>De Renbaan van Jensen Huang</title>
       <link>https://dithering.passport.online/member/episode/nvidia-buys-hugging-face?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImRpdGhlcmluZy5wYXNzcG9ydC5vbmxpbmUiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJkaXRoZXJpbmcucGFzc3BvcnQub25saW5lIiwiYXpwIjoiQ1lIQ3laV295UmhacDFiUEpIMmlYVSIsImVudCI6eyJ1cmkiOlsiaHR0cHM6Ly9kaXRoZXJpbmcucGFzc3BvcnQub25saW5lL21lbWJlci9lcGlzb2RlL252aWRpYS1idXlzLWh1Z2dpbmctZmFjZSJdfSwiZXhwIjoxNzkxMTc3OTA5LCJpYXQiOjE3ODg1ODU5MDksImlzcyI6Imh0dHBzOi8vYXBwLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIHBvZGNhc3QgcnNzIiwic3ViIjoiYWVhOWM5ZWUtMDY3MS00YWFjLTkzYzAtMzM0ZDU3NjViZTUxIiwidXNlIjoiYWNjZXNzIn0.H8QwKK_1UNQCdfe3koBhCdSEnSC7OVFBwkxc__WW5GjAtZqmjroiLU6sGfrgEaDV056O5gCfHvBJ3zBQd6q95ZodZoxv0TxgISNmi52saVvkthVvbPILCTb2KX38SiTOZoxAp1S-cSzw16dYYSlSAUwhRZXV6YuDs3zdlbbTt-AkupwP3IypILbfyy01rnE8r3C0ycRjERQ85reioMxpaxi0pfXLMYSMqeBV9viVcUCpvlmMSdd5YL9sMj_VAy8J0CvlW2VaSWxT93gzHXxHyvJwrAW1DAkvWqCmLKV4XzoptlVf_uT_vVQ3rDx81hOlLItKrPbqw2xhrSfbRPhX8w</link>
