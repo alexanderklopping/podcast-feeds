@@ -5,8 +5,264 @@
     <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml</link>
     <description>Artikelen gegenereerd van The Startup Ideas Podcast podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Fri, 11 Sep 2026 05:55:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:04:00 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>De Werkbank naast het Bureau</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml#2026-09-11_The Startup Ideas Podcast_You_re using GPT-6 Astra WRONG</link>
+      <description>Greg had de belofte aan het begin ruim neergezet. Tegen het einde, zei hij, zouden mensen weten hoe ze met Astra productiever konden werken, kosten konden drukken, geld konden verdienen en misschien een bedrijf konden beginnen. Niet door zich te vergapen aan een fraaie demonstratie, maar door iet...</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-11_The Startup Ideas Podcast_You_re using GPT-6 Astra WRONG</guid>
+      <content:encoded><![CDATA[<h1>De Werkbank naast het Bureau</h1>
+<em>Een nieuw taalmodel bewijst zijn waarde niet wanneer het een aardige afbeelding maakt of een spelletje nabouwt. De werkelijke test begint wanneer iemand zonder technisch vangnet een vraag stelt die tot voor kort buiten zijn bereik lag: kan ik dit bedrijf beginnen, deze fout vinden, dit apparaat bouwen? In een gesprek over GPT-6 Astra volgden Greg en ontwikkelaar Ras Mic die vraag van een trage webapp naar een luidspreker die nog slechts als idee bestond.</em>
+<p>Greg had de belofte aan het begin ruim neergezet. Tegen het einde, zei hij, zouden mensen weten hoe ze met Astra productiever konden werken, kosten konden drukken, geld konden verdienen en misschien een bedrijf konden beginnen. Niet door zich te vergapen aan een fraaie demonstratie, maar door iets te maken dat dezelfde dag nog kon bestaan.</p>
+<p>“Like, reageer en abonneer je,” zei hij, met de verplichte vrolijkheid van een internetvideo.</p>
+<p>Ras Mic, ontwikkelaar en vaste gast, wilde meteen duidelijk maken wat dit gesprek níét zou worden.</p>
+<p>“Dit is geen gewone bespreking van GPT-6 Astra.”</p>
+<p>“Precies,” zei Greg.</p>
+<p>Geen spelletjes. Geen wonderlijke driedimensionale plaatjes die vijf minuten indruk maakten en daarna verdwenen. Ras had iets anders voor ogen: toepassingen die een onderneming konden veranderen, een product konden verbeteren of iemand over een technische drempel konden trekken die tot dan toe onneembaar leek.</p>
+<p>“Laten we mensen groot laten dromen,” zei hij. “Ook over hardware.”</p>
+<p>Astra was, legde Ras uit, OpenAI’s duurste model, ongeveer geprijsd als Fable. Maar gebruikers met een Codex-abonnement — een dienst waarin een digitale programmeerassistent taken kan uitvoeren — kregen die capaciteit voorlopig voor een zwaar gesubsidieerd bedrag. Bovendien werkte Astra zuiniger dan veel andere modellen: het had minder tussenstappen nodig om ingewikkelde opdrachten af te ronden.</p>
+<p>De prijs per vraag vertelde dus niet het hele verhaal. Belangrijker was wat die vraag kon opleveren.</p>
+<p>Een app die eindelijk snel reageerde. Een beveiligingslek dat niet wekenlang onopgemerkt bleef. Een bouwplan voor een apparaat dat gisteren nog ondenkbaar was.</p>
+<h2>1. De app die niet meer wachtte</h2>
+<p>Ras begon bij iets prozaïscher dan een robot of een slimme luidspreker: een webapp die te traag aanvoelde.</p>
+<p>Wie software bouwt, kent het verschijnsel. De pagina ziet er goed uit. De knoppen staan op hun plaats. Maar na een klik blijft het scherm net te lang stil. Technisch gezien gaat het misschien om minder dan een seconde; voor de gebruiker voelt het als twijfel. Werkt dit wel?</p>
+<p>Ras gaf Astra een opdracht die bewust weinig ruimte liet voor excuses:</p>
+<p>> “I want to run a performance update. My pages aren’t as fast as they need to be. My API calls aren’t as fast as they need to be. Please review my entire app and suggest a performance update.”</p>
+<p>API-aanroepen zijn de korte berichten waarmee de onderdelen van een toepassing met elkaar praten: de app vraagt iets op bij een server, de server antwoordt, en pas dan verschijnt de informatie op het scherm. Als die gesprekken haperen, merkt de klant geen technische oorzaak. Die merkt alleen traagheid.</p>
+<p>Ras had de opdracht op een van zijn eigen toepassingen losgelaten. De reactietijd ging van achthonderd milliseconden naar twintig à dertig milliseconden.</p>
+<p>Toen hij de pagina opnieuw testte, hoefde hij niet meer te wachten op de bevestiging dat zijn klik was aangekomen. Het antwoord stond er vrijwel meteen.</p>
+<p>Dat verschil was groter dan een getal op een meetrapport. Het was het verschil tussen software die de gebruiker tegenhoudt en software die hem ongemerkt meeneemt.</p>
+<h2>2. De controle die je liever te vroeg uitvoert</h2>
+<p>Daarna werd Ras ernstiger.</p>
+<p>> “Run a security audit if you have an app that people are actually using.”</p>
+<p>Voer een beveiligingscontrole uit zodra echte mensen je toepassing gebruiken.</p>
+<p>Hij werkte op de achtergrond aan een betaalstart-up voor een specifieke niche. Er waren nog maar enkele gebruikers. Juist daarom, vond Ras, was dit het moment. Zodra iemand zijn gegevens of betalingen aan je toevertrouwt, is je project geen oefening meer.</p>
+<p>Astra kreeg toegang tot de code en bekeek hoe de toepassing was ingericht. Het antwoord dat terugkwam, had de toon van een vriend die je op het nippertje van een ramp redt.</p>
+<p>> “My boy, you would have been cooked if I didn’t read all this.”</p>
+<p>Mijn jongen, je was eraan geweest als ik dit niet had gelezen.</p>
+<p>Ras lachte toen hij het vertelde, maar de grap had een scherpe rand. Beveiliging is precies het soort werk dat oprichters uitstellen. Een externe controle kost geld. De uitslag kan onaangenaam zijn. En wie niet technisch is, weet vaak niet eens hoe hij moet beginnen.</p>
+<p>Astra loste niet alle beveiligingsproblemen op. Dat zou een gevaarlijke gedachte zijn. Maar het haalde wel de eerste, verlammende drempel weg: de vraag waar je in godsnaam moest kijken.</p>
+<h2>3. Een beeld om aan vast te houden</h2>
+<p>Ook bij het ontwerpen van een gebruikersomgeving had Ras iets geleerd. Hij liet een scherm zien dat Astra had ontworpen op basis van één oud beeld: het netwerkpictogram van Windows XP.</p>
+<p>“Wie boven de dertig is, herinnert zich dit nog,” zei hij. “Heel stijlvol.”</p>
+<p>Het beeld was klein en korrelig, een relikwie uit een tijd van grijze taakbalken en piepende modems. Toch gaf het de digitale assistent precies genoeg houvast. Astra begreep welke sfeer Ras zocht en bouwde daarop voort.</p>
+<p>Zonder referentiebeeld, zei hij, ging het model juist te ver.</p>
+<p>> “Without a reference image, it does too much. So do what you will with that.”</p>
+<p>Zonder voorbeeld vult het te veel zelf in.</p>
+<p>Dat was meer dan een ontwerptip. Hoe krachtiger de assistent, des te belangrijker het wordt om hem een anker te geven. Een goed voorbeeld voorkomt dat een model zijn eigen smaak verwart met jouw bedoeling.</p>
+<h2>4. De computer als werkterrein</h2>
+<p>Ras wilde vervolgens iets laten zien dat verder ging dan tekst schrijven of code voorstellen: Astra kon een computer bedienen.</p>
+<p>Niet alleen een antwoord geven, maar op een lokaal apparaat taken uitvoeren. Een browser openen. Pagina’s doorzoeken. Knoppen aanklikken. Formulieren invullen. Bestanden gebruiken die op jouw eigen machine staan. Terwijl jij iets anders doet, werkt de assistent op de achtergrond door.</p>
+<p>Dat was wat Ras bedoelde met computergebruik op je eigen apparaat: de overgang van een gesprekspartner naar een uitvoerende assistent.</p>
+<p>Maar Greg stak zijn hand op voordat Ras zijn demonstratie kon openen.</p>
+<p>“Wacht even. Voordat je hiermee verdergaat, wil ik een paar toepassingen laten zien die ik zelf heb verzameld.”</p>
+<p>Hij deelde zijn scherm.</p>
+<p>“Ik heb hierover getwitterd,” zei Greg. “Greg Brockman heeft het bericht opnieuw gedeeld en gezegd dat het goed was.”</p>
+<p>Hij liet een korte stilte vallen.</p>
+<p>> “If it’s good enough for Greg Brockman, it’s good enough for all of us.”</p>
+<p>Als het goed genoeg is voor Greg Brockman, is het goed genoeg voor ons allemaal.</p>
+<p>Boven zijn bericht stond: <em>Here are nine cool Astra prompts.</em></p>
+<p>Negen opdrachten. Geen negen trucs, maar negen manieren om de assistent in het dagelijkse werk van een ondernemer te trekken.</p>
+<h2>5. De vergeten rekening</h2>
+<p>De eerste opdracht was niet spectaculair. Juist daarom was hij bruikbaar.</p>
+<p>> “Go through my internet, phone, and software bills. Jump into each provider’s chat support and negotiate them down or cancel what I’m not using.”</p>
+<p>Doorzoek mijn rekeningen voor internet, telefoon en software. Open de chat van iedere leverancier, onderhandel over een lager bedrag en zeg op wat ik niet gebruik.</p>
+<p>Greg keek Ras aan. Ras woonde in Canada.</p>
+<p>“Jij betaalt vast veel te veel voor je telefoon en internet.”</p>
+<p>Iedereen die ooit zijn bankafschriften met aandacht heeft bekeken, kent de kleine lekken. Een proefabonnement dat stilzwijgend doorloopt. Een softwarelicentie voor iemand die al maanden niet meer bij het bedrijf werkt. Een mobiel abonnement waarvan de prijs elk jaar iets hoger wordt, omdat niemand belt.</p>
+<p>Een assistent die zulke uitgaven opspoort, de klantenservice benadert en opzegt wat overbodig is, bouwt geen imperium. Maar hij kan wel geld terughalen dat anders verdwijnt in vergetelheid.</p>
+<p>Voor een ondernemer zonder financiële afdeling is dat geen detail. Het is ademruimte.</p>
+<h2>6. Het bureau ontleden</h2>
+<p>Gregs tweede opdracht raakte aan een grotere fascinatie: dienstverlenende bedrijven omzetten in software.</p>
+<p>> “Pick one service business in a niche. You can pick the niche and reverse-engineer the exact workflow they sell to clients. Break it into steps, tools used, inputs, outputs, human judgment points, and places where the work gets slow or expensive. Then design the simplest AI product that could replace the first version of that service and charge $500 to $5,000 a month.”</p>
+<p>Kies een dienstverlener in een nichemarkt. Ontleed stap voor stap wat die aan klanten verkoopt, waar menselijk oordeel nodig is en waar het werk traag of duur wordt. Ontwerp vervolgens de eenvoudigste digitale dienst die een eerste versie daarvan kan overnemen.</p>
+<p>Achter een administratiekantoor, een gespecialiseerd marketingbureau of een rapportagebedrijf schuilt vaak hetzelfde patroon. Informatie komt binnen. Iemand zet die in een sjabloon. Iemand controleert de uitkomst. De klant ontvangt een rapport, advies of besluit.</p>
+<p>“Wordt het perfect?” vroeg Greg. “Nee. Maar het brengt je op ideeën over hoe die software eruit zou kunnen zien.”</p>
+<p>Ras wilde daaraan iets toevoegen. Hij had zichzelf aangeleerd om bijna alles eerst na te bouwen. Als hij bijvoorbeeld met Daytona wilde werken, een aanbieder van afgesloten ontwikkelomgevingen, begon hij niet met het officiële product. Hij trok er een kwartier voor uit om een eenvoudige kopie te maken.</p>
+<p>Niet omdat die kopie beter was. Niet omdat hij hem later zou gebruiken. Hij deed het om te begrijpen.</p>
+<p>“De intelligentie is omhooggeschoten,” zei Ras. “Maar de moed van mensen om nieuwe dingen te proberen niet.”</p>
+<p>Toen volgde de zin die het gesprek scherp stelde.</p>
+<p>> “The saddest thing people can do with a model like GPT-6 Astra is generate landing pages.”</p>
+<p>Het treurigste wat mensen met een model als Astra kunnen doen, is er landingspagina’s mee laten maken.</p>
+<p>Dat kon een ouder model ook al. De vraag was niet meer of je snel een keurige webpagina kon produceren. De vraag was welk probleem je nu durfde aan te raken omdat de technische afstand kleiner was geworden.</p>
+<p>“Denk echt groter,” zei Ras.</p>
+<p>Greg knikte. “Number two is fire.”</p>
+<h2>7. De markt waar prijzen verkeerd staan</h2>
+<p>De derde opdracht keek niet naar software, maar naar verkeerd gewaardeerde spullen.</p>
+<p>> “Watch Facebook Marketplace and Craigslist in my city for cameras, furniture, bikes, or whatever is listed way under market value, and text me as soon as something is mispriced with the link.”</p>
+<p>Laat tweedehandsplatforms in mijn stad volgen en stuur me meteen een bericht zodra camera’s, meubels, fietsen of andere spullen ver onder de marktprijs worden aangeboden.</p>
+<p>Greg had overwogen hem de Gary Vaynerchuk-opdracht te noemen, maar zag daarvan af.</p>
+<p>“Hiermee kun je een paar honderd dollar per dag verdienen,” zei hij. “Veel jonge mensen vinden nu geen werk.”</p>
+<p>Ras pakte meteen zijn telefoon.</p>
+<p>“Ik maak hiervan een schermafbeelding voor mijn kerkgroep.”</p>
+<p>Hij zei het zonder ironie. Jonge mensen, merkte hij op, hadden het moeilijk op de arbeidsmarkt. Dit was geen garantie op inkomen en geen recept voor snel succes. Maar het bood iets wat werkloosheid vaak wegneemt: een handelingsperspectief. De mogelijkheid om aandacht om te zetten in kennis, en kennis in een kleine transactie.</p>
+<p>De assistent hoefde het werk niet eens volledig over te nemen. Hij moest vooral sneller kijken dan een mens kon kijken.</p>
+<h2>8. De spiegel voor de oprichter</h2>
+<p>De vierde opdracht was bedoeld voor ondernemers die hun bedrijf alleen nog konden overzien via losse notities, tabbladen en halve lijstjes.</p>
+<p>> “Look at my docs, notes, Stripe exports, analytics, customer calls, and project lists, and build a weekly operator dashboard. I want to know what’s making money, what’s wasting time, what customers are asking for, what I should stop doing, and the three highest-leverage actions for the next week. Be blunt and show your work.”</p>
+<p>Greg wilde geen fraai overzicht voor een maandagochtendoverleg. Hij wilde een spiegel. Wat levert werkelijk geld op? Wat kost tijd zonder iets op te brengen? Welke vraag stellen klanten steeds opnieuw? En wat moet de ondernemer onmiddellijk laten vallen?</p>
+<p>“Wees bot,” stond er.</p>
+<p>Ras keek hem aan.</p>
+<p>> “You should set that up for your project.”</p>
+<p>Dat zou jij voor je eigen project moeten instellen.</p>
+<p>Greg lachte.</p>
+<p>> “I was literally just going to say that.”</p>
+<p>Dat wilde ik letterlijk net zeggen.</p>
+<p>In die korte uitwisseling zat de aantrekkingskracht van de opdracht. Veel ondernemers bezitten de gegevens al. Betalingen, gesprekken, analyses, lijstjes. Wat ontbreekt, is iemand die de rommel bijeenbrengt en zonder beleefdheden zegt wat die gegevens betekenen.</p>
+<p>Nu de software beter kon worden en de ondernemer zichzelf een helderder beeld kon geven, bleef een grotere vraag hangen: kon Astra ook werk in de echte wereld voorbereiden?</p>
+<p>Eerst kwamen nog vier opdrachten. Daarna zou Ras zijn hardware-idee tonen.</p>
+<h2>9. Eerst de assistent, dan de vacature</h2>
+<p>Gregs vijfde opdracht begon met een ongemakkelijke gewoonte die hij zichzelf had aangeleerd.</p>
+<p>> “Audit my company for agent opportunities. Look at how this business works and find the tasks we should give to agents before hiring another person.”</p>
+<p>Onderzoek mijn bedrijf op taken die we aan digitale assistenten kunnen geven voordat we nog iemand aannemen.</p>
+<p>Greg dacht zo na vóór elke nieuwe vacature. Niet omdat mensen overbodig waren, maar omdat een bedrijf vaak iemand aanneemt voor werk dat niemand ooit zorgvuldig heeft ontleed.</p>
+<p>De assistent moest per taak berekenen hoeveel tijd die nu kostte, wat fouten kostten, welke hulpmiddelen nodig waren, hoe lastig automatisering zou zijn en welke veilige eerste versie binnen dertig dagen kon draaien. Prioriteit ging naar werk dat snel geld bespaarde of omzet opleverde.</p>
+<p>“Soms is het antwoord ja,” zei Greg. “Soms nee.”</p>
+<p>Maar het nee, vond hij, moest je eerst verdienen.</p>
+<p>Een digitale assistent kon geen vertrouwen opbouwen zoals een goede verkoper dat deed. Hij kon geen verantwoordelijkheid dragen zoals een ervaren bestuurder. Maar hij kon wel terugkerend werk uitvoeren dat tot dan toe vanzelf bij de volgende werknemer terechtkwam.</p>
+<h2>10. Iemand die door de website heen gaat</h2>
+<p>Daarna kwam Greg terug bij wat Ras eerder had willen laten zien: computergebruik.</p>
+<p>> “Use the browser to complete this workflow. As you go, click through the actual sites, collect the data, fill out the forms where appropriate, and keep notes on what broke or slowed things down. When you’re done, give me the output, the repeatable SOP, and the automation plan so this can become an agent.”</p>
+<p>Gebruik de browser om deze werkwijze uit te voeren. Klik door de echte websites, verzamel gegevens, vul waar passend formulieren in en noteer wat vastloopt of tijd kost. Lever daarna de uitkomst, een herhaalbare werkinstructie en een plan om het te automatiseren.</p>
+<p>Een standaardwerkwijze, vaak afgekort tot SOP, is in feite een recept voor terugkerend werk. Als je helder kunt opschrijven hoe een taak verloopt, kun je onderzoeken of een digitale assistent dat recept kan volgen.</p>
+<p>Greg sprak over een browserbediener: een assistent die niet alleen vertelt waar je moet klikken, maar de handeling ook uitvoert. Ras was daar uitgesproken optimistisch over.</p>
+<p>Veel mensen dachten dat zoiets zou vastlopen zodra een website rommelig werd. Op een vreemde knop. Een onleesbaar formulier. Een overheidspagina die door de jaren heen was dichtgegroeid met uitzonderingen en waarschuwingen.</p>
+<p>Ras noemde de website van de Canada Revenue Agency, de Canadese belastingdienst.</p>
+<p>“Iedereen in Canada weet hoe verschrikkelijk die site is,” zei hij. “Wat een afgrijselijk monster.”</p>
+<p>Hij wachtte even.</p>
+<p>> “If the government’s watching, I’m joking.”</p>
+<p>Maar zijn ervaring met Astra was geen grap. Google had hem niet gebracht waar hij moest zijn. Astra had zich door een berg pagina’s gewerkt en precies gevonden wat hij zocht.</p>
+<p>> “So it really is that good.”</p>
+<p>Het is dus echt zó goed.</p>
+<p>“Voor honderd procent,” zei Greg.</p>
+<h2>11. De fout die geen foutmelding geeft</h2>
+<p>De zevende opdracht bouwde een nachtploeg voor kwaliteitscontrole.</p>
+<p>> “Every night, open my app on a real phone, go through sign-up, check out the main flows, and screenshot anything that’s broken or confusing.”</p>
+<p>Open elke nacht mijn app op een echte telefoon. Doorloop de aanmelding en de belangrijkste handelingen. Maak schermafbeeldingen van alles wat kapot of verwarrend is.</p>
+<p>Greg bleef hangen bij dat laatste woord.</p>
+<p>> “Confusing is a key word too.”</p>
+<p>Verwarrend is óók een sleutelwoord.</p>
+<p>Bij kwaliteitscontrole denken ontwikkelaars vaak aan zichtbare storingen: een knop die niets doet, een betaalpagina die vastloopt, een account dat niet wordt aangemaakt. Maar een toepassing kan technisch feilloos draaien en toch klanten verliezen.</p>
+<p>Misschien begrijpt iemand niet wat de volgende stap is. Misschien staat er te veel informatie op de verkeerde plek. Misschien doet het systeem precies wat het moet doen, maar niet wat de gebruiker denkt dat het doet.</p>
+<p>“Het hoeft niet per se een technische fout te zijn,” zei Greg. “Het kan ook een fout in de gebruikservaring zijn.”</p>
+<p>Verwarring laat geen foutmelding achter in de code. Ze verschijnt als een klant die stilletjes vertrekt.</p>
+<h2>12. Eén blik per maand</h2>
+<p>De achtste opdracht ging over concurrenten.</p>
+<p>> “Sign up to my top three competitors, use their products, monitor their emails, and send me a monthly report on every new feature, price change, and thing they do better than us.”</p>
+<p>Meld je aan bij mijn drie belangrijkste concurrenten, gebruik hun producten, volg hun e-mails en stuur me maandelijks een overzicht van nieuwe functies, prijswijzigingen en alles wat zij beter doen dan wij.</p>
+<p>Ras zag twee soorten oprichters.</p>
+<p>De eerste soort raakte geobsedeerd door de concurrentie. Zulke ondernemers keken dagelijks naar andere bedrijven, imiteerden iedere nieuwe functie en verloren uiteindelijk hun eigen koers. De tweede soort keek helemaal niet. Zij ontdekten pas maanden later dat de markt verschoven was, dat klanten iets nieuws verwachtten en dat een concurrent al lang een probleem had opgelost dat zij nog niet eens zagen.</p>
+<p>De maandelijkse rapportage bood een middenweg.</p>
+<p>> “Every month, you find out what you need to know, and that’s it.”</p>
+<p>Elke maand ontdek je wat je moet weten. En daar blijft het bij.</p>
+<p>“Het heet niet voor niets concurrentie,” zei Greg. “Je moet rondkijken.”</p>
+<p>“Maar innovatie wint uiteindelijk,” antwoordde Ras.</p>
+<p>De kunst was niet om blind te zijn voor de markt. De kunst was om niet naar de markt te staren tot je vergeet zelf iets nieuws te maken.</p>
+<h2>13. Een spel dat iets verkoopt</h2>
+<p>De negende en laatste opdracht leek op het eerste gezicht alsnog het soort demonstratie dat Ras aan het begin had willen vermijden: een spelletje.</p>
+<p>Maar Greg gaf er een andere bedoeling aan.</p>
+<p>> “Build a browser game around this mechanic. Don’t just make a cute demo. Add progression, tension, scoring, failure, polish, and one reason someone would send it to a friend.”</p>
+<p>Bouw een spel voor in de browser rond deze spelregel. Maak niet alleen een aardige proefversie, maar voeg ontwikkeling, spanning, punten, falen, afwerking en één reden toe waarom iemand het naar een vriend zou sturen.</p>
+<p>Die laatste eis was cruciaal. Een spel mocht niet slechts leuk zijn. Het moest iemand een aanleiding geven om een bericht te sturen.</p>
+<p>Daarna kwam het zakelijke deel. Voeg een mogelijkheid toe om een e-mailadres of telefoonnummer achter te laten. Koppel het spel aan het kernproduct van het bedrijf. Wie tandpasta, een cursus of software verkocht, gebruikte het spel niet als eindpunt, maar als ingang.</p>
+<p>Ras had genoeg automatisch gemaakte schietspellen gezien.</p>
+<p>> “I have Call of Duty at home.”</p>
+<p>Ik heb thuis al Call of Duty.</p>
+<p>Greg lachte. Precies. Een spel dat alleen bewijst dat een model een spel kan maken, bewijst weinig. Een spel dat aandacht omzet in een klantrelatie, kan iets betekenen.</p>
+<p>Toen verdween Gregs scherm.</p>
+<p>“Goed,” zei hij. “Ik heb jou de mijne laten zien. Laat jij mij de jouwe zien.”</p>
+<h2>14. De luidspreker die niet bestond</h2>
+<p>Ras aarzelde even voordat hij begon.</p>
+<p>“Maak me alsjeblieft niet belachelijk, mensen die kijken.”</p>
+<p>Hij liep al langer rond met een idee voor een hardware-start-up. Het begon, zoals zoveel technische dromen, bij Jarvis uit <em>Iron Man</em>: een assistent die niet opgesloten zat in een telefoon of browservenster, maar aanwezig was in een ruimte. Iets dat luisterde, antwoordde en handelde.</p>
+<p>Ras bouwde aan een eigen persoonlijke assistent, Ruth, die hij binnenkort wilde uitbrengen. Hij wilde Ruth niet alleen op een scherm laten wonen. Hij wilde een fysiek voorwerp maken: een slimme luidspreker voor thuis.</p>
+<p>Apple en Amazon hadden volgens hem al bewezen dat mensen zulke apparaten wilden. De HomePod vond hij misschien wel de mooiste luidspreker op de markt.</p>
+<p>“Maar Siri is verschrikkelijk.”</p>
+<p>Daar zat de frustratie. Mooie hardware. Zwakke intelligentie.</p>
+<p>Zijn eerste gedachte was eenvoudig: koop een HomePod, kraak de beveiliging en zet Ruth erop.</p>
+<p>Hij zocht het uit.</p>
+<p>Het kon niet.</p>
+<p>Vroeger was dat waarschijnlijk het einde van het idee geweest. Een gesloten apparaat, een onmogelijke ingreep, op naar het volgende plan. Maar Ras stelde een andere vraag.</p>
+<p>Wat als ik hem zelf bouw?</p>
+<p>Hij vertelde Astra dat Blender op zijn computer stond. Blender is ontwerpsoftware waarin je driedimensionale voorwerpen kunt tekenen en samenstellen voordat je ook maar één onderdeel bestelt.</p>
+<p>“Kun jij daarmee werken?” vroeg Ras.</p>
+<p>Astra maakte verbinding. Ras vroeg om een luidspreker te ontwerpen die op een HomePod leek.</p>
+<p>Dat deed het.</p>
+<p>Daarna gaf hij de assistent toegang tot de broncode van Ruth en stelde hij de vraag die een halfuur eerder nog belachelijk ambitieus had gevoeld:</p>
+<p>> “I want to build an AI home speaker. I want to load my agent, Ruth, from this repository. How would I build it myself?”</p>
+<p>Astra kwam terug met een eerste antwoord: een Raspberry Pi en een luidspreker. De Raspberry Pi is een kleine, betaalbare computer ter grootte van een handpalm. Hobbyisten gebruiken hem voor eenvoudige projecten; in dit geval zou hij krachtig genoeg zijn om Ruth te laten draaien.</p>
+<p>Ras voelde opwinding opkomen.</p>
+<p>“Ik dacht niet dat het mogelijk was,” zei hij. “Ik dacht niet dat ik dit kon.”</p>
+<p>Astra tekende een schema. Het stelde een lijst samen van onderdelen voor een eerste fysieke proefversie. De schatting: 350 tot 450 dollar, vóór belasting.</p>
+<p>Ras woonde in Canada. Hij wist wat dat betekende.</p>
+<p>“Dat is hier eerder zeshonderd of zevenhonderd dollar.”</p>
+<p>Hij vroeg om links naar Amazon.ca. Astra gaf ze. De winkelmand kwam uit op 561 dollar, nog steeds zonder belasting.</p>
+<p>En toen sloeg de paniek toe.</p>
+<p>In zijn hoofd had Ras de spullen al gekocht.</p>
+<p>“Wat heb ik gedaan?” dacht hij. “Ik weet niets van hardware.”</p>
+<p>Dat is het moment waarop veel ideeën sterven. Niet omdat ze onmogelijk zijn, maar omdat ze echt worden. Er moet geld worden uitgegeven. Er komen kabels, aansluitingen en onderdelen waarvan je niet weet hoe je ze moet vasthouden, laat staan gebruiken. Tussen een ingeving en een werkbank gaapt plotseling een kloof.</p>
+<p>Ras klikte niet weg.</p>
+<p>Hij vroeg Astra of het in Blender kon laten zien hoe de opstelling eruitzag.</p>
+<p>Op het scherm verscheen een driedimensionaal bouwplan. Hier lag de Raspberry Pi. Daar kwam de luidspreker. Dit was de aansluiting. Daar zat de spraakherkenning. Geen plat elektrisch schema waar alleen een ingenieur wijs uit kon worden, maar een ruimtelijke uitleg: dit past hier, die kabel gaat daarheen.</p>
+<p>“Toen dacht ik: ik kan dit bouwen.”</p>
+<p>Astra ging verder. Zodra de eerste proefversie werkte, kon Ras een behuizing laten maken die werkelijk op een HomePod leek. In een andere gespreksdraad — die Ras niet wilde tonen omdat er e-mails in stonden — noemde de assistent zelfs Chinese leveranciers die de buitenkant zouden kunnen produceren.</p>
+<p>Toen kwam de code.</p>
+<p>Ras vertelde welke onderdelen hij wilde gebruiken en vroeg welke wijzigingen Ruth nodig had om op de nieuwe hardware te draaien. Astra schreef de aanpassingen en maakte een wijzigingsvoorstel in de broncode aan: een pakket wijzigingen dat Ras kon controleren en samenvoegen.</p>
+<p>“Raad eens wat het deed, Greg?” zei Ras. “Het schreef de code en maakte een wijzigingsvoorstel.”</p>
+<p>Hij opende het voorstel. Hij las de uitleg. Hij voegde de wijzigingen samen.</p>
+<p>Daarna vatte hij het zelf samen, bijna verbaasd over de snelheid waarmee zijn idee van vorm was veranderd.</p>
+<p>> “We went from idea, through exploration and setup, to an initial prototype that cost $500.”</p>
+<p>We gingen van een idee, via onderzoek en voorbereiding, naar een eerste prototype van vijfhonderd dollar.</p>
+<p>Astra had hem getoond hoe alles moest worden aangesloten. Het had de onderdelen benoemd, de constructie zichtbaar gemaakt en de code voorbereid die op de Raspberry Pi moest draaien. Het hele gesprek had ongeveer een halfuur geduurd.</p>
+<p>De luidspreker stond nog niet op zijn bureau. Maar het idee was geen losse fantasie meer. Het had een prijskaartje, een boodschappenlijst, een bouwplan en werkende software.</p>
+<h2>15. Een oude PlayStation als oefenruimte</h2>
+<p>Ras had nog een voorbeeld.</p>
+<p>Er stond een PlayStation 4 bij hem thuis stof te verzamelen. Hij gebruikte hem niet om te gamen. Dus vroeg hij Astra:</p>
+<p>> “I have a PS4. Based on what you know about me, I don’t plan on gaming with it. What can I do?”</p>
+<p>De assistent stelde onder meer voor er een mediaserver van te maken. Maar één mogelijkheid bleef hangen: verander hem in een leerproject voor Linux.</p>
+<p>Linux is een open besturingssysteem dat gebruikers veel meer controle geeft dan de gesloten programmatuur op een spelcomputer. Ras overwoog zijn PlayStation volledig te wissen en opnieuw te beginnen. Astra vertelde hem dat een PS4 waarop hij via een beveiligde verbinding kon inloggen een uitstekend oefenlab zou zijn.</p>
+<p>“People have been talking about Omarchy,” zei Ras.</p>
+<p>Omarchy was een Linux-distributie: een kant-en-klare versie van Linux, met eigen instellingen en programma’s. Ras vroeg of die op een PlayStation 4 kon draaien.</p>
+<p>Het antwoord was ja.</p>
+<p>Ras was web- en mobiele ontwikkelaar. Netwerken en besturingssystemen lagen, zoals hij zelf zei, “een beetje boven mijn niveau”. Toch had hij de afgelopen maanden een thuislaboratorium ingericht en een paar DGX-machines gekocht, krachtige computers voor rekenwerk met kunstmatige intelligentie.</p>
+<p>Niet omdat hij ineens overal deskundig in was.</p>
+<p>Maar omdat onbekend terrein hem steeds minder vaak terugstuurde.</p>
+<h2>16. De nieuwe werkbank</h2>
+<p>Greg luisterde en dacht terug aan 2024. Toen braken diensten als Lovable, Bolt, Replit en v0 door. Plotseling konden mensen software bouwen door in gewone taal te beschrijven wat ze wilden. Er ontstond een cultuur van snel experimenteren met een taalmodel als technische partner.</p>
+<p>Websites verschenen. Apps. Landingspagina’s.</p>
+<p>“De gevolgen daarvan spelen nog steeds,” zei Greg.</p>
+<p>Wat Ras had laten zien, voelde voor hem als een vergelijkbare verschuiving, maar dan voor fysieke producten. Eerder had Ras een voltijdse driedimensionale ontwerper of ingenieur moeten worden om zelfs maar te begrijpen waar hij moest beginnen.</p>
+<p>“Ik zou het eerlijk gezegd niet eens hebben geprobeerd,” zei Greg. “Het is intimiderend.”</p>
+<p>De meeste mensen, zei hij, vinden het prettig te weten wat ze doen. Hardware betreden zonder ervaring voelt als een werkplaats binnenlopen waar iedereen een taal spreekt die jij niet beheerst.</p>
+<p>Nu kon iemand voor twintig, vijftig of tweehonderd dollar per maand een geduldige begeleider naast zich hebben. Een assistent die geen zucht slaakte bij een domme vraag. Die een schema tekende, een fout opspoorde, een plan herschreef en uitlegde waarom een kabel precies daar moest worden aangesloten.</p>
+<p>Greg had zelfs al een nieuw bureau besteld.</p>
+<p>“Dat wordt mijn hardwarestation,” zei hij. “Ik ga gewoon willekeurige dingen bouwen.”</p>
+<p>Misschien zou niets daarvan een product worden. Dat deed er niet eens zoveel toe. Het plezier van leren kon leiden tot een baan, een bedrijf, een volgend idee.</p>
+<p>> “You owe it to yourself to do this stuff.”</p>
+<p>Je bent het aan jezelf verplicht om dit soort dingen te doen.</p>
+<p>Ras maakte het nog eenvoudiger. Ontwerp een voorwerp dat je kunt printen. Maak een CAD-bestand, een technisch bouwbestand. Bouw een model in Blender. Ontwerp een printplaat. Maak iets.</p>
+<p>Kleine nicheproducten konden verrassend goede bedrijven worden. De markt hoefde niet enorm te zijn. Als een product een echt probleem oploste en weinig kostte om te ontwikkelen, kon het genoeg opleveren.</p>
+<p>Ras dacht dat deze verschuiving duizenden bedrijven zou voortbrengen met meer dan een miljoen dollar omzet per jaar. Hij had er al een naam voor: fysieke productontwikkeling met kunstmatige intelligentie, met dezelfde experimenteerdrift die softwarebouw toegankelijk had gemaakt.</p>
+<p>De vraag in zijn hoofd was niet langer: welk groot bedrijf kan ik ooit oprichten?</p>
+<p>Het was eenvoudiger.</p>
+<p>Welk klein product lost een werkelijk probleem op? Hoe snel kan ik het maken? En hoe bereik ik de mensen die erop wachten?</p>
+<p>Aan het einde kwam het gesprek terug bij de prijs. Ras wist welk abonnement hij als eerste zou opzeggen als hij moest kiezen.</p>
+<p>Zijn Anthropic-abonnement.</p>
+<p>“Astra is zó goed.”</p>
+<p>Tegelijk wist hij dat de abonnementsprijs niet de werkelijke kosten weerspiegelde. Hij had Astra laten berekenen wat zijn gebruik in één week zou hebben gekost tegen de normale tarieven voor rechtstreeks modelgebruik.</p>
+<p>Meer dan 24.000 dollar.</p>
+<p>Zelf betaalde hij slechts enkele abonnementen van tweehonderd dollar per maand. Iemand droeg voorlopig de rekening voor een niveau van technische begeleiding dat voor veel zelfstandigen en kleine teams anders onbetaalbaar zou zijn.</p>
+<p>“Gebruik het nu,” zei Ras.</p>
+<p>Niet om nog een keurige landingspagina te maken. Niet om een schietspel te bouwen dat niemand doorstuurt. Gebruik het om de ideeën te onderzoeken die vorige maand nog te technisch, te duur of te ingewikkeld leken.</p>
+<p>> “Dream big, act big, and build big.”</p>
+<p>De luidspreker van Ras stond nog steeds niet op zijn bureau. De onderdelen moesten nog worden aangesloten. Ruth moest nog voor het eerst vanuit een fysieke behuizing spreken.</p>
+<p>Misschien werd de eerste versie lelijk. Misschien haperde de spraakherkenning. Misschien eindigde het project als een verzameling kabels en onderdelen op een werkbank.</p>
+<p>Maar dat was niet langer de belangrijkste vraag.</p>
+<p>Iemand met een jeugdige droom, een oude PlayStation, beperkte hardwarekennis en een halfuur tijd hoefde niet meer te kiezen tussen fantaseren en jarenlang omscholen.</p>
+<p>Hij kon beginnen.</p>]]></content:encoded>
+    </item>
     <item>
       <title>De Intelligentie Verplaatst Zich Naar Binnen</title>
       <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml#2026-09-09_The Startup Ideas Podcast_Local AI Clearly Explained</link>
