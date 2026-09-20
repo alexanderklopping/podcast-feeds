@@ -1,9 +1,7 @@
 {
-  "last_run": "2026-09-19T05:54:22.931770",
-  "success_count": 4,
-  "total_count": 5,
-  "errors": [
-    "A.I. Safety Goes Mainstream + a \u2018Hard Fork\u2019 Exit AMA"
-  ],
-  "status": "partial"
+  "last_run": "2026-09-20T05:53:14.282456",
+  "success_count": 3,
+  "total_count": 3,
+  "errors": [],
+  "status": "ok"
 }
