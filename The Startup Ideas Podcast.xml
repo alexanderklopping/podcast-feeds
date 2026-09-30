@@ -5,8 +5,136 @@
     <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml</link>
     <description>Artikelen gegenereerd van The Startup Ideas Podcast podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:45:03 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>De Nieuwe Voordeur</title>
+      <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml#2026-09-30_The Startup Ideas Podcast_OpenAI DevDay_ Dots_ Agents _ _100B Opportunities</link>
+      <description>Op DevDay 2026 presenteerde OpenAI meer dan twintig nieuwe functies. De meeste waren verbeteringen: sneller, veiliger, krachtiger. Maar Greg Eisenberg zag er vier die iets fundamentelers deden. Samen veranderden ze niet alleen wat software kon, maar ook hoe een onderneming klanten zou kunnen vind...</description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-30_The Startup Ideas Podcast_OpenAI DevDay_ Dots_ Agents _ _100B Opportunities</guid>
+      <content:encoded><![CDATA[<h1>De Nieuwe Voordeur</h1>
+<p>Op DevDay 2026 presenteerde OpenAI meer dan twintig nieuwe functies. De meeste waren verbeteringen: sneller, veiliger, krachtiger. Maar Greg Eisenberg zag er vier die iets fundamentelers deden. Samen veranderden ze niet alleen wat software kon, maar ook hoe een onderneming klanten zou kunnen vinden, werk zou kunnen uitvoeren en geld zou kunnen verdienen. Niet via reclame of een appwinkel, maar via een agent die een probleem herkent en, zonder om toestemming te vragen, de juiste partij inschakelt.</p>
+<p>Greg Eisenberg had niet verwacht dat hij die dag een aflevering zou opnemen.</p>
+<p>Bijna zestig minuten lang had hij Sam Altman op het podium zien staan. Nieuwe modellen. Nieuwe beveiliging. Nieuwe tools voor ontwikkelaars. Het soort presentatie waarin de ene aankondiging de volgende wegduwt voordat het applaus is verstomd. Eisenberg telde er meer dan twintig.</p>
+<p>Normaal gesproken zou hij hebben gekeken, wat aantekeningen hebben gemaakt en zijn aandacht weer hebben teruggebracht naar zijn eigen werk. Maar deze keer bleef er iets knagen.</p>
+<p>“Ik moet eerlijk met je zijn,” zei hij toen hij zijn microfoon inschakelde. “Ik dacht niet dat ik deze aflevering zou maken.”</p>
+<p>Hij stelde zich eerst opnieuw voor, alsof hij een kamer binnenstapte waarin misschien nieuwe gezichten zaten. Eisenberg was de presentator van <em>Startup Ideas</em>. Hij had drie met durfkapitaal gefinancierde bedrijven opgericht en verkocht, Reddit en TikTok geadviseerd en zich ontwikkeld tot een van die rusteloze ondernemersstemmen die minder geïnteresseerd zijn in de theorie van innovatie dan in de vraag wat iemand er maandagochtend mee kan bouwen.</p>
+<p>Hij sprak tot mensen die, zoals hij het zag, niet wilden blijven kijken vanaf de zijlijn. Mensen die hun eigen bedrijf wilden beginnen. Die geld wilden verdienen rond AI. Voor hen wilde hij “door de ruis snijden”.</p>
+<p>Zijn belofte was eenvoudig: aan het einde van de aflevering zouden zij weten welke aankondigingen ertoe deden, welk denkkader daarbij hoorde en waar misschien een nieuw bedrijf verborgen lag. Niet ergens in een verre toekomst, maar in de producten die die middag waren gelanceerd.</p>
+<p>Er zouden miljarden dollars aan transacties door ChatGPT kunnen gaan lopen, zei hij. Misschien, over tien of twintig jaar, zelfs biljoenen. Hij wilde voorzichtig blijven. Laten we het houden op miljarden, zei hij bijna nuchter. Dat was al groot genoeg.</p>
+<p>Daarna begon hij waar volgens hem alles begon.</p>
+<p>“Laten we het hebben over Dots.”</p>
+<p>Dots was OpenAI’s platform voor persoonlijke agenten, het antwoord op vergelijkbare initiatieven van Meta en Instinct. De naam klonk onbeduidend, bijna vriendelijk. Maar Eisenberg zag er een nieuwe voordeur in.</p>
+<p>Sam Altman had die dag gezegd dat ChatGPT 1,2 miljard wekelijkse actieve gebruikers had. Het getal was niet alleen indrukwekkend door zijn omvang. Het beschreef een gewoonte die al diep in het gedrag van mensen was gezakt: wie vastloopt, vraagt ChatGPT. Wie iets wil regelen, begint daar. Wie niet weet waar hij moet zoeken, typt zijn probleem in een venster.</p>
+<p>Met Dots zou die vraag niet langer hoeven eindigen in een antwoord.</p>
+<p>Iemand kon zeggen: ik krijg mijn vergunning niet rond. Of: ik zoek een restaurant dat dit specifieke gerecht serveert. Of eenvoudiger nog: ik heb dit nodig, regel het.</p>
+<p>ChatGPT moest dan begrijpen welk werk achter die woorden school. Daarna zou het de juiste plug-in selecteren: feitelijk een mini-app, klein en gespecialiseerd, gebouwd om één taak goed uit te voeren. Niet zomaar een suggestie voor een vergunningendienst, maar een dienst die de vergunning daadwerkelijk kon aanvragen, ontbrekende stukken kon opsporen, de voortgang bewaakte en met een uitkomst terugkwam.</p>
+<p>Goedgekeurd.</p>
+<p>Afgewezen.</p>
+<p>Of: dit ontbreekt nog.</p>
+<p>“Je kunt worden ingehuurd voordat de klant je naam kent,” zei Eisenberg.</p>
+<p>In de oude internetwereld vocht ieder bedrijf eerst om aandacht. Het moest hoog in Google eindigen, gebruikers overtuigen een appwinkel te openen, advertenties inkopen, beoordelingen verzamelen, een herkenbaar merk bouwen. Pas daarna kreeg het misschien de kans om werk te doen.</p>
+<p>Dots draaide die volgorde om. De klant hoefde niet te weten welk bedrijf bestond. Hij hoefde niet eens te weten welke dienst hij precies zocht. Hij hoefde alleen het probleem te formuleren. Als de plug-in van een bedrijf de juiste was voor dat probleem — en als hij aantoonbaar een goed resultaat leverde — kon ChatGPT hem inschakelen.</p>
+<p>OpenAI had eerder al plug-ins geprobeerd. Eisenberg wilde daar zorgvuldig in zijn. Altman had niet letterlijk gezegd dat plug-ins waren mislukt. Dat was zijn formulering niet. Maar, vertelde Eisenberg, Altman had wel iets gezegd dat neerkwam op gemengde reacties. Geen euforie, geen onverdeeld succes.</p>
+<p>Eisenberg parafraseerde hem nadrukkelijk. Juist daarom was de nieuwe aankondiging zo veelzeggend. OpenAI leek zich niet terug te trekken van het idee. Het verdubbelde zijn inzet.</p>
+<p>ChatGPT moest niet alleen een chatbot zijn die tekst produceerde. Het moest een toepassingsomgeving worden, een plek waar externe bedrijven beschikbaar kwamen zodra een gebruiker hen nodig had.</p>
+<p>“Dit is het nieuwe app-ecosysteem,” zei Eisenberg. “Je moet dat in je hoofd stampen.”</p>
+<p>Hij zag de consequenties meteen. Als een bedrijf zich richtte op bouwvergunningen, moest het niet langer alleen uitleggen welke formulieren nodig waren. Het moest de aanvraag kunnen indienen. Als het een dienst voor douane-afhandeling bouwde, moest het niet alleen beschrijven hoe een container door de haven kwam. Het moest de ontbrekende verklaring herkennen, de juiste partij inschakelen en de zending door het proces trekken.</p>
+<p>Niet een antwoord verkopen, maar een voltooid resultaat.</p>
+<p>Eisenberg liet die gedachte even staan. Dan ging hij terug naar de DevDay-pagina, alsof hij met zijn cursor opnieuw langs de aankondigingen gleed.</p>
+<p>“Laten we teruggaan,” zei hij. “Je ziet hier het platform voor persoonlijke agenten.”</p>
+<p>Op die pagina wachtte de volgende bouwsteen.</p>
+<p>Decisions API.</p>
+<p>Een week eerder had Eisenberg een video gemaakt over Jeb, een product voor geautomatiseerde besluitvorming dat hem had gegrepen. Niet omdat het mooie teksten kon schrijven, maar omdat het kon kiezen. Eisenberg zag in Decisions API onmiddellijk OpenAI’s antwoord op Jeb.</p>
+<p>De techniek was minder mysterieus dan de naam deed vermoeden. Een ontwikkelaar geeft het systeem context — tekst, afbeeldingen, gegevens — en legt vooraf een begrensde reeks mogelijke antwoorden vast. Geen model dat eindeloos speculeert, maar een systeem dat binnen duidelijke kaders een bruikbare beslissing neemt.</p>
+<p>De drie kernfuncties waren even concreet als alledaags: inhoud classificeren, verzoeken naar de juiste bestemming leiden en bepalen wat de volgende stap van een agent moet zijn.</p>
+<p>Een klantenservicebericht binnenkrijgen en weten of het over facturering, een technisch defect of een opzegging gaat: classificatie. Een aanvraag naar de juiste afdeling sturen: routering. Een agent laten besluiten of hij aanvullende informatie moet vragen, een formulier moet invullen of een mens moet inschakelen: de volgende actie kiezen.</p>
+<p>Dat was de belofte van Decisions API: de intelligentie van Luna richten op een beperkte verzameling vragen, met eindige, vooraf bepaalde antwoorden.</p>
+<p>Een ervaren medewerker doet de hele dag iets vergelijkbaars. Twintig dossiers op een bureau. Geen tijd voor filosofie. Doorsturen. Goedkeuren. Afwijzen. Escaleren.</p>
+<p>Decisions API was nog slechts beperkt beschikbaar, een voorproefje. Maar Eisenberg hoorde in die beperking vooral een uitnodiging. Hij was benieuwd of OpenAI’s systeem slechter, even goed of beter zou blijken dan Jeb.</p>
+<p>“Dat moeten we nog bepalen,” zei hij. “Maar we komen er snel achter.”</p>
+<p>Hij dacht direct aan toepassingen waar zulke beslissingen geld waard waren. Ontwerp van gebruikersinterfaces bijvoorbeeld. Welke schermafbeelding in een appwinkel leidt tot de meeste installaties? Welke versie van een verkooppagina zorgt ervoor dat minder bezoekers vertrekken? Welke volgorde, kleur, kop of knop maakt het verschil tussen interesse en een aankoop?</p>
+<p>Een direct-responsepagina is geen kunstwerk dat alleen op smaak wordt beoordeeld. Zij is een instrument dat gedrag moet uitlokken. In plaats van een team eindeloos te laten vergaderen over wat “sterker voelt”, kon een bedrijf alternatieven voorleggen, vooraf bepalen waarop ze beoordeeld moesten worden en de uitkomst verbinden aan werkelijke conversiegegevens.</p>
+<p>Eerst kiezen. Dan meten.</p>
+<p>De volgende lancering bracht het verhaal van denken naar doen.</p>
+<p>De Agents API kreeg ondersteuning voor computergebruik. Ontwikkelaars konden agenten bouwen die niet in een chatvenster bleven steken, maar software bedienden om taken af te ronden. Ze konden klikken, gegevens overzetten, formulieren invullen en een proces doorlopen totdat het werk klaar was.</p>
+<p>OpenAI bundelde daarin verschillende mogelijkheden uit Codex: meerdere agenten die samen konden werken, hulpmiddelen konden zoeken en aanroepen, en hun context compact konden houden. Die laatste functie klonk technisch, maar loste een praktisch probleem op. Een langdurige taak kan vastlopen wanneer een agent verdrinkt in zijn eigen geheugen; contextcompactie houdt alleen vast wat voor de volgende stap nodig is.</p>
+<p>OpenAI beheerde de infrastructuur. Daardoor konden ondernemers hun aandacht richten op wat niet in de infrastructuur zat: de klant begrijpen, een specifieke sector kennen, vertrouwen opbouwen en een resultaat afleveren.</p>
+<p>Eisenberg noemde zulke toepassingen eerder “verticale harnassen”. Een algemeen model beschikte over enorme kracht, maar wist zonder richting niet welk detail beslissend was. Een verticaal harnas leidde die kracht door één beroep, één bedrijfstak, één verzameling regels en uitzonderingen.</p>
+<p>Een algemene agent kon een browser bedienen. Een gespecialiseerde agent wist wat er moest gebeuren wanneer een container in een haven vaststond. Hij herkende welk document ontbrak, wist wanneer de douane-expediteur moest worden gebeld en wanneer het dossier naar een mens moest worden doorgezet.</p>
+<p>Eenzelfde aanpak kon worden toegepast op architectonische CAD-bestanden, de digitale bouwtekeningen waarin één verkeerd element gevolgen kan hebben voor een heel project. Of op franchisecontracten, waar een agent niet alle juridische documenten van de wereld hoefde te begrijpen, maar wel precies moest weten welke bepalingen in dit ene type overeenkomst gevaarlijk konden zijn.</p>
+<p>“Ga uitzoeken wat je kunt bouwen,” zei Eisenberg. “Hoe je jezelf kunt uitbreiden — en je bedrijf kunt uitbreiden — naar deze wereld.”</p>
+<p>Hij klonk opgewonden omdat er volgens hem nog weinig mensen serieus op dit terrein werkten. Niet aan chatbots die achteraf tegen een bestaand product waren aangeplakt, maar aan AI-inheemse toepassingen: bedrijven die vanaf het eerste ontwerp uitgingen van agenten die daadwerkelijk werk konden verrichten.</p>
+<p>Toen kwam de aankondiging die hem het meest bijbleef.</p>
+<p>Hij keek opnieuw naar de DevDay-pagina. Misschien stond het niet eens op die pagina, zei hij. Zo stilletjes had OpenAI het naar buiten gebracht.</p>
+<p>Toen hij het zag, “blies het mijn hoofd een beetje op”.</p>
+<p>Sign in with ChatGPT.</p>
+<p>De functie klonk droog. Gebruikers konden bij externe toepassingen inloggen met hun ChatGPT-account en daar hun bestaande tokenbundel gebruiken. Tokens zijn de rekeneenheden waarvoor een model tekst verwerkt, beelden analyseert of een opdracht uitvoert. Voor ontwikkelaars waren ze altijd een frictie geweest: elke vraag van een gebruiker had een prijs. Nog voordat iemand betaalde, draaide de meter al.</p>
+<p>Dat maakte een gratis AI-app moeilijk. Wie gratis gebruik aanbood, betaalde zelf voor de inference — de rekenkracht die nodig is om het model een antwoord te laten genereren.</p>
+<p>Met een ChatGPT-aanmelding verschoof die rekensom. De gebruiker bracht het abonnement mee dat hij al had. Zijn eigen bundel betaalde het basale modelgebruik.</p>
+<p>Eisenberg moest denken aan Facebook Login, de knop die ooit op talloze websites verscheen. Die knop bespaarde gebruikers wachtwoorden en formulieren, maar bracht ook een netwerk mee. Yelp had er destijds van geprofiteerd. Wie inlogde, zag niet alleen lokale recensies, maar ook welke restaurants vrienden hadden beoordeeld. Het sociale netwerk gaf aanbevelingen een vertrouwd gezicht. Yelp groeide uit tot een miljardenbedrijf.</p>
+<p>ChatGPT bracht geen vriendenlijst mee. Het bracht iets anders mee: reeds betaalde AI-capaciteit.</p>
+<p>Daarna volgde wat Eisenberg zelf zijn “woordenstroom” noemde. Zijn gedachten gingen sneller dan zijn formuleringen.</p>
+<p>Mensen zagen een nieuwe AI-app en dachten: moet ik nu werkelijk nog eens twintig of dertig dollar per maand betalen voor nóg een abonnement?</p>
+<p>Nee, zei hij. Je logt in met ChatGPT en gebruikt het pakket dat je al hebt.</p>
+<p>“Als je slim bent, maak je kernapp gratis.”</p>
+<p>Dat was geen losse groeihack. Het veranderde de economie van kleine AI-bedrijven. In het verleden kon een maker de kernapp niet gratis weggeven, omdat iedere gebruiker direct inferencekosten veroorzaakte. Nu kon de gratis toepassing de voordeur worden. Daarna kon een bedrijf gebruikers doorverkopen naar andere producten en diensten.</p>
+<p>Geavanceerde functies. Extra gegevens. Teamgebruik. Samenwerking. Controleerbaarheid. Zakelijke beveiliging. Een gespecialiseerde workflow. Een premiumdienst rondom de software.</p>
+<p>“Verkoop workflows in plaats van tokens.”</p>
+<p>Het was een zin die een hele generatie AI-start-ups in twee groepen verdeelde. Aan de ene kant bedrijven die toegang tot een model opnieuw verpakten. Aan de andere kant bedrijven die een eigen proces bezaten: een manier van werken die een model alleen niet zomaar kon kopiëren.</p>
+<p>Een agent die rommelige CAD-bestanden opschoonde. Een onderzoeker die voortdurend één wetenschappelijk vakgebied volgde. Een desktopprogramma dat Shopify-catalogi corrigeerde. Een videoproductietool gebouwd rond één terugkerende montageroutine. Een contractbeoordelaar voor één soort franchiseovereenkomst.</p>
+<p>Kleine categorieën. Te smal om ooit een kernfunctie van OpenAI te worden. Maar groot genoeg, als de doelgroep precies genoeg pijn voelde, om geld te verdienen aan aanvullende diensten en een betrouwbare workflow.</p>
+<p>“Ik kan er eigenlijk niet mee ophouden eraan te denken,” zei Eisenberg.</p>
+<p>De gratis app bood nog iets anders: een relatie. Een e-mailadres. Soms een telefoonnummer. De mogelijkheid om gebruikers terug te halen, hen een volgende dienst aan te bieden, een merk op te bouwen of een productfamilie te creëren. De gratis agent was niet het eindpunt. Hij was het begin van een distributiekanaal.</p>
+<p>Daarna veranderde Eisenberg van tempo. Hij had de producten behandeld. Nu wilde hij het denkkader geven.</p>
+<p>“Ik wil het hebben over het mentale model dat ik heb voor deze nieuwe wereld.”</p>
+<p>Dots. Decisions API. De Agents API. Sign in with ChatGPT. Hoe bouw je een bedrijf wanneer die vier samenkomen?</p>
+<p>Zijn antwoord bestond uit vier stappen.</p>
+<p>“Trigger, beslissing, actie, feedback.”</p>
+<p>Eerst is er een trigger: een factuur vervalt, de voorraad raakt op, de belastingaangifte komt eraan. Iets in de werkelijkheid vraagt om aandacht. Misschien vraagt een gebruiker ChatGPT om hulp. Misschien ziet de agent de aanleiding zelf.</p>
+<p>Dan volgt de beslissing. Wat moet er nu gebeuren?</p>
+<p>Daarna de actie: een correctie, een aanvraag, een boeking, een verzending, een bericht aan een instantie.</p>
+<p>En ten slotte de feedback. Is het goedgekeurd? Afgewezen? Is de voorraad aangevuld? Is de container vrijgegeven?</p>
+<p>Hij maakte het tastbaar met een importeur wiens container in de haven bleef steken. De klant wachtte. De deadline kwam dichterbij. Dat was de trigger. De agent las de documenten en stelde vast welke verklaring ontbrak: de beslissing. Vervolgens schakelde een gespecialiseerde toepassing de juiste douane-expediteur in, vulde gegevens aan en diende de aanvraag in: de actie. Daarna kwam het antwoord terug. Vrijgegeven. Afgewezen. Of: aanvullende informatie nodig.</p>
+<p>De cyclus sloot zich.</p>
+<p>Volgens Eisenberg zouden de sterkste bedrijven twee van drie onderdelen bezitten: de trigger, de actie en de feedback. De beslissing zelf was waardevol, maar vaak vervangbaar. Wie wist wanneer een probleem ontstond, het kon oplossen en kon aantonen dat het was opgelost, bezat een veel stevigere positie.</p>
+<p>Toen hij zijn luisteraars opriep te brainstormen, werd hij opvallend dwingend.</p>
+<p>“Richt je op die drie dingen.”</p>
+<p>Niet op de vraag welk model je kon inkopen. Niet op de vraag welke prompt je achter een betaalmuur kon zetten. Maar op wat van jou bleef: specialistische kennis, toegang tot externe systemen, samenwerking en controleerbaarheid, een netwerk van mensen of leveranciers, een meetbaar zakelijk resultaat.</p>
+<p>Daarna kwamen de ideeën. Niet als voorspellingen, maar als vonken die iemand anders misschien zou oppakken.</p>
+<p>Het eerste noemde hij een API voor werk in de echte wereld.</p>
+<p>Miljoenen mensen zouden Dots om hulp vragen. Veel van die verzoeken bleven digitaal. Een document ordenen. Data analyseren. Software gebruiken. Maar andere opdrachten eindigden buiten het scherm: bij een gemeenteloket, in een magazijn, op een bouwplaats, in een haven.</p>
+<p>Daar moest iemand een inspectie doen. Een handtekening ophalen. Een dossier indienen. Een vergunning versnellen. Een container door de douane krijgen.</p>
+<p>Eisenberg zag een netwerk voor zich van gecontroleerde specialisten: vergunningbemiddelaars, douane-expediteurs, inspecteurs, lokale dienstverleners. De software zou de aanvraag naar de juiste vakman leiden; het platform zou een vergoeding ontvangen wanneer de opdracht slaagde.</p>
+<p>De digitale wereld mocht op een podiumpresentatie strak en wrijvingsloos lijken. De fysieke wereld bleef rommelig. Regels verschillen per gemeente. Documenten raken kwijt. Mensen reageren niet. Een inspecteur verschijnt niet. Juist in die laatste kilometer, waar een digitale opdracht een echt resultaat moet worden, lag volgens Eisenberg ruimte voor nieuwe bedrijven.</p>
+<p>Zijn tweede idee draaide om zichtbaarheid.</p>
+<p>Duizenden bedrijven zouden plug-ins gaan bouwen. En vroeg of laat zouden zij allemaal met dezelfde vraag zitten.</p>
+<p>“Hoe word ik in hemelsnaam zichtbaar binnen Dots?”</p>
+<p>Niet alleen binnen Dots. Ook binnen Muse, Gemini, Sparks — zoals Eisenberg Google’s platform noemde — Instinct en GrokBot. Sommige platforms hadden al plug-ins, andere nog niet. Maar hij verwachtte dat ze uiteindelijk allemaal een ecosysteem voor externe diensten zouden openen. Een persoonlijke agent zonder toegang tot gespecialiseerde toepassingen zou beperkt blijven.</p>
+<p>Zodra die ecosystemen groeiden, ontstond een nieuw probleem: hoe zorg je dat de agent juist jouw dienst kiest?</p>
+<p>Daar zag Eisenberg een nieuwe laag ontstaan: analyse en optimalisatie voor agentontdekking. Niet alleen een dashboard met kliks, maar software die realistische, indirecte prompts genereerde — de rommelige taal waarin echte mensen hun problemen formuleren. Software die mat welke plug-in werd geselecteerd, hoeveel activaties een dienst kreeg per klantintentie, waar metadata of gereedschapsbeschrijvingen tekortschoten en of een oproep werkelijk eindigde in een afgeronde taak.</p>
+<p>Elke wijziging aan een plug-in kon worden getest voordat zij omzet kostte.</p>
+<p>Het patroon was oud. Google Analytics had websites meetbaar gemaakt. Mixpanel en Amplitude hadden productteams laten zien waar gebruikers afhaakten en waar zij voor het eerst waarde vonden. AEO en GEO — optimalisatie voor antwoordmachines en generatieve zoekmachines — deden iets vergelijkbaars voor merken die zichtbaar wilden worden in AI-antwoorden.</p>
+<p>Eisenberg wees op Profound, dat volgens hem tegen een waardering van ongeveer één of twee miljard dollar geld had opgehaald. Een absurd bedrag, zei hij, maar niet zonder reden. Het bedrijf trok aandacht, maakte omzet en loste een echt probleem op.</p>
+<p>Toen liet hij de vraag vallen die boven deze nieuwe markt hing.</p>
+<p>“Wie wordt de Profound van het tijdperk van persoonlijke agenten?”</p>
+<p>Het was geen retorische versiering. Het was een haak in de lucht. Iemand zou die plek innemen. De vraag was alleen wie.</p>
+<p>Aan het einde van zijn betoog keerde Eisenberg terug naar de lange lijst van aankondigingen die hem die ochtend bijna had overweldigd. OpenAI had GPT-6.1 Sol gelanceerd, een grote verbetering ten opzichte van GPT-6 — indrukwekkend, maar ook het soort modelupgrade dat iedereen min of meer had verwacht.</p>
+<p>Er was UltraFast, dat volgens Eisenberg verbluffend snel was. Wie het probeerde, zou het voelen. Maar snelheid had een prijs: het model gebruikte ook aanzienlijk meer tokens.</p>
+<p>Er was Private Intelligence, gericht op bedrijven die aarzelden om geavanceerde AI te gebruiken omdat zij niet zeker wisten of hun gegevens werkelijk beschermd bleven. Die terughoudendheid was niet theoretisch. Voor veel ondernemingen was AI interessant totdat vertrouwelijke documenten, klantgegevens of interne strategieën het systeem in moesten. Codex Security Cloud hoorde bij dezelfde beweging: meer controle, meer afscherming, meer vertrouwen voor bedrijven die niet wilden gokken met hun data.</p>
+<p>En er was Spaces, OpenAI’s versie van online documenten en presentaties, een omgeving waarin mensen dia’s en teksten konden maken met een agent naast zich of midden in hun werk. Nuttig. Productiviteitsverhogend. Ongetwijfeld belangrijk.</p>
+<p>Maar voor Eisenbergs publiek — de mensen die op zichzelf wilden inzetten, de mensen met ideeën, de mensen die een bedrijf wilden bouwen — zat de echte verschuiving elders.</p>
+<p>In vier functies.</p>
+<p>Dots, de voordeur waar de vraag binnenkomt.</p>
+<p>Decisions API, die een beperkt aantal mogelijke routes afweegt en kiest.</p>
+<p>Agents API, die daadwerkelijk handelt in software.</p>
+<p>En Sign in with ChatGPT, dat de kern van een toepassing gratis kan maken omdat de maker niet langer zelf onmiddellijk voor iedere inference hoeft te betalen.</p>
+<p>De gebruiker zou steeds minder vaak hoeven na te denken over welke app hij moest openen, welke dienstverlener hij moest zoeken of welk formulier hij moest invullen.</p>
+<p>Hij zou alleen zeggen wat er gedaan moest worden.</p>
+<p>En ergens, achter die nieuwe voordeur, zou een bedrijf moeten zorgen dat het antwoord niet uit woorden bestond.</p>
+<p>Maar uit werk dat af was.</p>]]></content:encoded>
+    </item>
     <item>
       <title>De Machine die Niemand Moest Zien</title>
       <link>https://alexanderklopping.github.io/podcast-feeds/The Startup Ideas Podcast.xml#2026-09-29_The Startup Ideas Podcast__5T opportunity_ AI Roll Ups</link>
