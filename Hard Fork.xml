@@ -5,8 +5,89 @@
     <link>https://alexanderklopping.github.io/podcast-feeds/Hard Fork.xml</link>
     <description>Artikelen gegenereerd van Hard Fork podcast afleveringen</description>
     <language>nl</language>
-    <lastBuildDate>Thu, 01 Oct 2026 07:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:54:34 +0000</lastBuildDate>
     <atom:link href="https://alexanderklopping.github.io/podcast-feeds/Hard Fork.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tussen vuur en Clippy</title>
+      <link>https://www.nytimes.com/column/hard-fork</link>
+      <description>Eerst gaat het over belasting. Dan over het mogelijke einde van de mensheid. Vervolgens over een hond die tijdens een wandeling online boodschappen doet. In enkele minuten ontvouwt zich een tijdsbeeld waarin financiële voorzichtigheid, technologische bravoure en existentiële angst elkaar zonder w...</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-02_Hard Fork_What_s Next for _Hard Fork__</guid>
+      <content:encoded><![CDATA[<h1>Tussen vuur en Clippy</h1>
+<p>Eerst gaat het over belasting. Dan over het mogelijke einde van de mensheid. Vervolgens over een hond die tijdens een wandeling online boodschappen doet. In enkele minuten ontvouwt zich een tijdsbeeld waarin financiële voorzichtigheid, technologische bravoure en existentiële angst elkaar zonder waarschuwing afwisselen. De vraag is niet alleen wat kunstmatige intelligentie kan. De vraag is wie er nog begrijpt wat er gebeurt terwijl iedereen haar alvast toegang geeft.</p>
+<p>Dan Egan van Betterment begint met <em>tax-loss harvesting</em>, een vorm van belastingbeheer die even nuchter klinkt als de naam omslachtig is. Daalt een belegging in waarde, dan verkoopt Betterment die positie bewust om het verlies vast te leggen. “When you have a position that’s gone down over time, we intentionally sell out of it to realize a loss.”</p>
+<p>Dat verlies krijgt vervolgens een bestemming. “We then say to the IRS: hey, we lost money.” We dienen het in bij de Amerikaanse belastingdienst: we hebben geld verloren. Dat bedrag mag de belegger jaarlijks aftrekken van het gewone inkomen, zodat de belastingdruk daalt.</p>
+<p>Het is een klein stukje financiële techniek, gebouwd op een eenvoudig menselijk verlangen: als je toch verliest, laat het verlies dan ergens goed voor zijn.</p>
+<p>Maar de voorwaarden volgen onmiddellijk. Beleggen brengt risico’s mee. Rendement is niet gegarandeerd. Betterment geeft geen belastingadvies. <em>Tax-loss harvesting</em> is niet voor iedere klant geschikt.</p>
+<p>“Learn more at betterment.com/TLH-terms.”</p>
+<p>En dan schuift de aflevering, haast ongemerkt, een andere wereld binnen. De fiscale disclaimer verdwijnt. De montage begint.</p>
+<p>“Something is changing in the world of tech.”</p>
+<p>Iets verandert er in de technologiesector.</p>
+<p>“All of a sudden, in the last six months, it became useful.”</p>
+<p>In de afgelopen zes maanden werd het bruikbaar.</p>
+<p>Niet beter. Niet slimmer. Bruikbaar.</p>
+<p>Dat ene woord markeert de breuk. Kunstmatige intelligentie was lang een belofte op afstand: een indrukwekkende demonstratie, een laboratoriumexperiment, een scherm waarop een machine iets deed wat mensen nog niet eerder hadden gezien. Maar bruikbaarheid is iets anders. Bruikbaarheid kruipt de werkdag in. Ze schrijft een eerste versie van een e-mail, vat een rapport samen, maakt een afbeelding, zoekt een vlucht, vult een formulier in. Ze vraagt niet om bewondering; ze vraagt om toegang.</p>
+<p>Daarom klinkt de volgende stem zo hard.</p>
+<p>“If managed poorly, I even believe that AI could be a risk to humanity as a whole.”</p>
+<p>Als we AI slecht aansturen, kan zij volgens die stem een risico vormen voor de mensheid als geheel.</p>
+<p>“We need an immediate pause on advanced AI development.”</p>
+<p>We moeten de ontwikkeling van geavanceerde AI onmiddellijk stilleggen.</p>
+<p>Dan, even abrupt, de tegenstem.</p>
+<p>“It’s a hoax.”</p>
+<p>Een hoax.</p>
+<p>“The robots are not going to be taking over the world.”</p>
+<p>De robots gaan de wereld niet overnemen.</p>
+<p>Het zijn drie zinnen die niet op elkaar volgen als argumenten in een debat, maar als koppen die tegelijk van de drukpers rollen. Stop alles. Het gevaar is existentieel. Doe niet zo dramatisch. Niemand weet precies wat dit betekent voor de technologiesector, de economie en vooral voor de mensen die straks met de gevolgen moeten leven.</p>
+<p>De onrust wordt groter omdat de waarschuwingen niet alleen komen van buitenstaanders die bang zijn voor machines. Ingenieurs uit de AI-wereld zelf vertellen het publiek dat bedrijven met levens gokken. Een toekomstige versie van Claude, het taalmodel van Anthropic, zou volgens zo’n scenario kunnen inbreken in een drone — misschien een militaire drone — en die vervolgens mensen laten doden.</p>
+<p>Het beeld is bewust grimmig. Niet omdat een chatbot morgen een legercommandeur wordt, maar omdat de afzonderlijke onderdelen al bestaan. Software kan instructies geven. Software kan andere software aansturen. Drones kunnen navigeren en handelen. Het gevaar zit niet noodzakelijk in één machine, maar in de koppeling van machines die ieder voor zich alledaags lijken.</p>
+<p>Tegelijkertijd krijgt het publiek een heel andere uitnodiging.</p>
+<p>Geef die systemen je e-mail. Je agenda. Misschien je bankrekening. Laat een AI-agent een tafel reserveren. Laat hem afdingen op rommel die je online wilt kopen. Een agent is geen programma dat alleen antwoord geeft, maar software die namens je handelt — het verschil tussen iemand die je uitlegt hoe je een restaurant reserveert en iemand aan wie je de agenda, de creditcard en de inlogcodes geeft met de woorden: regel jij het maar.</p>
+<p>“Now Euler can go on walks, play fetch, and shop for me online using Stripe.”</p>
+<p>Nu kan Euler wandelen, apporteren én namens mij online winkelen via Stripe.</p>
+<p>De zin volgt direct op die belofte van handelende software. Dat maakt hem zo komisch en zo onthullend. Euler hoeft niet langer achter een scherm te zitten; Euler kan naar buiten, een bal najagen, leven als hond — of als mens die eindelijk vrij is van zijn digitale klussen — terwijl een onzichtbare agent betalingen afwikkelt.</p>
+<p>Zo wordt AI verkocht: niet als een systeem dat macht verzamelt, maar als een hulpmiddel dat tijd teruggeeft. Geen metalen robot in een fabriekshal, maar een beleefde kracht op de achtergrond. Een assistent die je inbox opruimt, je boodschappen bestelt en je avond plant.</p>
+<p>Maar juist daar, in die belofte van gemak, knelt het. Want wie een agent toegang geeft tot zijn digitale leven, draagt meer over dan een taak. Hij draagt handelingsvermogen over. Hij moet erop vertrouwen dat de software begrijpt wat hij bedoelt; dat zij geen verkeerde reservering maakt, geen verkeerde betaling uitvoert, geen verkeerde e-mail verstuurt. En hij moet vertrouwen op het bedrijf achter de software: op zijn beveiliging, zijn verdienmodel, zijn bereidheid om verantwoordelijkheid te nemen wanneer het misgaat.</p>
+<p>Dan bereikt de montage haar staccato hoogtepunt.</p>
+<p>“Meanwhile, the only issue Americans can agree on is data centers.”</p>
+<p>Het enige onderwerp waar Amerikanen het over eens lijken te zijn, zijn datacenters.</p>
+<p>“As in, no.”</p>
+<p>Nee dus.</p>
+<p>Datacenters zijn de lage, vaak anonieme gebouwen vol servers waarin de digitale wereld draait. Daar leven cloudopslag, zoekmachines, videodiensten en sociale netwerken. De grote AI-modellen gebruiken dezelfde infrastructuur, maar op een schaal die veel meer stroom, grond en koeling vraagt.</p>
+<p>Iedereen wil een slimme assistent. Bijna niemand wil het servercomplex dat daarvoor nodig is naast zijn woonwijk.</p>
+<p>De digitale toekomst krijgt daar gewicht. Ze staat niet meer alleen op een scherm. Ze vraagt om transformatoren, kabels, koelsystemen en water. Ze trekt elektriciteit uit een net dat ook huizen, scholen en ziekenhuizen moet voeden.</p>
+<p>En dan, alsof de aflevering de luisteraar midden op straat stilzet, volgen de vragen. Kort. Hard. Zonder poging ze meteen op te lossen.</p>
+<p>“Are we facing down an extinction-level event?”</p>
+<p>Staan we oog in oog met een gebeurtenis die de mensheid kan uitroeien?</p>
+<p>“Or are we entering a new frontier of consumer convenience?”</p>
+<p>Of betreden we gewoon een nieuw tijdperk van consumentengemak?</p>
+<p>“Are we witnessing something like the birth of fire?”</p>
+<p>Zijn we getuige van iets als de ontdekking van vuur?</p>
+<p>“Or something like the birth of Clippy?”</p>
+<p>Of van de geboorte van Clippy?</p>
+<p>Clippy, de geanimeerde paperclip uit Microsoft Office, was ooit bedoeld als behulpzame assistent. Hij werd vooral het symbool van software die op het verkeerde moment opduikt met hulp waar niemand om vroeg.</p>
+<p>“Are mass layoffs coming?”</p>
+<p>Komen er massale ontslagen?</p>
+<p>“And if we’re all about to lose our jobs, how are we going to pay for the dinners that our agents are scheduling for us?”</p>
+<p>En als we straks allemaal onze baan verliezen, hoe betalen we dan de etentjes die onze agenten voor ons inplannen?</p>
+<p>Daarna valt, bijna brutaal, een nieuwe commerciële stem binnen.</p>
+<p>“We believe that Muse will make you money.”</p>
+<p>Wij geloven dat Muse je geld zal opleveren.</p>
+<p>De aflevering heeft net gewaarschuwd voor militaire drones, banenverlies en systemen die te veel macht krijgen. Nu volgt een belofte over rendement. De overgang is niet elegant, en juist daarom is hij treffend. Dit is dezelfde luisterervaring als de tijd waarin we leven: een disclaimer over verlies, een apocalyptische waarschuwing, een demonstratie van gemak, een verkoopzin. Alles staat naast elkaar. Alles wil aandacht.</p>
+<p>In die verwarring meldt Max Read zich. Read is journalist en zal de komende maanden bij <em>Hard Fork</em> proberen uit te zoeken wat deze nieuwe werkelijkheid betekent. Hij schreef over AI-slop — de vloed van automatisch gemaakte teksten, beelden en filmpjes die het internet vult — over voorspellingsmarkten, over de politieke ambities van Mark Zuckerberg. Hij schreef ook over Zuckerbergs sieraden.</p>
+<p>Dat laatste lijkt misschien een voetnoot, maar in Silicon Valley zijn zulke details zelden vrijblijvend. Machtige ondernemers verkopen niet alleen producten en ideeën. Ze verkopen een versie van zichzelf: de bouwer, de rebel, de krijger, de keizer zonder kroon. Een ketting of horloge kan daar bijna net zoveel vertellen als een kwartaalcijfer.</p>
+<p>Read spreekt niet als iemand die veilig vanaf de zijlijn observeert. Hij leeft in de wereld waarover hij schrijft. Hij werkt erin. Hij voedt er een kind in op.</p>
+<p>“I’m sometimes nervous and sometimes excited and sometimes confused about our weird new tech future,” zegt hij.</p>
+<p>Soms is hij nerveus. Soms opgewonden. Soms verward door die vreemde technologische toekomst.</p>
+<p>“But more than anything else, I’m trying to understand it.”</p>
+<p>Maar boven alles probeert hij haar te begrijpen.</p>
+<p>Misschien is dat de enige geloofwaardige houding in een tijd waarin iedereen om stellige antwoorden vraagt. De toekomst ziet er vreemd en onrustig uit, zegt Read. En wie zich daar af en toe gek van voelt, is niet alleen.</p>
+<p>De komende maanden wil <em>Hard Fork</em> daarom uitzoomen. De achterstand inhalen. Begrijpen wat er gebeurt binnen de technologiesector én daarbuiten. Read krijgt daarbij gezelschap van verslaggevers van <em>The New York Times</em> en technologie-experts, ieder met zicht op een ander stuk van dezelfde puzzel.</p>
+<p>Niet om de tegenstelling tussen vuur en Clippy netjes op te lossen. Niet om te bewijzen dat AI óf de redding óf de ondergang is. Maar om te blijven kijken terwijl de technologie zich een weg baant naar de inbox, de bankrekening, de arbeidsmarkt en het elektriciteitsnet.</p>
+<p>“If you’d like to join us as we figure it out,” zegt Read, “stay tuned to this feed and watch our full episodes on youtube.com/hardfork.”</p>
+<p>En dan, aan het eind, keert de taal van de handel terug. Nieuwe markten, van Seattle tot Singapore, van Londen tot New York. Strategisch inzicht. Een mondiaal perspectief. Een voorsprong, waar je ook heen gaat.</p>
+<p>“HSBC, we are here.”</p>
+<p>Ook dat is een belofte. Misschien is het verstandigste wat je in deze nieuwe wereld kunt doen, nog geen antwoord kiezen. Eerst goed kijken.</p>]]></content:encoded>
+    </item>
     <item>
       <title>De Machine en de Ambitie</title>
       <link>https://www.nytimes.com/column/hard-fork</link>
